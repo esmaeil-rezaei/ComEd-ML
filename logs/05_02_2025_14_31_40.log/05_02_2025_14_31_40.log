@@ -1,0 +1,73 @@
+[ 2025-05-02 14:31:42,963 ] 238 root - INFO - PCA shrinked data from (744, 26463) to (744, 8)
+[ 2025-05-02 14:31:43,126 ] 246 root - INFO - RBD shrinked data from (744, 26463) to (744, 8)
+[ 2025-05-02 14:31:43,136 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-05-02 14:31:43,136 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-05-02 14:31:43,136 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-05-02 14:31:43,599 ] 238 root - INFO - PCA shrinked data from (744, 7354) to (744, 8)
+[ 2025-05-02 14:31:43,639 ] 246 root - INFO - RBD shrinked data from (744, 7354) to (744, 8)
+[ 2025-05-02 14:31:43,642 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-05-02 14:31:43,642 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-05-02 14:31:43,642 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-05-02 14:31:44,190 ] 238 root - INFO - PCA shrinked data from (744, 8621) to (744, 8)
+[ 2025-05-02 14:31:44,237 ] 246 root - INFO - RBD shrinked data from (744, 8621) to (744, 8)
+[ 2025-05-02 14:31:44,241 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-05-02 14:31:44,241 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-05-02 14:31:44,241 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-05-02 14:31:46,243 ] 238 root - INFO - PCA shrinked data from (744, 26124) to (744, 8)
+[ 2025-05-02 14:31:46,394 ] 246 root - INFO - RBD shrinked data from (744, 26124) to (744, 8)
+[ 2025-05-02 14:31:46,405 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-05-02 14:31:46,405 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-05-02 14:31:46,405 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-05-02 14:31:46,436 ] 238 root - INFO - PCA shrinked data from (744, 425) to (744, 8)
+[ 2025-05-02 14:31:46,437 ] 246 root - INFO - RBD shrinked data from (744, 425) to (744, 8)
+[ 2025-05-02 14:31:46,438 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-05-02 14:31:46,438 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-05-02 14:31:46,438 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-05-02 14:31:46,496 ] 238 root - INFO - PCA shrinked data from (744, 671) to (744, 8)
+[ 2025-05-02 14:31:46,497 ] 246 root - INFO - RBD shrinked data from (744, 671) to (744, 8)
+[ 2025-05-02 14:31:46,498 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-05-02 14:31:46,498 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-05-02 14:31:46,498 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-05-02 14:31:46,636 ] 238 root - INFO - PCA shrinked data from (744, 1993) to (744, 8)
+[ 2025-05-02 14:31:46,640 ] 246 root - INFO - RBD shrinked data from (744, 1993) to (744, 8)
+[ 2025-05-02 14:31:46,643 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-05-02 14:31:46,643 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-05-02 14:31:46,643 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-05-02 14:31:47,248 ] 238 root - INFO - PCA shrinked data from (744, 9061) to (744, 8)
+[ 2025-05-02 14:31:47,295 ] 246 root - INFO - RBD shrinked data from (744, 9061) to (744, 8)
+[ 2025-05-02 14:31:47,302 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-05-02 14:31:47,302 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-05-02 14:31:47,302 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-05-02 14:31:47,400 ] 238 root - INFO - PCA shrinked data from (744, 1087) to (744, 8)
+[ 2025-05-02 14:31:47,403 ] 246 root - INFO - RBD shrinked data from (744, 1087) to (744, 8)
+[ 2025-05-02 14:31:47,403 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-05-02 14:31:47,403 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-05-02 14:31:47,403 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-05-02 14:31:47,835 ] 238 root - INFO - PCA shrinked data from (744, 6889) to (744, 8)
+[ 2025-05-02 14:31:47,870 ] 246 root - INFO - RBD shrinked data from (744, 6889) to (744, 8)
+[ 2025-05-02 14:31:47,873 ] 202 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-05-02 14:31:47,873 ] 205 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-05-02 14:31:47,873 ] 208 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-05-02 14:31:47,875 ] 141 root - INFO - All zipcode data shrinked.
+[ 2025-05-02 14:31:47,879 ] 148 root - INFO - Formed RMA by PCA reduced from (744, 80) to (744, 8)
+[ 2025-05-02 14:31:47,879 ] 155 root - INFO - Formed RMA by RBD reduced from (744, 80) to (744, 8)
+[ 2025-05-02 14:31:47,880 ] 163 root - INFO - Formed CBA by PCA reduced from (744, 10) to (744, 8)
+[ 2025-05-02 14:31:47,880 ] 169 root - INFO - Formed AMA reduced from (744, 10) to (744, 1)
+[ 2025-05-02 14:31:47,888 ] 72 root - INFO - Input data for ML created.
+[ 2025-05-02 14:31:47,888 ] 78 root - INFO - Input data concatenated with the output for ML.
+[ 2025-05-02 14:31:47,888 ] 97 root - INFO - Data split into training and testing sets.
+[ 2025-05-02 14:31:47,888 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-02 14:31:47,888 ] 164 root - INFO - Numerical columns: [0 1 2]
+[ 2025-05-02 14:31:47,890 ] 47 root - INFO - Preprocessing pipeline done for ama
+[ 2025-05-02 14:31:47,890 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-02 14:31:47,890 ] 164 root - INFO - Numerical columns: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23]
+[ 2025-05-02 14:31:47,892 ] 57 root - INFO - Preprocessing pipeline done for cba
+[ 2025-05-02 14:31:47,892 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-02 14:31:47,892 ] 164 root - INFO - Numerical columns: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23]
+[ 2025-05-02 14:31:47,894 ] 67 root - INFO - Preprocessing pipeline done for rma_pca
+[ 2025-05-02 14:31:47,894 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-02 14:31:47,894 ] 164 root - INFO - Numerical columns: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23]
+[ 2025-05-02 14:31:47,896 ] 77 root - INFO - Preprocessing pipeline done for rma_rbd
+[ 2025-05-02 14:31:47,898 ] 96 root - INFO - Saved preprocessing object.
+[ 2025-05-02 14:31:47,898 ] 32 root - INFO - Split training and test input data
+[ 2025-05-02 14:31:47,902 ] 116 root - INFO - Best found model on both training and testing dataset

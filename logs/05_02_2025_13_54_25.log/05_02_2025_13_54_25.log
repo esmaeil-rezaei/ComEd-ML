@@ -1,0 +1,1 @@
+[ 2025-05-02 13:54:26,841 ] 78 root - ERROR - Error in TrainStrategiesModel: Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd/src/pipelines/train_pipeline.py] line number [40] error message[DataTransformation.__init__() got an unexpected keyword argument 'ml_model_name']
