@@ -20,7 +20,7 @@ from src.utils import save_object, evaluate_models
 
 
 class ModelTrainer:
-    def __init__(self, strategy_name: str, ml_models_name: dict):
+    def __init__(self, strategy_name: str, ml_models_name: set):
         self.trained_model_file_path = os.path.join(
             "artifacts", f"model_{strategy_name}.pkl"
         )
@@ -105,10 +105,10 @@ class ModelTrainer:
 
             ## To get best model name from dict
 
-            best_strategy_name = list(model_report.keys())[
+            best_model_name = list(model_report.keys())[
                 list(model_report.values()).index(best_model_score)
             ]
-            best_model = models[best_strategy_name]
+            best_model = models[best_model_name]
 
             if best_model_score < 0.6:
                 logging.warning("No best model found")
@@ -118,6 +118,7 @@ class ModelTrainer:
             save_object(
                 file_path=self.trained_model_file_path,
                 obj={
+                    "best_model_name": best_model_name,
                     "best_model": best_model,
                     f"X_train_{self.strategy_name}": X_train,
                     f"X_test_{self.strategy_name}": X_test,
@@ -129,7 +130,7 @@ class ModelTrainer:
             predicted = best_model.predict(X_test)
 
             r2_square = r2_score(y_test, predicted)
-            return r2_square
+            return r2_square, best_model_name
 
         except Exception as e:
             custom_error = CustomException(e, sys)

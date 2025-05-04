@@ -1,0 +1,1 @@
+[ 2025-05-04 00:07:54,545 ] 319 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-Project/src/utils.py] line number [315] error message[operands could not be broadcast together with shapes (295,60) (74,) ]

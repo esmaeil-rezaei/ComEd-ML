@@ -40,7 +40,7 @@ class DataPipeline:
                 train_ama,
                 test_ama,
                 preprocessing_obj_ama,
-            ) = self.initiate_data_single_pipeline(
+            ) = self._initiate_data_single_pipeline(
                 train_data=train_ama,
                 test_data=test_ama,
             )
@@ -50,7 +50,7 @@ class DataPipeline:
                 train_cba,
                 test_cba,
                 preprocessing_obj_cba,
-            ) = self.initiate_data_single_pipeline(
+            ) = self._initiate_data_single_pipeline(
                 train_data=train_cba,
                 test_data=test_cba,
             )
@@ -60,7 +60,7 @@ class DataPipeline:
                 train_rma_pca,
                 test_rma_pca,
                 preprocessing_obj_rma_pca,
-            ) = self.initiate_data_single_pipeline(
+            ) = self._initiate_data_single_pipeline(
                 train_data=train_rma_pca,
                 test_data=test_rma_pca,
             )
@@ -70,7 +70,7 @@ class DataPipeline:
                 train_rma_rbd,
                 test_rma_rbd,
                 preprocessing_obj_rma_rbd,
-            ) = self.initiate_data_single_pipeline(
+            ) = self._initiate_data_single_pipeline(
                 train_data=train_rma_rbd,
                 test_data=test_rma_rbd,
             )
@@ -110,9 +110,9 @@ class DataPipeline:
             logging.error(f"Error in initiate_data_all_pipelines: {custom_error}")
             raise custom_error
 
-    def initiate_data_single_pipeline(self, train_data, test_data):
+    def _initiate_data_single_pipeline(self, train_data, test_data):
         try:
-            preprocessing_obj = self.get_data_pipeline_object(train_data)
+            preprocessing_obj = self._get_data_pipeline_object(train_data)
 
             input_train_data = train_data[:, :-1]
             target_train_data = train_data[:, -1]
@@ -136,7 +136,7 @@ class DataPipeline:
             custom_error = CustomException(e, sys)
             logging.error(f"Error in initiate_data_pipeline: {custom_error}")
 
-    def get_data_pipeline_object(self, data: np.ndarray):
+    def _get_data_pipeline_object(self, data: np.ndarray):
         """
         This function is responsible for data trnasformation
 

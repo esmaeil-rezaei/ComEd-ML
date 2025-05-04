@@ -1,0 +1,1133 @@
+[ 2025-05-04 02:11:40,056 ] 245 root - INFO - PCA shrinked data from (372, 10443) to (372, 20)
+[ 2025-05-04 02:11:40,127 ] 255 root - INFO - RBD shrinked data from (372, 10443) to (372, 20)
+[ 2025-05-04 02:11:40,131 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60108.npy
+[ 2025-05-04 02:11:40,131 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60108.npy
+[ 2025-05-04 02:11:40,131 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60108.npy
+[ 2025-05-04 02:11:40,801 ] 245 root - INFO - PCA shrinked data from (372, 19924) to (372, 20)
+[ 2025-05-04 02:11:40,918 ] 255 root - INFO - RBD shrinked data from (372, 19924) to (372, 20)
+[ 2025-05-04 02:11:40,924 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60120.npy
+[ 2025-05-04 02:11:40,924 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60120.npy
+[ 2025-05-04 02:11:40,924 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60120.npy
+[ 2025-05-04 02:11:41,252 ] 245 root - INFO - PCA shrinked data from (372, 11932) to (372, 20)
+[ 2025-05-04 02:11:41,315 ] 255 root - INFO - RBD shrinked data from (372, 11932) to (372, 20)
+[ 2025-05-04 02:11:41,319 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60646.npy
+[ 2025-05-04 02:11:41,319 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60646.npy
+[ 2025-05-04 02:11:41,319 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60646.npy
+[ 2025-05-04 02:11:41,700 ] 245 root - INFO - PCA shrinked data from (372, 13739) to (372, 20)
+[ 2025-05-04 02:11:41,779 ] 255 root - INFO - RBD shrinked data from (372, 13739) to (372, 20)
+[ 2025-05-04 02:11:41,783 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60652.npy
+[ 2025-05-04 02:11:41,783 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60652.npy
+[ 2025-05-04 02:11:41,783 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60652.npy
+[ 2025-05-04 02:11:41,866 ] 245 root - INFO - PCA shrinked data from (372, 2733) to (372, 20)
+[ 2025-05-04 02:11:41,872 ] 255 root - INFO - RBD shrinked data from (372, 2733) to (372, 20)
+[ 2025-05-04 02:11:41,874 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60134.npy
+[ 2025-05-04 02:11:41,874 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60134.npy
+[ 2025-05-04 02:11:41,874 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60134.npy
+[ 2025-05-04 02:11:41,902 ] 245 root - INFO - PCA shrinked data from (372, 696) to (372, 20)
+[ 2025-05-04 02:11:41,904 ] 255 root - INFO - RBD shrinked data from (372, 696) to (372, 20)
+[ 2025-05-04 02:11:41,904 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60487.npy
+[ 2025-05-04 02:11:41,904 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60487.npy
+[ 2025-05-04 02:11:41,904 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60487.npy
+[ 2025-05-04 02:11:42,073 ] 245 root - INFO - PCA shrinked data from (372, 6021) to (372, 20)
+[ 2025-05-04 02:11:42,097 ] 255 root - INFO - RBD shrinked data from (372, 6021) to (372, 20)
+[ 2025-05-04 02:11:42,099 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60478.npy
+[ 2025-05-04 02:11:42,099 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60478.npy
+[ 2025-05-04 02:11:42,099 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60478.npy
+[ 2025-05-04 02:11:42,103 ] 245 root - INFO - PCA shrinked data from (372, 89) to (372, 20)
+[ 2025-05-04 02:11:42,104 ] 255 root - INFO - RBD shrinked data from (372, 89) to (372, 20)
+[ 2025-05-04 02:11:42,104 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61014.npy
+[ 2025-05-04 02:11:42,104 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61014.npy
+[ 2025-05-04 02:11:42,104 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61014.npy
+[ 2025-05-04 02:11:42,135 ] 245 root - INFO - PCA shrinked data from (372, 811) to (372, 20)
+[ 2025-05-04 02:11:42,137 ] 255 root - INFO - RBD shrinked data from (372, 811) to (372, 20)
+[ 2025-05-04 02:11:42,137 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60444.npy
+[ 2025-05-04 02:11:42,137 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60444.npy
+[ 2025-05-04 02:11:42,137 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60444.npy
+[ 2025-05-04 02:11:42,140 ] 245 root - INFO - PCA shrinked data from (372, 22) to (372, 20)
+[ 2025-05-04 02:11:42,141 ] 255 root - INFO - RBD shrinked data from (372, 22) to (372, 20)
+[ 2025-05-04 02:11:42,141 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61028.npy
+[ 2025-05-04 02:11:42,141 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61028.npy
+[ 2025-05-04 02:11:42,141 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61028.npy
+[ 2025-05-04 02:11:42,426 ] 245 root - INFO - PCA shrinked data from (372, 10197) to (372, 20)
+[ 2025-05-04 02:11:42,476 ] 255 root - INFO - RBD shrinked data from (372, 10197) to (372, 20)
+[ 2025-05-04 02:11:42,479 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60450.npy
+[ 2025-05-04 02:11:42,479 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60450.npy
+[ 2025-05-04 02:11:42,479 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60450.npy
+[ 2025-05-04 02:11:42,524 ] 245 root - INFO - PCA shrinked data from (372, 1424) to (372, 20)
+[ 2025-05-04 02:11:42,527 ] 255 root - INFO - RBD shrinked data from (372, 1424) to (372, 20)
+[ 2025-05-04 02:11:42,528 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60518.npy
+[ 2025-05-04 02:11:42,528 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60518.npy
+[ 2025-05-04 02:11:42,528 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60518.npy
+[ 2025-05-04 02:11:42,539 ] 245 root - INFO - PCA shrinked data from (372, 257) to (372, 20)
+[ 2025-05-04 02:11:42,540 ] 255 root - INFO - RBD shrinked data from (372, 257) to (372, 20)
+[ 2025-05-04 02:11:42,540 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60530.npy
+[ 2025-05-04 02:11:42,540 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60530.npy
+[ 2025-05-04 02:11:42,540 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60530.npy
+[ 2025-05-04 02:11:42,686 ] 245 root - INFO - PCA shrinked data from (372, 5322) to (372, 20)
+[ 2025-05-04 02:11:42,699 ] 255 root - INFO - RBD shrinked data from (372, 5322) to (372, 20)
+[ 2025-05-04 02:11:42,702 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60915.npy
+[ 2025-05-04 02:11:42,702 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60915.npy
+[ 2025-05-04 02:11:42,702 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60915.npy
+[ 2025-05-04 02:11:43,135 ] 245 root - INFO - PCA shrinked data from (372, 15079) to (372, 20)
+[ 2025-05-04 02:11:43,218 ] 255 root - INFO - RBD shrinked data from (372, 15079) to (372, 20)
+[ 2025-05-04 02:11:43,224 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60901.npy
+[ 2025-05-04 02:11:43,224 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60901.npy
+[ 2025-05-04 02:11:43,224 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60901.npy
+[ 2025-05-04 02:11:43,358 ] 245 root - INFO - PCA shrinked data from (372, 4738) to (372, 20)
+[ 2025-05-04 02:11:43,368 ] 255 root - INFO - RBD shrinked data from (372, 4738) to (372, 20)
+[ 2025-05-04 02:11:43,371 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60097.npy
+[ 2025-05-04 02:11:43,371 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60097.npy
+[ 2025-05-04 02:11:43,371 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60097.npy
+[ 2025-05-04 02:11:43,459 ] 245 root - INFO - PCA shrinked data from (372, 3034) to (372, 20)
+[ 2025-05-04 02:11:43,466 ] 255 root - INFO - RBD shrinked data from (372, 3034) to (372, 20)
+[ 2025-05-04 02:11:43,467 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60083.npy
+[ 2025-05-04 02:11:43,467 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60083.npy
+[ 2025-05-04 02:11:43,467 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60083.npy
+[ 2025-05-04 02:11:43,942 ] 245 root - INFO - PCA shrinked data from (372, 16087) to (372, 20)
+[ 2025-05-04 02:11:44,045 ] 255 root - INFO - RBD shrinked data from (372, 16087) to (372, 20)
+[ 2025-05-04 02:11:44,053 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60068.npy
+[ 2025-05-04 02:11:44,053 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60068.npy
+[ 2025-05-04 02:11:44,053 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60068.npy
+[ 2025-05-04 02:11:44,090 ] 245 root - INFO - PCA shrinked data from (372, 912) to (372, 20)
+[ 2025-05-04 02:11:44,093 ] 255 root - INFO - RBD shrinked data from (372, 912) to (372, 20)
+[ 2025-05-04 02:11:44,093 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61376.npy
+[ 2025-05-04 02:11:44,093 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61376.npy
+[ 2025-05-04 02:11:44,093 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61376.npy
+[ 2025-05-04 02:11:44,164 ] 245 root - INFO - PCA shrinked data from (372, 2266) to (372, 20)
+[ 2025-05-04 02:11:44,170 ] 255 root - INFO - RBD shrinked data from (372, 2266) to (372, 20)
+[ 2025-05-04 02:11:44,171 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60040.npy
+[ 2025-05-04 02:11:44,171 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60040.npy
+[ 2025-05-04 02:11:44,171 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60040.npy
+[ 2025-05-04 02:11:44,291 ] 245 root - INFO - PCA shrinked data from (372, 4281) to (372, 20)
+[ 2025-05-04 02:11:44,301 ] 255 root - INFO - RBD shrinked data from (372, 4281) to (372, 20)
+[ 2025-05-04 02:11:44,302 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60041.npy
+[ 2025-05-04 02:11:44,302 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60041.npy
+[ 2025-05-04 02:11:44,302 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60041.npy
+[ 2025-05-04 02:11:44,331 ] 245 root - INFO - PCA shrinked data from (372, 694) to (372, 20)
+[ 2025-05-04 02:11:44,333 ] 255 root - INFO - RBD shrinked data from (372, 694) to (372, 20)
+[ 2025-05-04 02:11:44,333 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61377.npy
+[ 2025-05-04 02:11:44,333 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61377.npy
+[ 2025-05-04 02:11:44,333 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61377.npy
+[ 2025-05-04 02:11:44,436 ] 245 root - INFO - PCA shrinked data from (372, 3583) to (372, 20)
+[ 2025-05-04 02:11:44,444 ] 255 root - INFO - RBD shrinked data from (372, 3583) to (372, 20)
+[ 2025-05-04 02:11:44,445 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60069.npy
+[ 2025-05-04 02:11:44,445 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60069.npy
+[ 2025-05-04 02:11:44,445 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60069.npy
+[ 2025-05-04 02:11:44,531 ] 245 root - INFO - PCA shrinked data from (372, 2841) to (372, 20)
+[ 2025-05-04 02:11:44,537 ] 255 root - INFO - RBD shrinked data from (372, 2841) to (372, 20)
+[ 2025-05-04 02:11:44,538 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60096.npy
+[ 2025-05-04 02:11:44,538 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60096.npy
+[ 2025-05-04 02:11:44,538 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60096.npy
+[ 2025-05-04 02:11:44,877 ] 245 root - INFO - PCA shrinked data from (372, 12084) to (372, 20)
+[ 2025-05-04 02:11:44,941 ] 255 root - INFO - RBD shrinked data from (372, 12084) to (372, 20)
+[ 2025-05-04 02:11:44,945 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60914.npy
+[ 2025-05-04 02:11:44,945 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60914.npy
+[ 2025-05-04 02:11:44,945 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60914.npy
+[ 2025-05-04 02:11:45,388 ] 245 root - INFO - PCA shrinked data from (372, 15154) to (372, 20)
+[ 2025-05-04 02:11:45,472 ] 255 root - INFO - RBD shrinked data from (372, 15154) to (372, 20)
+[ 2025-05-04 02:11:45,477 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60525.npy
+[ 2025-05-04 02:11:45,477 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60525.npy
+[ 2025-05-04 02:11:45,477 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60525.npy
+[ 2025-05-04 02:11:45,510 ] 245 root - INFO - PCA shrinked data from (372, 861) to (372, 20)
+[ 2025-05-04 02:11:45,513 ] 255 root - INFO - RBD shrinked data from (372, 861) to (372, 20)
+[ 2025-05-04 02:11:45,513 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60531.npy
+[ 2025-05-04 02:11:45,513 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60531.npy
+[ 2025-05-04 02:11:45,513 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60531.npy
+[ 2025-05-04 02:11:45,514 ] 245 root - INFO - PCA shrinked data from (372, 27) to (372, 20)
+[ 2025-05-04 02:11:45,515 ] 255 root - INFO - RBD shrinked data from (372, 27) to (372, 20)
+[ 2025-05-04 02:11:45,515 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60519.npy
+[ 2025-05-04 02:11:45,515 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60519.npy
+[ 2025-05-04 02:11:45,515 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60519.npy
+[ 2025-05-04 02:11:45,923 ] 245 root - INFO - PCA shrinked data from (372, 14312) to (372, 20)
+[ 2025-05-04 02:11:45,997 ] 255 root - INFO - RBD shrinked data from (372, 14312) to (372, 20)
+[ 2025-05-04 02:11:46,002 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60451.npy
+[ 2025-05-04 02:11:46,002 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60451.npy
+[ 2025-05-04 02:11:46,002 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60451.npy
+[ 2025-05-04 02:11:46,322 ] 245 root - INFO - PCA shrinked data from (372, 11443) to (372, 20)
+[ 2025-05-04 02:11:46,390 ] 255 root - INFO - RBD shrinked data from (372, 11443) to (372, 20)
+[ 2025-05-04 02:11:46,395 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60445.npy
+[ 2025-05-04 02:11:46,395 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60445.npy
+[ 2025-05-04 02:11:46,395 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60445.npy
+[ 2025-05-04 02:11:46,414 ] 245 root - INFO - PCA shrinked data from (372, 420) to (372, 20)
+[ 2025-05-04 02:11:46,416 ] 255 root - INFO - RBD shrinked data from (372, 420) to (372, 20)
+[ 2025-05-04 02:11:46,416 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61015.npy
+[ 2025-05-04 02:11:46,416 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61015.npy
+[ 2025-05-04 02:11:46,416 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61015.npy
+[ 2025-05-04 02:11:46,430 ] 245 root - INFO - PCA shrinked data from (372, 306) to (372, 20)
+[ 2025-05-04 02:11:46,432 ] 255 root - INFO - RBD shrinked data from (372, 306) to (372, 20)
+[ 2025-05-04 02:11:46,432 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60479.npy
+[ 2025-05-04 02:11:46,432 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60479.npy
+[ 2025-05-04 02:11:46,432 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60479.npy
+[ 2025-05-04 02:11:46,442 ] 245 root - INFO - PCA shrinked data from (372, 259) to (372, 20)
+[ 2025-05-04 02:11:46,444 ] 255 root - INFO - RBD shrinked data from (372, 259) to (372, 20)
+[ 2025-05-04 02:11:46,444 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61001.npy
+[ 2025-05-04 02:11:46,444 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61001.npy
+[ 2025-05-04 02:11:46,444 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61001.npy
+[ 2025-05-04 02:11:46,968 ] 245 root - INFO - PCA shrinked data from (372, 17073) to (372, 20)
+[ 2025-05-04 02:11:47,064 ] 255 root - INFO - RBD shrinked data from (372, 17073) to (372, 20)
+[ 2025-05-04 02:11:47,069 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60653.npy
+[ 2025-05-04 02:11:47,070 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60653.npy
+[ 2025-05-04 02:11:47,070 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60653.npy
+[ 2025-05-04 02:11:47,159 ] 245 root - INFO - PCA shrinked data from (372, 3012) to (372, 20)
+[ 2025-05-04 02:11:47,165 ] 255 root - INFO - RBD shrinked data from (372, 3012) to (372, 20)
+[ 2025-05-04 02:11:47,166 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60135.npy
+[ 2025-05-04 02:11:47,167 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60135.npy
+[ 2025-05-04 02:11:47,167 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60135.npy
+[ 2025-05-04 02:11:48,850 ] 245 root - INFO - PCA shrinked data from (372, 43075) to (372, 20)
+[ 2025-05-04 02:11:49,101 ] 255 root - INFO - RBD shrinked data from (372, 43075) to (372, 20)
+[ 2025-05-04 02:11:49,116 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60647.npy
+[ 2025-05-04 02:11:49,117 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60647.npy
+[ 2025-05-04 02:11:49,117 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60647.npy
+[ 2025-05-04 02:11:49,129 ] 245 root - INFO - PCA shrinked data from (372, 275) to (372, 20)
+[ 2025-05-04 02:11:49,130 ] 255 root - INFO - RBD shrinked data from (372, 275) to (372, 20)
+[ 2025-05-04 02:11:49,130 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60109.npy
+[ 2025-05-04 02:11:49,130 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60109.npy
+[ 2025-05-04 02:11:49,130 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60109.npy
+[ 2025-05-04 02:11:49,587 ] 245 root - INFO - PCA shrinked data from (372, 16165) to (372, 20)
+[ 2025-05-04 02:11:49,677 ] 255 root - INFO - RBD shrinked data from (372, 16165) to (372, 20)
+[ 2025-05-04 02:11:49,681 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60137.npy
+[ 2025-05-04 02:11:49,681 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60137.npy
+[ 2025-05-04 02:11:49,681 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60137.npy
+[ 2025-05-04 02:11:50,401 ] 245 root - INFO - PCA shrinked data from (372, 22667) to (372, 20)
+[ 2025-05-04 02:11:50,534 ] 255 root - INFO - RBD shrinked data from (372, 22667) to (372, 20)
+[ 2025-05-04 02:11:50,541 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60651.npy
+[ 2025-05-04 02:11:50,541 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60651.npy
+[ 2025-05-04 02:11:50,541 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60651.npy
+[ 2025-05-04 02:11:51,179 ] 245 root - INFO - PCA shrinked data from (372, 19294) to (372, 20)
+[ 2025-05-04 02:11:51,290 ] 255 root - INFO - RBD shrinked data from (372, 19294) to (372, 20)
+[ 2025-05-04 02:11:51,296 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60645.npy
+[ 2025-05-04 02:11:51,296 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60645.npy
+[ 2025-05-04 02:11:51,296 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60645.npy
+[ 2025-05-04 02:11:52,045 ] 245 root - INFO - PCA shrinked data from (372, 22593) to (372, 20)
+[ 2025-05-04 02:11:52,173 ] 255 root - INFO - RBD shrinked data from (372, 22593) to (372, 20)
+[ 2025-05-04 02:11:52,182 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60123.npy
+[ 2025-05-04 02:11:52,182 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60123.npy
+[ 2025-05-04 02:11:52,182 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60123.npy
+[ 2025-05-04 02:11:52,368 ] 245 root - INFO - PCA shrinked data from (372, 6695) to (372, 20)
+[ 2025-05-04 02:11:52,387 ] 255 root - INFO - RBD shrinked data from (372, 6695) to (372, 20)
+[ 2025-05-04 02:11:52,391 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60490.npy
+[ 2025-05-04 02:11:52,391 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60490.npy
+[ 2025-05-04 02:11:52,391 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60490.npy
+[ 2025-05-04 02:11:52,413 ] 245 root - INFO - PCA shrinked data from (372, 465) to (372, 20)
+[ 2025-05-04 02:11:52,414 ] 255 root - INFO - RBD shrinked data from (372, 465) to (372, 20)
+[ 2025-05-04 02:11:52,414 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60484.npy
+[ 2025-05-04 02:11:52,415 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60484.npy
+[ 2025-05-04 02:11:52,415 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60484.npy
+[ 2025-05-04 02:11:53,274 ] 245 root - INFO - PCA shrinked data from (372, 25014) to (372, 20)
+[ 2025-05-04 02:11:53,415 ] 255 root - INFO - RBD shrinked data from (372, 25014) to (372, 20)
+[ 2025-05-04 02:11:53,423 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60453.npy
+[ 2025-05-04 02:11:53,423 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60453.npy
+[ 2025-05-04 02:11:53,423 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60453.npy
+[ 2025-05-04 02:11:53,576 ] 245 root - INFO - PCA shrinked data from (372, 5646) to (372, 20)
+[ 2025-05-04 02:11:53,590 ] 255 root - INFO - RBD shrinked data from (372, 5646) to (372, 20)
+[ 2025-05-04 02:11:53,592 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60447.npy
+[ 2025-05-04 02:11:53,592 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60447.npy
+[ 2025-05-04 02:11:53,592 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60447.npy
+[ 2025-05-04 02:11:53,766 ] 245 root - INFO - PCA shrinked data from (372, 6539) to (372, 20)
+[ 2025-05-04 02:11:53,784 ] 255 root - INFO - RBD shrinked data from (372, 6539) to (372, 20)
+[ 2025-05-04 02:11:53,786 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60527.npy
+[ 2025-05-04 02:11:53,786 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60527.npy
+[ 2025-05-04 02:11:53,786 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60527.npy
+[ 2025-05-04 02:11:53,788 ] 245 root - INFO - PCA shrinked data from (372, 26) to (372, 20)
+[ 2025-05-04 02:11:53,789 ] 255 root - INFO - RBD shrinked data from (372, 26) to (372, 20)
+[ 2025-05-04 02:11:53,789 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60080.npy
+[ 2025-05-04 02:11:53,789 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60080.npy
+[ 2025-05-04 02:11:53,789 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60080.npy
+[ 2025-05-04 02:11:53,821 ] 245 root - INFO - PCA shrinked data from (372, 893) to (372, 20)
+[ 2025-05-04 02:11:53,823 ] 255 root - INFO - RBD shrinked data from (372, 893) to (372, 20)
+[ 2025-05-04 02:11:53,823 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60043.npy
+[ 2025-05-04 02:11:53,823 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60043.npy
+[ 2025-05-04 02:11:53,823 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60043.npy
+[ 2025-05-04 02:11:53,839 ] 245 root - INFO - PCA shrinked data from (372, 357) to (372, 20)
+[ 2025-05-04 02:11:53,841 ] 255 root - INFO - RBD shrinked data from (372, 357) to (372, 20)
+[ 2025-05-04 02:11:53,841 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61349.npy
+[ 2025-05-04 02:11:53,841 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61349.npy
+[ 2025-05-04 02:11:53,841 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61349.npy
+[ 2025-05-04 02:11:53,845 ] 245 root - INFO - PCA shrinked data from (372, 109) to (372, 20)
+[ 2025-05-04 02:11:53,846 ] 255 root - INFO - RBD shrinked data from (372, 109) to (372, 20)
+[ 2025-05-04 02:11:53,846 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61348.npy
+[ 2025-05-04 02:11:53,846 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61348.npy
+[ 2025-05-04 02:11:53,846 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61348.npy
+[ 2025-05-04 02:11:54,672 ] 245 root - INFO - PCA shrinked data from (372, 24759) to (372, 20)
+[ 2025-05-04 02:11:54,812 ] 255 root - INFO - RBD shrinked data from (372, 24759) to (372, 20)
+[ 2025-05-04 02:11:54,820 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60056.npy
+[ 2025-05-04 02:11:54,820 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60056.npy
+[ 2025-05-04 02:11:54,820 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60056.npy
+[ 2025-05-04 02:11:54,922 ] 245 root - INFO - PCA shrinked data from (372, 3504) to (372, 20)
+[ 2025-05-04 02:11:54,930 ] 255 root - INFO - RBD shrinked data from (372, 3504) to (372, 20)
+[ 2025-05-04 02:11:54,931 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60042.npy
+[ 2025-05-04 02:11:54,931 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60042.npy
+[ 2025-05-04 02:11:54,931 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60042.npy
+[ 2025-05-04 02:11:54,978 ] 245 root - INFO - PCA shrinked data from (372, 1493) to (372, 20)
+[ 2025-05-04 02:11:54,981 ] 255 root - INFO - RBD shrinked data from (372, 1493) to (372, 20)
+[ 2025-05-04 02:11:54,982 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61360.npy
+[ 2025-05-04 02:11:54,982 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61360.npy
+[ 2025-05-04 02:11:54,982 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61360.npy
+[ 2025-05-04 02:11:55,091 ] 245 root - INFO - PCA shrinked data from (372, 3878) to (372, 20)
+[ 2025-05-04 02:11:55,100 ] 255 root - INFO - RBD shrinked data from (372, 3878) to (372, 20)
+[ 2025-05-04 02:11:55,101 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60081.npy
+[ 2025-05-04 02:11:55,101 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60081.npy
+[ 2025-05-04 02:11:55,101 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60081.npy
+[ 2025-05-04 02:11:55,111 ] 245 root - INFO - PCA shrinked data from (372, 238) to (372, 20)
+[ 2025-05-04 02:11:55,113 ] 255 root - INFO - RBD shrinked data from (372, 238) to (372, 20)
+[ 2025-05-04 02:11:55,113 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60917.npy
+[ 2025-05-04 02:11:55,113 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60917.npy
+[ 2025-05-04 02:11:55,113 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60917.npy
+[ 2025-05-04 02:11:55,534 ] 245 root - INFO - PCA shrinked data from (372, 14271) to (372, 20)
+[ 2025-05-04 02:11:55,615 ] 255 root - INFO - RBD shrinked data from (372, 14271) to (372, 20)
+[ 2025-05-04 02:11:55,622 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60532.npy
+[ 2025-05-04 02:11:55,622 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60532.npy
+[ 2025-05-04 02:11:55,622 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60532.npy
+[ 2025-05-04 02:11:55,763 ] 245 root - INFO - PCA shrinked data from (372, 5123) to (372, 20)
+[ 2025-05-04 02:11:55,776 ] 255 root - INFO - RBD shrinked data from (372, 5123) to (372, 20)
+[ 2025-05-04 02:11:55,779 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60526.npy
+[ 2025-05-04 02:11:55,779 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60526.npy
+[ 2025-05-04 02:11:55,779 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60526.npy
+[ 2025-05-04 02:11:56,167 ] 245 root - INFO - PCA shrinked data from (372, 14075) to (372, 20)
+[ 2025-05-04 02:11:56,245 ] 255 root - INFO - RBD shrinked data from (372, 14075) to (372, 20)
+[ 2025-05-04 02:11:56,248 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60446.npy
+[ 2025-05-04 02:11:56,248 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60446.npy
+[ 2025-05-04 02:11:56,248 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60446.npy
+[ 2025-05-04 02:11:56,557 ] 245 root - INFO - PCA shrinked data from (372, 11320) to (372, 20)
+[ 2025-05-04 02:11:56,611 ] 255 root - INFO - RBD shrinked data from (372, 11320) to (372, 20)
+[ 2025-05-04 02:11:56,614 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60452.npy
+[ 2025-05-04 02:11:56,614 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60452.npy
+[ 2025-05-04 02:11:56,614 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60452.npy
+[ 2025-05-04 02:11:56,780 ] 245 root - INFO - PCA shrinked data from (372, 6129) to (372, 20)
+[ 2025-05-04 02:11:56,797 ] 255 root - INFO - RBD shrinked data from (372, 6129) to (372, 20)
+[ 2025-05-04 02:11:56,800 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61764.npy
+[ 2025-05-04 02:11:56,800 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61764.npy
+[ 2025-05-04 02:11:56,800 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61764.npy
+[ 2025-05-04 02:11:56,869 ] 245 root - INFO - PCA shrinked data from (372, 2333) to (372, 20)
+[ 2025-05-04 02:11:56,874 ] 255 root - INFO - RBD shrinked data from (372, 2333) to (372, 20)
+[ 2025-05-04 02:11:56,875 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61016.npy
+[ 2025-05-04 02:11:56,875 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61016.npy
+[ 2025-05-04 02:11:56,875 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61016.npy
+[ 2025-05-04 02:11:56,957 ] 245 root - INFO - PCA shrinked data from (372, 2650) to (372, 20)
+[ 2025-05-04 02:11:56,963 ] 255 root - INFO - RBD shrinked data from (372, 2650) to (372, 20)
+[ 2025-05-04 02:11:56,964 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60491.npy
+[ 2025-05-04 02:11:56,964 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60491.npy
+[ 2025-05-04 02:11:56,964 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60491.npy
+[ 2025-05-04 02:11:57,536 ] 245 root - INFO - PCA shrinked data from (372, 18130) to (372, 20)
+[ 2025-05-04 02:11:57,640 ] 255 root - INFO - RBD shrinked data from (372, 18130) to (372, 20)
+[ 2025-05-04 02:11:57,646 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60644.npy
+[ 2025-05-04 02:11:57,646 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60644.npy
+[ 2025-05-04 02:11:57,646 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60644.npy
+[ 2025-05-04 02:11:57,738 ] 245 root - INFO - PCA shrinked data from (372, 3030) to (372, 20)
+[ 2025-05-04 02:11:57,745 ] 255 root - INFO - RBD shrinked data from (372, 3030) to (372, 20)
+[ 2025-05-04 02:11:57,747 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60136.npy
+[ 2025-05-04 02:11:57,747 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60136.npy
+[ 2025-05-04 02:11:57,747 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60136.npy
+[ 2025-05-04 02:11:58,329 ] 245 root - INFO - PCA shrinked data from (372, 18521) to (372, 20)
+[ 2025-05-04 02:11:58,439 ] 255 root - INFO - RBD shrinked data from (372, 18521) to (372, 20)
+[ 2025-05-04 02:11:58,445 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60643.npy
+[ 2025-05-04 02:11:58,445 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60643.npy
+[ 2025-05-04 02:11:58,445 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60643.npy
+[ 2025-05-04 02:11:58,658 ] 245 root - INFO - PCA shrinked data from (372, 7741) to (372, 20)
+[ 2025-05-04 02:11:58,684 ] 255 root - INFO - RBD shrinked data from (372, 7741) to (372, 20)
+[ 2025-05-04 02:11:58,687 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60131.npy
+[ 2025-05-04 02:11:58,687 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60131.npy
+[ 2025-05-04 02:11:58,687 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60131.npy
+[ 2025-05-04 02:12:00,457 ] 245 root - INFO - PCA shrinked data from (372, 44615) to (372, 20)
+[ 2025-05-04 02:12:00,713 ] 255 root - INFO - RBD shrinked data from (372, 44615) to (372, 20)
+[ 2025-05-04 02:12:00,724 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60657.npy
+[ 2025-05-04 02:12:00,724 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60657.npy
+[ 2025-05-04 02:12:00,724 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60657.npy
+[ 2025-05-04 02:12:00,844 ] 245 root - INFO - PCA shrinked data from (372, 4270) to (372, 20)
+[ 2025-05-04 02:12:00,853 ] 255 root - INFO - RBD shrinked data from (372, 4270) to (372, 20)
+[ 2025-05-04 02:12:00,855 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60119.npy
+[ 2025-05-04 02:12:00,855 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60119.npy
+[ 2025-05-04 02:12:00,855 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60119.npy
+[ 2025-05-04 02:12:00,996 ] 245 root - INFO - PCA shrinked data from (372, 5175) to (372, 20)
+[ 2025-05-04 02:12:01,008 ] 255 root - INFO - RBD shrinked data from (372, 5175) to (372, 20)
+[ 2025-05-04 02:12:01,010 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60482.npy
+[ 2025-05-04 02:12:01,010 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60482.npy
+[ 2025-05-04 02:12:01,010 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60482.npy
+[ 2025-05-04 02:12:01,027 ] 245 root - INFO - PCA shrinked data from (372, 339) to (372, 20)
+[ 2025-05-04 02:12:01,028 ] 255 root - INFO - RBD shrinked data from (372, 339) to (372, 20)
+[ 2025-05-04 02:12:01,028 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61039.npy
+[ 2025-05-04 02:12:01,028 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61039.npy
+[ 2025-05-04 02:12:01,028 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61039.npy
+[ 2025-05-04 02:12:01,720 ] 245 root - INFO - PCA shrinked data from (372, 21044) to (372, 20)
+[ 2025-05-04 02:12:01,837 ] 255 root - INFO - RBD shrinked data from (372, 21044) to (372, 20)
+[ 2025-05-04 02:12:01,844 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60441.npy
+[ 2025-05-04 02:12:01,844 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60441.npy
+[ 2025-05-04 02:12:01,844 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60441.npy
+[ 2025-05-04 02:12:02,032 ] 245 root - INFO - PCA shrinked data from (372, 7039) to (372, 20)
+[ 2025-05-04 02:12:02,052 ] 255 root - INFO - RBD shrinked data from (372, 7039) to (372, 20)
+[ 2025-05-04 02:12:02,056 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60455.npy
+[ 2025-05-04 02:12:02,056 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60455.npy
+[ 2025-05-04 02:12:02,056 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60455.npy
+[ 2025-05-04 02:12:02,116 ] 245 root - INFO - PCA shrinked data from (372, 1957) to (372, 20)
+[ 2025-05-04 02:12:02,121 ] 255 root - INFO - RBD shrinked data from (372, 1957) to (372, 20)
+[ 2025-05-04 02:12:02,122 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60469.npy
+[ 2025-05-04 02:12:02,122 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60469.npy
+[ 2025-05-04 02:12:02,122 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60469.npy
+[ 2025-05-04 02:12:02,161 ] 245 root - INFO - PCA shrinked data from (372, 1144) to (372, 20)
+[ 2025-05-04 02:12:02,163 ] 255 root - INFO - RBD shrinked data from (372, 1144) to (372, 20)
+[ 2025-05-04 02:12:02,164 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61011.npy
+[ 2025-05-04 02:12:02,164 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61011.npy
+[ 2025-05-04 02:12:02,164 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61011.npy
+[ 2025-05-04 02:12:02,512 ] 245 root - INFO - PCA shrinked data from (372, 12686) to (372, 20)
+[ 2025-05-04 02:12:02,584 ] 255 root - INFO - RBD shrinked data from (372, 12686) to (372, 20)
+[ 2025-05-04 02:12:02,588 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60521.npy
+[ 2025-05-04 02:12:02,588 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60521.npy
+[ 2025-05-04 02:12:02,588 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60521.npy
+[ 2025-05-04 02:12:02,600 ] 245 root - INFO - PCA shrinked data from (372, 276) to (372, 20)
+[ 2025-05-04 02:12:02,601 ] 255 root - INFO - RBD shrinked data from (372, 276) to (372, 20)
+[ 2025-05-04 02:12:02,601 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60910.npy
+[ 2025-05-04 02:12:02,601 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60910.npy
+[ 2025-05-04 02:12:02,601 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60910.npy
+[ 2025-05-04 02:12:02,704 ] 245 root - INFO - PCA shrinked data from (372, 3625) to (372, 20)
+[ 2025-05-04 02:12:02,711 ] 255 root - INFO - RBD shrinked data from (372, 3625) to (372, 20)
+[ 2025-05-04 02:12:02,713 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60051.npy
+[ 2025-05-04 02:12:02,713 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60051.npy
+[ 2025-05-04 02:12:02,713 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60051.npy
+[ 2025-05-04 02:12:02,947 ] 245 root - INFO - PCA shrinked data from (372, 8788) to (372, 20)
+[ 2025-05-04 02:12:02,980 ] 255 root - INFO - RBD shrinked data from (372, 8788) to (372, 20)
+[ 2025-05-04 02:12:02,985 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60045.npy
+[ 2025-05-04 02:12:02,985 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60045.npy
+[ 2025-05-04 02:12:02,985 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60045.npy
+[ 2025-05-04 02:12:03,092 ] 245 root - INFO - PCA shrinked data from (372, 3734) to (372, 20)
+[ 2025-05-04 02:12:03,100 ] 255 root - INFO - RBD shrinked data from (372, 3734) to (372, 20)
+[ 2025-05-04 02:12:03,103 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61367.npy
+[ 2025-05-04 02:12:03,103 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61367.npy
+[ 2025-05-04 02:12:03,103 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61367.npy
+[ 2025-05-04 02:12:03,233 ] 245 root - INFO - PCA shrinked data from (372, 4706) to (372, 20)
+[ 2025-05-04 02:12:03,244 ] 255 root - INFO - RBD shrinked data from (372, 4706) to (372, 20)
+[ 2025-05-04 02:12:03,246 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60044.npy
+[ 2025-05-04 02:12:03,246 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60044.npy
+[ 2025-05-04 02:12:03,246 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60044.npy
+[ 2025-05-04 02:12:03,977 ] 245 root - INFO - PCA shrinked data from (372, 21992) to (372, 20)
+[ 2025-05-04 02:12:04,093 ] 255 root - INFO - RBD shrinked data from (372, 21992) to (372, 20)
+[ 2025-05-04 02:12:04,100 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60050.npy
+[ 2025-05-04 02:12:04,100 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60050.npy
+[ 2025-05-04 02:12:04,100 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60050.npy
+[ 2025-05-04 02:12:04,395 ] 245 root - INFO - PCA shrinked data from (372, 10651) to (372, 20)
+[ 2025-05-04 02:12:04,447 ] 255 root - INFO - RBD shrinked data from (372, 10651) to (372, 20)
+[ 2025-05-04 02:12:04,451 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60087.npy
+[ 2025-05-04 02:12:04,451 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60087.npy
+[ 2025-05-04 02:12:04,452 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60087.npy
+[ 2025-05-04 02:12:04,552 ] 245 root - INFO - PCA shrinked data from (372, 3457) to (372, 20)
+[ 2025-05-04 02:12:04,559 ] 255 root - INFO - RBD shrinked data from (372, 3457) to (372, 20)
+[ 2025-05-04 02:12:04,563 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60093.npy
+[ 2025-05-04 02:12:04,563 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60093.npy
+[ 2025-05-04 02:12:04,563 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60093.npy
+[ 2025-05-04 02:12:04,593 ] 245 root - INFO - PCA shrinked data from (372, 749) to (372, 20)
+[ 2025-05-04 02:12:04,595 ] 255 root - INFO - RBD shrinked data from (372, 749) to (372, 20)
+[ 2025-05-04 02:12:04,595 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60180.npy
+[ 2025-05-04 02:12:04,595 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60180.npy
+[ 2025-05-04 02:12:04,595 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60180.npy
+[ 2025-05-04 02:12:04,990 ] 245 root - INFO - PCA shrinked data from (372, 13828) to (372, 20)
+[ 2025-05-04 02:12:05,066 ] 255 root - INFO - RBD shrinked data from (372, 13828) to (372, 20)
+[ 2025-05-04 02:12:05,070 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60194.npy
+[ 2025-05-04 02:12:05,070 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60194.npy
+[ 2025-05-04 02:12:05,070 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60194.npy
+[ 2025-05-04 02:12:06,156 ] 245 root - INFO - PCA shrinked data from (372, 30757) to (372, 20)
+[ 2025-05-04 02:12:06,328 ] 255 root - INFO - RBD shrinked data from (372, 30757) to (372, 20)
+[ 2025-05-04 02:12:06,337 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60619.npy
+[ 2025-05-04 02:12:06,337 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60619.npy
+[ 2025-05-04 02:12:06,337 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60619.npy
+[ 2025-05-04 02:12:06,356 ] 245 root - INFO - PCA shrinked data from (372, 432) to (372, 20)
+[ 2025-05-04 02:12:06,357 ] 255 root - INFO - RBD shrinked data from (372, 432) to (372, 20)
+[ 2025-05-04 02:12:06,358 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61261.npy
+[ 2025-05-04 02:12:06,358 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61261.npy
+[ 2025-05-04 02:12:06,358 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61261.npy
+[ 2025-05-04 02:12:07,653 ] 245 root - INFO - PCA shrinked data from (372, 35096) to (372, 20)
+[ 2025-05-04 02:12:07,853 ] 255 root - INFO - RBD shrinked data from (372, 35096) to (372, 20)
+[ 2025-05-04 02:12:07,862 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60625.npy
+[ 2025-05-04 02:12:07,862 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60625.npy
+[ 2025-05-04 02:12:07,862 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60625.npy
+[ 2025-05-04 02:12:08,015 ] 245 root - INFO - PCA shrinked data from (372, 5524) to (372, 20)
+[ 2025-05-04 02:12:08,029 ] 255 root - INFO - RBD shrinked data from (372, 5524) to (372, 20)
+[ 2025-05-04 02:12:08,033 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60143.npy
+[ 2025-05-04 02:12:08,033 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60143.npy
+[ 2025-05-04 02:12:08,033 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60143.npy
+[ 2025-05-04 02:12:08,066 ] 245 root - INFO - PCA shrinked data from (372, 858) to (372, 20)
+[ 2025-05-04 02:12:08,068 ] 255 root - INFO - RBD shrinked data from (372, 858) to (372, 20)
+[ 2025-05-04 02:12:08,068 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60157.npy
+[ 2025-05-04 02:12:08,068 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60157.npy
+[ 2025-05-04 02:12:08,068 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60157.npy
+[ 2025-05-04 02:12:08,457 ] 245 root - INFO - PCA shrinked data from (372, 13807) to (372, 20)
+[ 2025-05-04 02:12:08,530 ] 255 root - INFO - RBD shrinked data from (372, 13807) to (372, 20)
+[ 2025-05-04 02:12:08,537 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60631.npy
+[ 2025-05-04 02:12:08,537 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60631.npy
+[ 2025-05-04 02:12:08,537 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60631.npy
+[ 2025-05-04 02:12:08,600 ] 245 root - INFO - PCA shrinked data from (372, 2107) to (372, 20)
+[ 2025-05-04 02:12:08,605 ] 255 root - INFO - RBD shrinked data from (372, 2107) to (372, 20)
+[ 2025-05-04 02:12:08,605 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61088.npy
+[ 2025-05-04 02:12:08,605 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61088.npy
+[ 2025-05-04 02:12:08,605 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61088.npy
+[ 2025-05-04 02:12:08,669 ] 245 root - INFO - PCA shrinked data from (372, 2122) to (372, 20)
+[ 2025-05-04 02:12:08,674 ] 255 root - INFO - RBD shrinked data from (372, 2122) to (372, 20)
+[ 2025-05-04 02:12:08,675 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61063.npy
+[ 2025-05-04 02:12:08,675 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61063.npy
+[ 2025-05-04 02:12:08,675 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61063.npy
+[ 2025-05-04 02:12:08,676 ] 245 root - INFO - PCA shrinked data from (372, 27) to (372, 20)
+[ 2025-05-04 02:12:08,677 ] 255 root - INFO - RBD shrinked data from (372, 27) to (372, 20)
+[ 2025-05-04 02:12:08,677 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61077.npy
+[ 2025-05-04 02:12:08,677 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61077.npy
+[ 2025-05-04 02:12:08,677 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61077.npy
+[ 2025-05-04 02:12:08,680 ] 245 root - INFO - PCA shrinked data from (372, 78) to (372, 20)
+[ 2025-05-04 02:12:08,681 ] 255 root - INFO - RBD shrinked data from (372, 78) to (372, 20)
+[ 2025-05-04 02:12:08,681 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61739.npy
+[ 2025-05-04 02:12:08,681 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61739.npy
+[ 2025-05-04 02:12:08,681 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61739.npy
+[ 2025-05-04 02:12:08,851 ] 245 root - INFO - PCA shrinked data from (372, 6379) to (372, 20)
+[ 2025-05-04 02:12:08,869 ] 255 root - INFO - RBD shrinked data from (372, 6379) to (372, 20)
+[ 2025-05-04 02:12:08,872 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60433.npy
+[ 2025-05-04 02:12:08,872 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60433.npy
+[ 2025-05-04 02:12:08,872 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60433.npy
+[ 2025-05-04 02:12:09,152 ] 245 root - INFO - PCA shrinked data from (372, 10992) to (372, 20)
+[ 2025-05-04 02:12:09,207 ] 255 root - INFO - RBD shrinked data from (372, 10992) to (372, 20)
+[ 2025-05-04 02:12:09,211 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61103.npy
+[ 2025-05-04 02:12:09,211 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61103.npy
+[ 2025-05-04 02:12:09,211 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61103.npy
+[ 2025-05-04 02:12:09,223 ] 245 root - INFO - PCA shrinked data from (372, 270) to (372, 20)
+[ 2025-05-04 02:12:09,224 ] 255 root - INFO - RBD shrinked data from (372, 270) to (372, 20)
+[ 2025-05-04 02:12:09,224 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60553.npy
+[ 2025-05-04 02:12:09,224 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60553.npy
+[ 2025-05-04 02:12:09,224 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60553.npy
+[ 2025-05-04 02:12:09,318 ] 245 root - INFO - PCA shrinked data from (372, 3294) to (372, 20)
+[ 2025-05-04 02:12:09,325 ] 255 root - INFO - RBD shrinked data from (372, 3294) to (372, 20)
+[ 2025-05-04 02:12:09,326 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60022.npy
+[ 2025-05-04 02:12:09,326 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60022.npy
+[ 2025-05-04 02:12:09,326 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60022.npy
+[ 2025-05-04 02:12:09,515 ] 245 root - INFO - PCA shrinked data from (372, 7104) to (372, 20)
+[ 2025-05-04 02:12:09,540 ] 255 root - INFO - RBD shrinked data from (372, 7104) to (372, 20)
+[ 2025-05-04 02:12:09,542 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60546.npy
+[ 2025-05-04 02:12:09,542 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60546.npy
+[ 2025-05-04 02:12:09,542 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60546.npy
+[ 2025-05-04 02:12:09,602 ] 245 root - INFO - PCA shrinked data from (372, 1997) to (372, 20)
+[ 2025-05-04 02:12:09,606 ] 255 root - INFO - RBD shrinked data from (372, 1997) to (372, 20)
+[ 2025-05-04 02:12:09,607 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60552.npy
+[ 2025-05-04 02:12:09,607 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60552.npy
+[ 2025-05-04 02:12:09,607 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60552.npy
+[ 2025-05-04 02:12:09,789 ] 245 root - INFO - PCA shrinked data from (372, 6592) to (372, 20)
+[ 2025-05-04 02:12:09,808 ] 255 root - INFO - RBD shrinked data from (372, 6592) to (372, 20)
+[ 2025-05-04 02:12:09,811 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61102.npy
+[ 2025-05-04 02:12:09,811 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61102.npy
+[ 2025-05-04 02:12:09,811 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61102.npy
+[ 2025-05-04 02:12:09,860 ] 245 root - INFO - PCA shrinked data from (372, 1561) to (372, 20)
+[ 2025-05-04 02:12:09,864 ] 255 root - INFO - RBD shrinked data from (372, 1561) to (372, 20)
+[ 2025-05-04 02:12:09,864 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60585.npy
+[ 2025-05-04 02:12:09,864 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60585.npy
+[ 2025-05-04 02:12:09,864 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60585.npy
+[ 2025-05-04 02:12:10,070 ] 245 root - INFO - PCA shrinked data from (372, 7813) to (372, 20)
+[ 2025-05-04 02:12:10,096 ] 255 root - INFO - RBD shrinked data from (372, 7813) to (372, 20)
+[ 2025-05-04 02:12:10,099 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60432.npy
+[ 2025-05-04 02:12:10,099 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60432.npy
+[ 2025-05-04 02:12:10,099 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60432.npy
+[ 2025-05-04 02:12:10,450 ] 245 root - INFO - PCA shrinked data from (372, 12646) to (372, 20)
+[ 2025-05-04 02:12:10,517 ] 255 root - INFO - RBD shrinked data from (372, 12646) to (372, 20)
+[ 2025-05-04 02:12:10,521 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60426.npy
+[ 2025-05-04 02:12:10,521 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60426.npy
+[ 2025-05-04 02:12:10,521 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60426.npy
+[ 2025-05-04 02:12:10,552 ] 245 root - INFO - PCA shrinked data from (372, 785) to (372, 20)
+[ 2025-05-04 02:12:10,554 ] 255 root - INFO - RBD shrinked data from (372, 785) to (372, 20)
+[ 2025-05-04 02:12:10,554 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61062.npy
+[ 2025-05-04 02:12:10,554 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61062.npy
+[ 2025-05-04 02:12:10,554 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61062.npy
+[ 2025-05-04 02:12:10,569 ] 245 root - INFO - PCA shrinked data from (372, 346) to (372, 20)
+[ 2025-05-04 02:12:10,570 ] 255 root - INFO - RBD shrinked data from (372, 346) to (372, 20)
+[ 2025-05-04 02:12:10,570 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61089.npy
+[ 2025-05-04 02:12:10,570 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61089.npy
+[ 2025-05-04 02:12:10,570 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61089.npy
+[ 2025-05-04 02:12:10,858 ] 245 root - INFO - PCA shrinked data from (372, 10574) to (372, 20)
+[ 2025-05-04 02:12:10,913 ] 255 root - INFO - RBD shrinked data from (372, 10574) to (372, 20)
+[ 2025-05-04 02:12:10,916 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60156.npy
+[ 2025-05-04 02:12:10,916 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60156.npy
+[ 2025-05-04 02:12:10,916 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60156.npy
+[ 2025-05-04 02:12:11,694 ] 245 root - INFO - PCA shrinked data from (372, 23384) to (372, 20)
+[ 2025-05-04 02:12:11,819 ] 255 root - INFO - RBD shrinked data from (372, 23384) to (372, 20)
+[ 2025-05-04 02:12:11,826 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60630.npy
+[ 2025-05-04 02:12:11,826 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60630.npy
+[ 2025-05-04 02:12:11,826 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60630.npy
+[ 2025-05-04 02:12:12,245 ] 245 root - INFO - PCA shrinked data from (372, 14929) to (372, 20)
+[ 2025-05-04 02:12:12,328 ] 255 root - INFO - RBD shrinked data from (372, 14929) to (372, 20)
+[ 2025-05-04 02:12:12,332 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60624.npy
+[ 2025-05-04 02:12:12,332 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60624.npy
+[ 2025-05-04 02:12:12,332 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60624.npy
+[ 2025-05-04 02:12:12,676 ] 245 root - INFO - PCA shrinked data from (372, 13006) to (372, 20)
+[ 2025-05-04 02:12:12,745 ] 255 root - INFO - RBD shrinked data from (372, 13006) to (372, 20)
+[ 2025-05-04 02:12:12,748 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60142.npy
+[ 2025-05-04 02:12:12,748 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60142.npy
+[ 2025-05-04 02:12:12,748 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60142.npy
+[ 2025-05-04 02:12:14,425 ] 245 root - INFO - PCA shrinked data from (372, 43397) to (372, 20)
+[ 2025-05-04 02:12:14,680 ] 255 root - INFO - RBD shrinked data from (372, 43397) to (372, 20)
+[ 2025-05-04 02:12:14,692 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60618.npy
+[ 2025-05-04 02:12:14,692 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60618.npy
+[ 2025-05-04 02:12:14,692 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60618.npy
+[ 2025-05-04 02:12:14,989 ] 245 root - INFO - PCA shrinked data from (372, 10940) to (372, 20)
+[ 2025-05-04 02:12:15,045 ] 255 root - INFO - RBD shrinked data from (372, 10940) to (372, 20)
+[ 2025-05-04 02:12:15,050 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60195.npy
+[ 2025-05-04 02:12:15,050 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60195.npy
+[ 2025-05-04 02:12:15,050 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60195.npy
+[ 2025-05-04 02:12:15,434 ] 245 root - INFO - PCA shrinked data from (372, 13754) to (372, 20)
+[ 2025-05-04 02:12:15,506 ] 255 root - INFO - RBD shrinked data from (372, 13754) to (372, 20)
+[ 2025-05-04 02:12:15,510 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60181.npy
+[ 2025-05-04 02:12:15,510 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60181.npy
+[ 2025-05-04 02:12:15,510 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60181.npy
+[ 2025-05-04 02:12:15,775 ] 245 root - INFO - PCA shrinked data from (372, 9996) to (372, 20)
+[ 2025-05-04 02:12:15,823 ] 255 root - INFO - RBD shrinked data from (372, 9996) to (372, 20)
+[ 2025-05-04 02:12:15,826 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60803.npy
+[ 2025-05-04 02:12:15,826 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60803.npy
+[ 2025-05-04 02:12:15,826 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60803.npy
+[ 2025-05-04 02:12:16,726 ] 245 root - INFO - PCA shrinked data from (372, 26463) to (372, 20)
+[ 2025-05-04 02:12:16,874 ] 255 root - INFO - RBD shrinked data from (372, 26463) to (372, 20)
+[ 2025-05-04 02:12:16,883 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-05-04 02:12:16,883 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-05-04 02:12:16,883 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-05-04 02:12:17,078 ] 245 root - INFO - PCA shrinked data from (372, 7354) to (372, 20)
+[ 2025-05-04 02:12:17,102 ] 255 root - INFO - RBD shrinked data from (372, 7354) to (372, 20)
+[ 2025-05-04 02:12:17,105 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-05-04 02:12:17,105 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-05-04 02:12:17,105 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-05-04 02:12:17,333 ] 245 root - INFO - PCA shrinked data from (372, 8621) to (372, 20)
+[ 2025-05-04 02:12:17,367 ] 255 root - INFO - RBD shrinked data from (372, 8621) to (372, 20)
+[ 2025-05-04 02:12:17,370 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-05-04 02:12:17,370 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-05-04 02:12:17,370 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-05-04 02:12:18,230 ] 245 root - INFO - PCA shrinked data from (372, 26124) to (372, 20)
+[ 2025-05-04 02:12:18,380 ] 255 root - INFO - RBD shrinked data from (372, 26124) to (372, 20)
+[ 2025-05-04 02:12:18,388 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-05-04 02:12:18,388 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-05-04 02:12:18,388 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-05-04 02:12:18,408 ] 245 root - INFO - PCA shrinked data from (372, 425) to (372, 20)
+[ 2025-05-04 02:12:18,409 ] 255 root - INFO - RBD shrinked data from (372, 425) to (372, 20)
+[ 2025-05-04 02:12:18,409 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-05-04 02:12:18,409 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-05-04 02:12:18,409 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-05-04 02:12:18,438 ] 245 root - INFO - PCA shrinked data from (372, 671) to (372, 20)
+[ 2025-05-04 02:12:18,439 ] 255 root - INFO - RBD shrinked data from (372, 671) to (372, 20)
+[ 2025-05-04 02:12:18,440 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-05-04 02:12:18,440 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-05-04 02:12:18,440 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-05-04 02:12:18,498 ] 245 root - INFO - PCA shrinked data from (372, 1993) to (372, 20)
+[ 2025-05-04 02:12:18,503 ] 255 root - INFO - RBD shrinked data from (372, 1993) to (372, 20)
+[ 2025-05-04 02:12:18,504 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-05-04 02:12:18,504 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-05-04 02:12:18,504 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-05-04 02:12:18,744 ] 245 root - INFO - PCA shrinked data from (372, 9061) to (372, 20)
+[ 2025-05-04 02:12:18,780 ] 255 root - INFO - RBD shrinked data from (372, 9061) to (372, 20)
+[ 2025-05-04 02:12:18,783 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-05-04 02:12:18,783 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-05-04 02:12:18,783 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-05-04 02:12:18,820 ] 245 root - INFO - PCA shrinked data from (372, 1087) to (372, 20)
+[ 2025-05-04 02:12:18,822 ] 255 root - INFO - RBD shrinked data from (372, 1087) to (372, 20)
+[ 2025-05-04 02:12:18,822 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-05-04 02:12:18,822 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-05-04 02:12:18,822 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-05-04 02:12:19,010 ] 245 root - INFO - PCA shrinked data from (372, 6889) to (372, 20)
+[ 2025-05-04 02:12:19,030 ] 255 root - INFO - RBD shrinked data from (372, 6889) to (372, 20)
+[ 2025-05-04 02:12:19,036 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-05-04 02:12:19,036 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-05-04 02:12:19,036 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-05-04 02:12:20,236 ] 245 root - INFO - PCA shrinked data from (372, 32365) to (372, 20)
+[ 2025-05-04 02:12:20,424 ] 255 root - INFO - RBD shrinked data from (372, 32365) to (372, 20)
+[ 2025-05-04 02:12:20,435 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60544.npy
+[ 2025-05-04 02:12:20,435 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60544.npy
+[ 2025-05-04 02:12:20,435 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60544.npy
+[ 2025-05-04 02:12:20,461 ] 245 root - INFO - PCA shrinked data from (372, 597) to (372, 20)
+[ 2025-05-04 02:12:20,463 ] 255 root - INFO - RBD shrinked data from (372, 597) to (372, 20)
+[ 2025-05-04 02:12:20,463 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60550.npy
+[ 2025-05-04 02:12:20,463 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60550.npy
+[ 2025-05-04 02:12:20,463 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60550.npy
+[ 2025-05-04 02:12:20,482 ] 245 root - INFO - PCA shrinked data from (372, 460) to (372, 20)
+[ 2025-05-04 02:12:20,484 ] 255 root - INFO - RBD shrinked data from (372, 460) to (372, 20)
+[ 2025-05-04 02:12:20,484 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60961.npy
+[ 2025-05-04 02:12:20,484 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60961.npy
+[ 2025-05-04 02:12:20,484 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60961.npy
+[ 2025-05-04 02:12:20,759 ] 245 root - INFO - PCA shrinked data from (372, 10205) to (372, 20)
+[ 2025-05-04 02:12:20,804 ] 255 root - INFO - RBD shrinked data from (372, 10205) to (372, 20)
+[ 2025-05-04 02:12:20,808 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60008.npy
+[ 2025-05-04 02:12:20,808 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60008.npy
+[ 2025-05-04 02:12:20,808 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60008.npy
+[ 2025-05-04 02:12:20,966 ] 245 root - INFO - PCA shrinked data from (372, 5859) to (372, 20)
+[ 2025-05-04 02:12:20,979 ] 255 root - INFO - RBD shrinked data from (372, 5859) to (372, 20)
+[ 2025-05-04 02:12:20,982 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60020.npy
+[ 2025-05-04 02:12:20,982 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60020.npy
+[ 2025-05-04 02:12:20,982 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60020.npy
+[ 2025-05-04 02:12:21,019 ] 245 root - INFO - PCA shrinked data from (372, 986) to (372, 20)
+[ 2025-05-04 02:12:21,023 ] 255 root - INFO - RBD shrinked data from (372, 986) to (372, 20)
+[ 2025-05-04 02:12:21,023 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60034.npy
+[ 2025-05-04 02:12:21,023 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60034.npy
+[ 2025-05-04 02:12:21,023 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60034.npy
+[ 2025-05-04 02:12:21,431 ] 245 root - INFO - PCA shrinked data from (372, 13859) to (372, 20)
+[ 2025-05-04 02:12:21,505 ] 255 root - INFO - RBD shrinked data from (372, 13859) to (372, 20)
+[ 2025-05-04 02:12:21,510 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60035.npy
+[ 2025-05-04 02:12:21,510 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60035.npy
+[ 2025-05-04 02:12:21,510 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60035.npy
+[ 2025-05-04 02:12:21,578 ] 245 root - INFO - PCA shrinked data from (372, 2270) to (372, 20)
+[ 2025-05-04 02:12:21,584 ] 255 root - INFO - RBD shrinked data from (372, 2270) to (372, 20)
+[ 2025-05-04 02:12:21,584 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60021.npy
+[ 2025-05-04 02:12:21,584 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60021.npy
+[ 2025-05-04 02:12:21,584 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60021.npy
+[ 2025-05-04 02:12:21,587 ] 245 root - INFO - PCA shrinked data from (372, 63) to (372, 20)
+[ 2025-05-04 02:12:21,588 ] 255 root - INFO - RBD shrinked data from (372, 63) to (372, 20)
+[ 2025-05-04 02:12:21,588 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60551.npy
+[ 2025-05-04 02:12:21,588 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60551.npy
+[ 2025-05-04 02:12:21,588 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60551.npy
+[ 2025-05-04 02:12:21,729 ] 245 root - INFO - PCA shrinked data from (372, 5210) to (372, 20)
+[ 2025-05-04 02:12:21,741 ] 255 root - INFO - RBD shrinked data from (372, 5210) to (372, 20)
+[ 2025-05-04 02:12:21,743 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60545.npy
+[ 2025-05-04 02:12:21,743 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60545.npy
+[ 2025-05-04 02:12:21,743 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60545.npy
+[ 2025-05-04 02:12:22,065 ] 245 root - INFO - PCA shrinked data from (372, 9877) to (372, 20)
+[ 2025-05-04 02:12:22,157 ] 255 root - INFO - RBD shrinked data from (372, 9877) to (372, 20)
+[ 2025-05-04 02:12:22,160 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61115.npy
+[ 2025-05-04 02:12:22,160 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61115.npy
+[ 2025-05-04 02:12:22,160 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61115.npy
+[ 2025-05-04 02:12:22,422 ] 245 root - INFO - PCA shrinked data from (372, 8963) to (372, 20)
+[ 2025-05-04 02:12:22,458 ] 255 root - INFO - RBD shrinked data from (372, 8963) to (372, 20)
+[ 2025-05-04 02:12:22,461 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61101.npy
+[ 2025-05-04 02:12:22,461 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61101.npy
+[ 2025-05-04 02:12:22,461 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61101.npy
+[ 2025-05-04 02:12:22,522 ] 245 root - INFO - PCA shrinked data from (372, 1957) to (372, 20)
+[ 2025-05-04 02:12:22,526 ] 255 root - INFO - RBD shrinked data from (372, 1957) to (372, 20)
+[ 2025-05-04 02:12:22,527 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60586.npy
+[ 2025-05-04 02:12:22,527 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60586.npy
+[ 2025-05-04 02:12:22,527 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60586.npy
+[ 2025-05-04 02:12:22,634 ] 245 root - INFO - PCA shrinked data from (372, 3576) to (372, 20)
+[ 2025-05-04 02:12:22,641 ] 255 root - INFO - RBD shrinked data from (372, 3576) to (372, 20)
+[ 2025-05-04 02:12:22,644 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60425.npy
+[ 2025-05-04 02:12:22,644 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60425.npy
+[ 2025-05-04 02:12:22,644 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60425.npy
+[ 2025-05-04 02:12:22,652 ] 245 root - INFO - PCA shrinked data from (372, 173) to (372, 20)
+[ 2025-05-04 02:12:22,653 ] 255 root - INFO - RBD shrinked data from (372, 173) to (372, 20)
+[ 2025-05-04 02:12:22,653 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61049.npy
+[ 2025-05-04 02:12:22,653 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61049.npy
+[ 2025-05-04 02:12:22,653 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61049.npy
+[ 2025-05-04 02:12:22,889 ] 245 root - INFO - PCA shrinked data from (372, 9004) to (372, 20)
+[ 2025-05-04 02:12:22,925 ] 255 root - INFO - RBD shrinked data from (372, 9004) to (372, 20)
+[ 2025-05-04 02:12:22,928 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60431.npy
+[ 2025-05-04 02:12:22,928 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60431.npy
+[ 2025-05-04 02:12:22,928 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60431.npy
+[ 2025-05-04 02:12:23,154 ] 245 root - INFO - PCA shrinked data from (372, 8606) to (372, 20)
+[ 2025-05-04 02:12:23,186 ] 255 root - INFO - RBD shrinked data from (372, 8606) to (372, 20)
+[ 2025-05-04 02:12:23,189 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60419.npy
+[ 2025-05-04 02:12:23,189 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60419.npy
+[ 2025-05-04 02:12:23,189 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60419.npy
+[ 2025-05-04 02:12:23,296 ] 245 root - INFO - PCA shrinked data from (372, 3690) to (372, 20)
+[ 2025-05-04 02:12:23,304 ] 255 root - INFO - RBD shrinked data from (372, 3690) to (372, 20)
+[ 2025-05-04 02:12:23,307 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61061.npy
+[ 2025-05-04 02:12:23,307 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61061.npy
+[ 2025-05-04 02:12:23,307 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61061.npy
+[ 2025-05-04 02:12:23,320 ] 245 root - INFO - PCA shrinked data from (372, 318) to (372, 20)
+[ 2025-05-04 02:12:23,322 ] 255 root - INFO - RBD shrinked data from (372, 318) to (372, 20)
+[ 2025-05-04 02:12:23,322 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61075.npy
+[ 2025-05-04 02:12:23,322 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61075.npy
+[ 2025-05-04 02:12:23,322 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61075.npy
+[ 2025-05-04 02:12:23,473 ] 245 root - INFO - PCA shrinked data from (372, 5569) to (372, 20)
+[ 2025-05-04 02:12:23,486 ] 255 root - INFO - RBD shrinked data from (372, 5569) to (372, 20)
+[ 2025-05-04 02:12:23,488 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60633.npy
+[ 2025-05-04 02:12:23,488 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60633.npy
+[ 2025-05-04 02:12:23,488 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60633.npy
+[ 2025-05-04 02:12:23,595 ] 245 root - INFO - PCA shrinked data from (372, 3757) to (372, 20)
+[ 2025-05-04 02:12:23,603 ] 255 root - INFO - RBD shrinked data from (372, 3757) to (372, 20)
+[ 2025-05-04 02:12:23,606 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60155.npy
+[ 2025-05-04 02:12:23,606 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60155.npy
+[ 2025-05-04 02:12:23,606 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60155.npy
+[ 2025-05-04 02:12:23,691 ] 245 root - INFO - PCA shrinked data from (372, 2784) to (372, 20)
+[ 2025-05-04 02:12:23,696 ] 255 root - INFO - RBD shrinked data from (372, 2784) to (372, 20)
+[ 2025-05-04 02:12:23,697 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60169.npy
+[ 2025-05-04 02:12:23,697 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60169.npy
+[ 2025-05-04 02:12:23,697 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60169.npy
+[ 2025-05-04 02:12:23,746 ] 245 root - INFO - PCA shrinked data from (372, 1645) to (372, 20)
+[ 2025-05-04 02:12:23,749 ] 255 root - INFO - RBD shrinked data from (372, 1645) to (372, 20)
+[ 2025-05-04 02:12:23,750 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61277.npy
+[ 2025-05-04 02:12:23,750 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61277.npy
+[ 2025-05-04 02:12:23,750 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61277.npy
+[ 2025-05-04 02:12:23,834 ] 245 root - INFO - PCA shrinked data from (372, 2824) to (372, 20)
+[ 2025-05-04 02:12:23,840 ] 255 root - INFO - RBD shrinked data from (372, 2824) to (372, 20)
+[ 2025-05-04 02:12:23,841 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60192.npy
+[ 2025-05-04 02:12:23,841 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60192.npy
+[ 2025-05-04 02:12:23,841 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60192.npy
+[ 2025-05-04 02:12:24,650 ] 245 root - INFO - PCA shrinked data from (372, 23808) to (372, 20)
+[ 2025-05-04 02:12:24,772 ] 255 root - INFO - RBD shrinked data from (372, 23808) to (372, 20)
+[ 2025-05-04 02:12:24,779 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60804.npy
+[ 2025-05-04 02:12:24,779 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60804.npy
+[ 2025-05-04 02:12:24,779 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60804.npy
+[ 2025-05-04 02:12:24,833 ] 245 root - INFO - PCA shrinked data from (372, 1681) to (372, 20)
+[ 2025-05-04 02:12:24,837 ] 255 root - INFO - RBD shrinked data from (372, 1681) to (372, 20)
+[ 2025-05-04 02:12:24,837 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60151.npy
+[ 2025-05-04 02:12:24,837 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60151.npy
+[ 2025-05-04 02:12:24,837 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60151.npy
+[ 2025-05-04 02:12:25,601 ] 245 root - INFO - PCA shrinked data from (372, 23600) to (372, 20)
+[ 2025-05-04 02:12:25,723 ] 255 root - INFO - RBD shrinked data from (372, 23600) to (372, 20)
+[ 2025-05-04 02:12:25,730 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60637.npy
+[ 2025-05-04 02:12:25,730 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60637.npy
+[ 2025-05-04 02:12:25,730 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60637.npy
+[ 2025-05-04 02:12:26,731 ] 245 root - INFO - PCA shrinked data from (372, 28777) to (372, 20)
+[ 2025-05-04 02:12:26,902 ] 255 root - INFO - RBD shrinked data from (372, 28777) to (372, 20)
+[ 2025-05-04 02:12:26,911 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60623.npy
+[ 2025-05-04 02:12:26,911 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60623.npy
+[ 2025-05-04 02:12:26,911 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60623.npy
+[ 2025-05-04 02:12:26,946 ] 245 root - INFO - PCA shrinked data from (372, 1012) to (372, 20)
+[ 2025-05-04 02:12:26,948 ] 255 root - INFO - RBD shrinked data from (372, 1012) to (372, 20)
+[ 2025-05-04 02:12:26,948 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60145.npy
+[ 2025-05-04 02:12:26,948 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60145.npy
+[ 2025-05-04 02:12:26,948 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60145.npy
+[ 2025-05-04 02:12:27,879 ] 245 root - INFO - PCA shrinked data from (372, 27853) to (372, 20)
+[ 2025-05-04 02:12:28,047 ] 255 root - INFO - RBD shrinked data from (372, 27853) to (372, 20)
+[ 2025-05-04 02:12:28,054 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60435.npy
+[ 2025-05-04 02:12:28,054 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60435.npy
+[ 2025-05-04 02:12:28,054 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60435.npy
+[ 2025-05-04 02:12:28,057 ] 245 root - INFO - PCA shrinked data from (372, 38) to (372, 20)
+[ 2025-05-04 02:12:28,058 ] 255 root - INFO - RBD shrinked data from (372, 38) to (372, 20)
+[ 2025-05-04 02:12:28,058 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61059.npy
+[ 2025-05-04 02:12:28,058 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61059.npy
+[ 2025-05-04 02:12:28,058 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61059.npy
+[ 2025-05-04 02:12:28,109 ] 245 root - INFO - PCA shrinked data from (372, 1691) to (372, 20)
+[ 2025-05-04 02:12:28,113 ] 255 root - INFO - RBD shrinked data from (372, 1691) to (372, 20)
+[ 2025-05-04 02:12:28,114 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60421.npy
+[ 2025-05-04 02:12:28,114 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60421.npy
+[ 2025-05-04 02:12:28,114 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60421.npy
+[ 2025-05-04 02:12:28,577 ] 245 root - INFO - PCA shrinked data from (372, 15665) to (372, 20)
+[ 2025-05-04 02:12:28,663 ] 255 root - INFO - RBD shrinked data from (372, 15665) to (372, 20)
+[ 2025-05-04 02:12:28,667 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60409.npy
+[ 2025-05-04 02:12:28,667 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60409.npy
+[ 2025-05-04 02:12:28,667 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60409.npy
+[ 2025-05-04 02:12:28,709 ] 245 root - INFO - PCA shrinked data from (372, 1319) to (372, 20)
+[ 2025-05-04 02:12:28,711 ] 255 root - INFO - RBD shrinked data from (372, 1319) to (372, 20)
+[ 2025-05-04 02:12:28,711 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61071.npy
+[ 2025-05-04 02:12:28,711 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61071.npy
+[ 2025-05-04 02:12:28,711 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61071.npy
+[ 2025-05-04 02:12:28,829 ] 245 root - INFO - PCA shrinked data from (372, 4153) to (372, 20)
+[ 2025-05-04 02:12:28,838 ] 255 root - INFO - RBD shrinked data from (372, 4153) to (372, 20)
+[ 2025-05-04 02:12:28,841 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61065.npy
+[ 2025-05-04 02:12:28,841 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61065.npy
+[ 2025-05-04 02:12:28,841 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61065.npy
+[ 2025-05-04 02:12:28,862 ] 245 root - INFO - PCA shrinked data from (372, 484) to (372, 20)
+[ 2025-05-04 02:12:28,863 ] 255 root - INFO - RBD shrinked data from (372, 484) to (372, 20)
+[ 2025-05-04 02:12:28,864 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60541.npy
+[ 2025-05-04 02:12:28,864 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60541.npy
+[ 2025-05-04 02:12:28,864 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60541.npy
+[ 2025-05-04 02:12:29,052 ] 245 root - INFO - PCA shrinked data from (372, 7031) to (372, 20)
+[ 2025-05-04 02:12:29,073 ] 255 root - INFO - RBD shrinked data from (372, 7031) to (372, 20)
+[ 2025-05-04 02:12:29,077 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60555.npy
+[ 2025-05-04 02:12:29,077 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60555.npy
+[ 2025-05-04 02:12:29,077 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60555.npy
+[ 2025-05-04 02:12:29,407 ] 245 root - INFO - PCA shrinked data from (372, 11851) to (372, 20)
+[ 2025-05-04 02:12:29,466 ] 255 root - INFO - RBD shrinked data from (372, 11851) to (372, 20)
+[ 2025-05-04 02:12:29,470 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61111.npy
+[ 2025-05-04 02:12:29,470 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61111.npy
+[ 2025-05-04 02:12:29,470 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61111.npy
+[ 2025-05-04 02:12:29,472 ] 245 root - INFO - PCA shrinked data from (372, 31) to (372, 20)
+[ 2025-05-04 02:12:29,473 ] 255 root - INFO - RBD shrinked data from (372, 31) to (372, 20)
+[ 2025-05-04 02:12:29,473 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60958.npy
+[ 2025-05-04 02:12:29,473 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60958.npy
+[ 2025-05-04 02:12:29,473 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60958.npy
+[ 2025-05-04 02:12:29,545 ] 245 root - INFO - PCA shrinked data from (372, 2513) to (372, 20)
+[ 2025-05-04 02:12:29,550 ] 255 root - INFO - RBD shrinked data from (372, 2513) to (372, 20)
+[ 2025-05-04 02:12:29,551 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60964.npy
+[ 2025-05-04 02:12:29,551 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60964.npy
+[ 2025-05-04 02:12:29,551 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60964.npy
+[ 2025-05-04 02:12:30,273 ] 245 root - INFO - PCA shrinked data from (372, 22026) to (372, 20)
+[ 2025-05-04 02:12:30,402 ] 255 root - INFO - RBD shrinked data from (372, 22026) to (372, 20)
+[ 2025-05-04 02:12:30,409 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60025.npy
+[ 2025-05-04 02:12:30,409 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60025.npy
+[ 2025-05-04 02:12:30,409 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60025.npy
+[ 2025-05-04 02:12:30,897 ] 245 root - INFO - PCA shrinked data from (372, 17039) to (372, 20)
+[ 2025-05-04 02:12:30,994 ] 255 root - INFO - RBD shrinked data from (372, 17039) to (372, 20)
+[ 2025-05-04 02:12:30,998 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60031.npy
+[ 2025-05-04 02:12:30,998 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60031.npy
+[ 2025-05-04 02:12:30,998 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60031.npy
+[ 2025-05-04 02:12:31,006 ] 245 root - INFO - PCA shrinked data from (372, 157) to (372, 20)
+[ 2025-05-04 02:12:31,007 ] 255 root - INFO - RBD shrinked data from (372, 157) to (372, 20)
+[ 2025-05-04 02:12:31,007 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61313.npy
+[ 2025-05-04 02:12:31,007 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61313.npy
+[ 2025-05-04 02:12:31,007 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61313.npy
+[ 2025-05-04 02:12:31,343 ] 245 root - INFO - PCA shrinked data from (372, 12312) to (372, 20)
+[ 2025-05-04 02:12:31,404 ] 255 root - INFO - RBD shrinked data from (372, 12312) to (372, 20)
+[ 2025-05-04 02:12:31,408 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60018.npy
+[ 2025-05-04 02:12:31,408 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60018.npy
+[ 2025-05-04 02:12:31,408 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60018.npy
+[ 2025-05-04 02:12:31,858 ] 245 root - INFO - PCA shrinked data from (372, 15882) to (372, 20)
+[ 2025-05-04 02:12:31,939 ] 255 root - INFO - RBD shrinked data from (372, 15882) to (372, 20)
+[ 2025-05-04 02:12:31,944 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60030.npy
+[ 2025-05-04 02:12:31,944 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60030.npy
+[ 2025-05-04 02:12:31,944 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60030.npy
+[ 2025-05-04 02:12:32,156 ] 245 root - INFO - PCA shrinked data from (372, 8217) to (372, 20)
+[ 2025-05-04 02:12:32,187 ] 255 root - INFO - RBD shrinked data from (372, 8217) to (372, 20)
+[ 2025-05-04 02:12:32,190 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61104.npy
+[ 2025-05-04 02:12:32,190 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61104.npy
+[ 2025-05-04 02:12:32,190 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61104.npy
+[ 2025-05-04 02:12:32,319 ] 245 root - INFO - PCA shrinked data from (372, 4557) to (372, 20)
+[ 2025-05-04 02:12:32,329 ] 255 root - INFO - RBD shrinked data from (372, 4557) to (372, 20)
+[ 2025-05-04 02:12:32,333 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60554.npy
+[ 2025-05-04 02:12:32,333 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60554.npy
+[ 2025-05-04 02:12:32,333 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60554.npy
+[ 2025-05-04 02:12:32,407 ] 245 root - INFO - PCA shrinked data from (372, 2545) to (372, 20)
+[ 2025-05-04 02:12:32,412 ] 255 root - INFO - RBD shrinked data from (372, 2545) to (372, 20)
+[ 2025-05-04 02:12:32,413 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60540.npy
+[ 2025-05-04 02:12:32,413 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60540.npy
+[ 2025-05-04 02:12:32,413 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60540.npy
+[ 2025-05-04 02:12:32,462 ] 245 root - INFO - PCA shrinked data from (372, 1689) to (372, 20)
+[ 2025-05-04 02:12:32,466 ] 255 root - INFO - RBD shrinked data from (372, 1689) to (372, 20)
+[ 2025-05-04 02:12:32,466 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61064.npy
+[ 2025-05-04 02:12:32,466 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61064.npy
+[ 2025-05-04 02:12:32,466 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61064.npy
+[ 2025-05-04 02:12:32,549 ] 245 root - INFO - PCA shrinked data from (372, 2708) to (372, 20)
+[ 2025-05-04 02:12:32,555 ] 255 root - INFO - RBD shrinked data from (372, 2708) to (372, 20)
+[ 2025-05-04 02:12:32,556 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60408.npy
+[ 2025-05-04 02:12:32,556 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60408.npy
+[ 2025-05-04 02:12:32,556 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60408.npy
+[ 2025-05-04 02:12:32,575 ] 245 root - INFO - PCA shrinked data from (372, 406) to (372, 20)
+[ 2025-05-04 02:12:32,577 ] 255 root - INFO - RBD shrinked data from (372, 406) to (372, 20)
+[ 2025-05-04 02:12:32,577 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61070.npy
+[ 2025-05-04 02:12:32,577 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61070.npy
+[ 2025-05-04 02:12:32,577 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61070.npy
+[ 2025-05-04 02:12:32,578 ] 245 root - INFO - PCA shrinked data from (372, 32) to (372, 20)
+[ 2025-05-04 02:12:32,579 ] 255 root - INFO - RBD shrinked data from (372, 32) to (372, 20)
+[ 2025-05-04 02:12:32,579 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61058.npy
+[ 2025-05-04 02:12:32,579 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61058.npy
+[ 2025-05-04 02:12:32,579 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61058.npy
+[ 2025-05-04 02:12:32,648 ] 245 root - INFO - PCA shrinked data from (372, 2370) to (372, 20)
+[ 2025-05-04 02:12:32,653 ] 255 root - INFO - RBD shrinked data from (372, 2370) to (372, 20)
+[ 2025-05-04 02:12:32,654 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60420.npy
+[ 2025-05-04 02:12:32,654 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60420.npy
+[ 2025-05-04 02:12:32,654 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60420.npy
+[ 2025-05-04 02:12:32,926 ] 245 root - INFO - PCA shrinked data from (372, 10131) to (372, 20)
+[ 2025-05-04 02:12:32,978 ] 255 root - INFO - RBD shrinked data from (372, 10131) to (372, 20)
+[ 2025-05-04 02:12:32,982 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60178.npy
+[ 2025-05-04 02:12:32,982 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60178.npy
+[ 2025-05-04 02:12:32,982 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60178.npy
+[ 2025-05-04 02:12:34,264 ] 245 root - INFO - PCA shrinked data from (372, 34587) to (372, 20)
+[ 2025-05-04 02:12:34,496 ] 255 root - INFO - RBD shrinked data from (372, 34587) to (372, 20)
+[ 2025-05-04 02:12:34,506 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60622.npy
+[ 2025-05-04 02:12:34,506 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60622.npy
+[ 2025-05-04 02:12:34,506 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60622.npy
+[ 2025-05-04 02:12:34,509 ] 245 root - INFO - PCA shrinked data from (372, 63) to (372, 20)
+[ 2025-05-04 02:12:34,510 ] 255 root - INFO - RBD shrinked data from (372, 63) to (372, 20)
+[ 2025-05-04 02:12:34,510 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60144.npy
+[ 2025-05-04 02:12:34,510 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60144.npy
+[ 2025-05-04 02:12:34,510 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60144.npy
+[ 2025-05-04 02:12:34,538 ] 245 root - INFO - PCA shrinked data from (372, 705) to (372, 20)
+[ 2025-05-04 02:12:34,539 ] 255 root - INFO - RBD shrinked data from (372, 705) to (372, 20)
+[ 2025-05-04 02:12:34,539 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60150.npy
+[ 2025-05-04 02:12:34,539 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60150.npy
+[ 2025-05-04 02:12:34,539 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60150.npy
+[ 2025-05-04 02:12:34,867 ] 245 root - INFO - PCA shrinked data from (372, 11959) to (372, 20)
+[ 2025-05-04 02:12:34,931 ] 255 root - INFO - RBD shrinked data from (372, 11959) to (372, 20)
+[ 2025-05-04 02:12:34,935 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60636.npy
+[ 2025-05-04 02:12:34,935 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60636.npy
+[ 2025-05-04 02:12:34,935 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60636.npy
+[ 2025-05-04 02:12:35,151 ] 245 root - INFO - PCA shrinked data from (372, 8066) to (372, 20)
+[ 2025-05-04 02:12:35,179 ] 255 root - INFO - RBD shrinked data from (372, 8066) to (372, 20)
+[ 2025-05-04 02:12:35,181 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60805.npy
+[ 2025-05-04 02:12:35,181 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60805.npy
+[ 2025-05-04 02:12:35,181 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60805.npy
+[ 2025-05-04 02:12:35,972 ] 245 root - INFO - PCA shrinked data from (372, 23678) to (372, 20)
+[ 2025-05-04 02:12:36,103 ] 255 root - INFO - RBD shrinked data from (372, 23678) to (372, 20)
+[ 2025-05-04 02:12:36,110 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60187.npy
+[ 2025-05-04 02:12:36,111 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60187.npy
+[ 2025-05-04 02:12:36,111 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60187.npy
+[ 2025-05-04 02:12:36,652 ] 245 root - INFO - PCA shrinked data from (372, 17882) to (372, 20)
+[ 2025-05-04 02:12:36,759 ] 255 root - INFO - RBD shrinked data from (372, 17882) to (372, 20)
+[ 2025-05-04 02:12:36,764 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60193.npy
+[ 2025-05-04 02:12:36,764 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60193.npy
+[ 2025-05-04 02:12:36,764 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60193.npy
+[ 2025-05-04 02:12:37,114 ] 245 root - INFO - PCA shrinked data from (372, 12265) to (372, 20)
+[ 2025-05-04 02:12:37,175 ] 255 root - INFO - RBD shrinked data from (372, 12265) to (372, 20)
+[ 2025-05-04 02:12:37,179 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60185.npy
+[ 2025-05-04 02:12:37,179 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60185.npy
+[ 2025-05-04 02:12:37,179 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60185.npy
+[ 2025-05-04 02:12:37,356 ] 245 root - INFO - PCA shrinked data from (372, 6600) to (372, 20)
+[ 2025-05-04 02:12:37,378 ] 255 root - INFO - RBD shrinked data from (372, 6600) to (372, 20)
+[ 2025-05-04 02:12:37,380 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60191.npy
+[ 2025-05-04 02:12:37,380 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60191.npy
+[ 2025-05-04 02:12:37,380 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60191.npy
+[ 2025-05-04 02:12:37,383 ] 245 root - INFO - PCA shrinked data from (372, 67) to (372, 20)
+[ 2025-05-04 02:12:37,384 ] 255 root - INFO - RBD shrinked data from (372, 67) to (372, 20)
+[ 2025-05-04 02:12:37,384 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61258.npy
+[ 2025-05-04 02:12:37,385 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61258.npy
+[ 2025-05-04 02:12:37,385 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61258.npy
+[ 2025-05-04 02:12:37,420 ] 245 root - INFO - PCA shrinked data from (372, 1003) to (372, 20)
+[ 2025-05-04 02:12:37,422 ] 255 root - INFO - RBD shrinked data from (372, 1003) to (372, 20)
+[ 2025-05-04 02:12:37,422 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60146.npy
+[ 2025-05-04 02:12:37,422 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60146.npy
+[ 2025-05-04 02:12:37,422 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60146.npy
+[ 2025-05-04 02:12:38,445 ] 245 root - INFO - PCA shrinked data from (372, 29618) to (372, 20)
+[ 2025-05-04 02:12:38,606 ] 255 root - INFO - RBD shrinked data from (372, 29618) to (372, 20)
+[ 2025-05-04 02:12:38,614 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60620.npy
+[ 2025-05-04 02:12:38,614 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60620.npy
+[ 2025-05-04 02:12:38,614 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60620.npy
+[ 2025-05-04 02:12:39,622 ] 245 root - INFO - PCA shrinked data from (372, 29831) to (372, 20)
+[ 2025-05-04 02:12:39,782 ] 255 root - INFO - RBD shrinked data from (372, 29831) to (372, 20)
+[ 2025-05-04 02:12:39,790 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60634.npy
+[ 2025-05-04 02:12:39,791 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60634.npy
+[ 2025-05-04 02:12:39,791 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60634.npy
+[ 2025-05-04 02:12:39,941 ] 245 root - INFO - PCA shrinked data from (372, 5419) to (372, 20)
+[ 2025-05-04 02:12:39,953 ] 255 root - INFO - RBD shrinked data from (372, 5419) to (372, 20)
+[ 2025-05-04 02:12:39,956 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60152.npy
+[ 2025-05-04 02:12:39,956 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60152.npy
+[ 2025-05-04 02:12:39,956 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60152.npy
+[ 2025-05-04 02:12:41,032 ] 245 root - INFO - PCA shrinked data from (372, 31445) to (372, 20)
+[ 2025-05-04 02:12:41,212 ] 255 root - INFO - RBD shrinked data from (372, 31445) to (372, 20)
+[ 2025-05-04 02:12:41,220 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60608.npy
+[ 2025-05-04 02:12:41,220 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60608.npy
+[ 2025-05-04 02:12:41,220 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60608.npy
+[ 2025-05-04 02:12:41,232 ] 245 root - INFO - PCA shrinked data from (372, 268) to (372, 20)
+[ 2025-05-04 02:12:41,233 ] 255 root - INFO - RBD shrinked data from (372, 268) to (372, 20)
+[ 2025-05-04 02:12:41,233 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61516.npy
+[ 2025-05-04 02:12:41,233 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61516.npy
+[ 2025-05-04 02:12:41,233 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61516.npy
+[ 2025-05-04 02:12:41,329 ] 245 root - INFO - PCA shrinked data from (372, 3362) to (372, 20)
+[ 2025-05-04 02:12:41,337 ] 255 root - INFO - RBD shrinked data from (372, 3362) to (372, 20)
+[ 2025-05-04 02:12:41,338 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61270.npy
+[ 2025-05-04 02:12:41,338 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61270.npy
+[ 2025-05-04 02:12:41,338 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61270.npy
+[ 2025-05-04 02:12:41,447 ] 245 root - INFO - PCA shrinked data from (372, 3823) to (372, 20)
+[ 2025-05-04 02:12:41,455 ] 255 root - INFO - RBD shrinked data from (372, 3823) to (372, 20)
+[ 2025-05-04 02:12:41,457 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60422.npy
+[ 2025-05-04 02:12:41,457 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60422.npy
+[ 2025-05-04 02:12:41,457 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60422.npy
+[ 2025-05-04 02:12:41,673 ] 245 root - INFO - PCA shrinked data from (372, 8055) to (372, 20)
+[ 2025-05-04 02:12:41,700 ] 255 root - INFO - RBD shrinked data from (372, 8055) to (372, 20)
+[ 2025-05-04 02:12:41,705 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60436.npy
+[ 2025-05-04 02:12:41,705 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60436.npy
+[ 2025-05-04 02:12:41,705 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60436.npy
+[ 2025-05-04 02:12:41,736 ] 245 root - INFO - PCA shrinked data from (372, 812) to (372, 20)
+[ 2025-05-04 02:12:41,738 ] 255 root - INFO - RBD shrinked data from (372, 812) to (372, 20)
+[ 2025-05-04 02:12:41,738 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61072.npy
+[ 2025-05-04 02:12:41,738 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61072.npy
+[ 2025-05-04 02:12:41,738 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61072.npy
+[ 2025-05-04 02:12:41,769 ] 245 root - INFO - PCA shrinked data from (372, 877) to (372, 20)
+[ 2025-05-04 02:12:41,771 ] 255 root - INFO - RBD shrinked data from (372, 877) to (372, 20)
+[ 2025-05-04 02:12:41,771 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60556.npy
+[ 2025-05-04 02:12:41,771 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60556.npy
+[ 2025-05-04 02:12:41,771 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60556.npy
+[ 2025-05-04 02:12:41,973 ] 245 root - INFO - PCA shrinked data from (372, 7597) to (372, 20)
+[ 2025-05-04 02:12:41,998 ] 255 root - INFO - RBD shrinked data from (372, 7597) to (372, 20)
+[ 2025-05-04 02:12:42,000 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60542.npy
+[ 2025-05-04 02:12:42,000 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60542.npy
+[ 2025-05-04 02:12:42,000 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60542.npy
+[ 2025-05-04 02:12:42,002 ] 245 root - INFO - PCA shrinked data from (372, 49) to (372, 20)
+[ 2025-05-04 02:12:42,003 ] 255 root - INFO - RBD shrinked data from (372, 49) to (372, 20)
+[ 2025-05-04 02:12:42,003 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61112.npy
+[ 2025-05-04 02:12:42,003 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61112.npy
+[ 2025-05-04 02:12:42,003 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61112.npy
+[ 2025-05-04 02:12:42,062 ] 245 root - INFO - PCA shrinked data from (372, 2025) to (372, 20)
+[ 2025-05-04 02:12:42,066 ] 255 root - INFO - RBD shrinked data from (372, 2025) to (372, 20)
+[ 2025-05-04 02:12:42,067 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60026.npy
+[ 2025-05-04 02:12:42,067 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60026.npy
+[ 2025-05-04 02:12:42,067 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60026.npy
+[ 2025-05-04 02:12:42,123 ] 245 root - INFO - PCA shrinked data from (372, 1910) to (372, 20)
+[ 2025-05-04 02:12:42,127 ] 255 root - INFO - RBD shrinked data from (372, 1910) to (372, 20)
+[ 2025-05-04 02:12:42,127 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61310.npy
+[ 2025-05-04 02:12:42,127 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61310.npy
+[ 2025-05-04 02:12:42,127 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61310.npy
+[ 2025-05-04 02:12:42,133 ] 245 root - INFO - PCA shrinked data from (372, 110) to (372, 20)
+[ 2025-05-04 02:12:42,134 ] 255 root - INFO - RBD shrinked data from (372, 110) to (372, 20)
+[ 2025-05-04 02:12:42,134 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61311.npy
+[ 2025-05-04 02:12:42,134 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61311.npy
+[ 2025-05-04 02:12:42,134 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61311.npy
+[ 2025-05-04 02:12:42,284 ] 245 root - INFO - PCA shrinked data from (372, 5577) to (372, 20)
+[ 2025-05-04 02:12:42,297 ] 255 root - INFO - RBD shrinked data from (372, 5577) to (372, 20)
+[ 2025-05-04 02:12:42,301 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60033.npy
+[ 2025-05-04 02:12:42,301 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60033.npy
+[ 2025-05-04 02:12:42,301 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60033.npy
+[ 2025-05-04 02:12:42,710 ] 245 root - INFO - PCA shrinked data from (372, 14320) to (372, 20)
+[ 2025-05-04 02:12:42,778 ] 255 root - INFO - RBD shrinked data from (372, 14320) to (372, 20)
+[ 2025-05-04 02:12:42,783 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61107.npy
+[ 2025-05-04 02:12:42,783 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61107.npy
+[ 2025-05-04 02:12:42,783 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61107.npy
+[ 2025-05-04 02:12:43,233 ] 245 root - INFO - PCA shrinked data from (372, 15361) to (372, 20)
+[ 2025-05-04 02:12:43,330 ] 255 root - INFO - RBD shrinked data from (372, 15361) to (372, 20)
+[ 2025-05-04 02:12:43,335 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60543.npy
+[ 2025-05-04 02:12:43,335 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60543.npy
+[ 2025-05-04 02:12:43,335 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60543.npy
+[ 2025-05-04 02:12:43,523 ] 245 root - INFO - PCA shrinked data from (372, 7101) to (372, 20)
+[ 2025-05-04 02:12:43,543 ] 255 root - INFO - RBD shrinked data from (372, 7101) to (372, 20)
+[ 2025-05-04 02:12:43,546 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61073.npy
+[ 2025-05-04 02:12:43,546 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61073.npy
+[ 2025-05-04 02:12:43,546 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61073.npy
+[ 2025-05-04 02:12:43,559 ] 245 root - INFO - PCA shrinked data from (372, 284) to (372, 20)
+[ 2025-05-04 02:12:43,560 ] 255 root - INFO - RBD shrinked data from (372, 284) to (372, 20)
+[ 2025-05-04 02:12:43,560 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61067.npy
+[ 2025-05-04 02:12:43,560 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61067.npy
+[ 2025-05-04 02:12:43,560 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61067.npy
+[ 2025-05-04 02:12:43,562 ] 245 root - INFO - PCA shrinked data from (372, 63) to (372, 20)
+[ 2025-05-04 02:12:43,563 ] 255 root - INFO - RBD shrinked data from (372, 63) to (372, 20)
+[ 2025-05-04 02:12:43,563 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60437.npy
+[ 2025-05-04 02:12:43,563 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60437.npy
+[ 2025-05-04 02:12:43,563 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60437.npy
+[ 2025-05-04 02:12:43,923 ] 245 root - INFO - PCA shrinked data from (372, 13106) to (372, 20)
+[ 2025-05-04 02:12:44,007 ] 255 root - INFO - RBD shrinked data from (372, 13106) to (372, 20)
+[ 2025-05-04 02:12:44,011 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60423.npy
+[ 2025-05-04 02:12:44,011 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60423.npy
+[ 2025-05-04 02:12:44,011 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60423.npy
+[ 2025-05-04 02:12:44,795 ] 245 root - INFO - PCA shrinked data from (372, 23435) to (372, 20)
+[ 2025-05-04 02:12:44,927 ] 255 root - INFO - RBD shrinked data from (372, 23435) to (372, 20)
+[ 2025-05-04 02:12:44,934 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60609.npy
+[ 2025-05-04 02:12:44,934 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60609.npy
+[ 2025-05-04 02:12:44,934 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60609.npy
+[ 2025-05-04 02:12:44,937 ] 245 root - INFO - PCA shrinked data from (372, 49) to (372, 20)
+[ 2025-05-04 02:12:44,938 ] 255 root - INFO - RBD shrinked data from (372, 49) to (372, 20)
+[ 2025-05-04 02:12:44,938 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60635.npy
+[ 2025-05-04 02:12:44,938 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60635.npy
+[ 2025-05-04 02:12:44,938 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60635.npy
+[ 2025-05-04 02:12:45,161 ] 245 root - INFO - PCA shrinked data from (372, 8561) to (372, 20)
+[ 2025-05-04 02:12:45,193 ] 255 root - INFO - RBD shrinked data from (372, 8561) to (372, 20)
+[ 2025-05-04 02:12:45,196 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60153.npy
+[ 2025-05-04 02:12:45,196 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60153.npy
+[ 2025-05-04 02:12:45,196 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60153.npy
+[ 2025-05-04 02:12:45,199 ] 245 root - INFO - PCA shrinked data from (372, 47) to (372, 20)
+[ 2025-05-04 02:12:45,200 ] 255 root - INFO - RBD shrinked data from (372, 47) to (372, 20)
+[ 2025-05-04 02:12:45,200 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60147.npy
+[ 2025-05-04 02:12:45,200 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60147.npy
+[ 2025-05-04 02:12:45,200 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60147.npy
+[ 2025-05-04 02:12:45,526 ] 245 root - INFO - PCA shrinked data from (372, 12122) to (372, 20)
+[ 2025-05-04 02:12:45,586 ] 255 root - INFO - RBD shrinked data from (372, 12122) to (372, 20)
+[ 2025-05-04 02:12:45,590 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60621.npy
+[ 2025-05-04 02:12:45,590 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60621.npy
+[ 2025-05-04 02:12:45,590 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60621.npy
+[ 2025-05-04 02:12:45,722 ] 245 root - INFO - PCA shrinked data from (372, 4763) to (372, 20)
+[ 2025-05-04 02:12:45,732 ] 255 root - INFO - RBD shrinked data from (372, 4763) to (372, 20)
+[ 2025-05-04 02:12:45,735 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60190.npy
+[ 2025-05-04 02:12:45,735 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60190.npy
+[ 2025-05-04 02:12:45,735 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60190.npy
+[ 2025-05-04 02:12:45,765 ] 245 root - INFO - PCA shrinked data from (372, 772) to (372, 20)
+[ 2025-05-04 02:12:45,767 ] 255 root - INFO - RBD shrinked data from (372, 772) to (372, 20)
+[ 2025-05-04 02:12:45,767 ] 207 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60184.npy
+[ 2025-05-04 02:12:45,767 ] 210 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60184.npy
+[ 2025-05-04 02:12:45,767 ] 213 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60184.npy
+[ 2025-05-04 02:12:45,777 ] 144 root - INFO - All zipcode data shrinked.
+[ 2025-05-04 02:12:45,778 ] 145 root - INFO - PCA time: 47.78 seconds
+[ 2025-05-04 02:12:45,778 ] 146 root - INFO - RBD time: 8.95 seconds
+[ 2025-05-04 02:12:45,883 ] 153 root - INFO - Formed RMA by PCA reduced from (372, 4380) to (372, 20)
+[ 2025-05-04 02:12:45,896 ] 160 root - INFO - Formed RMA by RBD reduced from (372, 4380) to (372, 20)
+[ 2025-05-04 02:12:45,905 ] 168 root - INFO - Formed CBA by PCA reduced from (372, 219) to (372, 20)
+[ 2025-05-04 02:12:45,905 ] 174 root - INFO - Formed AMA reduced from (372, 219) to (372, 1)
+[ 2025-05-04 02:12:45,916 ] 75 root - INFO - Input data for ML created.
+[ 2025-05-04 02:12:45,916 ] 81 root - INFO - Input data concatenated with the output for ML.
+[ 2025-05-04 02:12:45,916 ] 100 root - INFO - Data split into training and testing sets.
+[ 2025-05-04 02:12:45,916 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-04 02:12:45,916 ] 164 root - INFO - Numerical columns: [0 1 2]
+[ 2025-05-04 02:12:45,919 ] 47 root - INFO - Preprocessing pipeline done for ama
+[ 2025-05-04 02:12:45,919 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-04 02:12:45,919 ] 164 root - INFO - Numerical columns: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59]
+[ 2025-05-04 02:12:45,922 ] 57 root - INFO - Preprocessing pipeline done for cba
+[ 2025-05-04 02:12:45,922 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-04 02:12:45,922 ] 164 root - INFO - Numerical columns: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59]
+[ 2025-05-04 02:12:45,924 ] 67 root - INFO - Preprocessing pipeline done for rma_pca
+[ 2025-05-04 02:12:45,924 ] 163 root - INFO - Categorical columns: []
+[ 2025-05-04 02:12:45,924 ] 164 root - INFO - Numerical columns: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+ 48 49 50 51 52 53 54 55 56 57 58 59]
+[ 2025-05-04 02:12:45,927 ] 77 root - INFO - Preprocessing pipeline done for rma_rbd
+[ 2025-05-04 02:12:45,929 ] 96 root - INFO - Saved preprocessing object.
+[ 2025-05-04 02:12:45,929 ] 32 root - INFO - Split training and test input data
+[ 2025-05-04 02:12:45,940 ] 114 root - WARNING - No best model found
+[ 2025-05-04 02:12:45,940 ] 116 root - INFO - Best found model on both training and testing dataset
+[ 2025-05-04 02:12:45,941 ] 91 root - INFO - R2 score for model Linear Regression and trategy rma_pca: 0.5045567430749425
+[ 2025-05-04 02:12:45,941 ] 32 root - INFO - Split training and test input data
+[ 2025-05-04 02:12:45,946 ] 116 root - INFO - Best found model on both training and testing dataset
+[ 2025-05-04 02:12:45,947 ] 91 root - INFO - R2 score for model Linear Regression and trategy rma_rbd: 0.9331603877007264
+[ 2025-05-04 02:12:46,754 ] 224 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2025-05-04 02:12:46,756 ] 224 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

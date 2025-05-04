@@ -15,6 +15,7 @@ from src.utils import (
 )
 import os
 import sys
+import time
 
 
 @dataclass
@@ -34,6 +35,8 @@ class DataTransformation:
         self.dim_reduction_size = dim_reduction_size
         self.time_interval = time_interval
         self.r = r
+        self.pca_time = 0
+        self.rbd_time = 0
 
     def get_r_time_interval_dependent_data_matrices(self):
         """
@@ -57,7 +60,7 @@ class DataTransformation:
                 cba_pca_data,
                 rma_pca_data,
                 rma_rbd_data,
-            ) = self.get_data_matrices()
+            ) = self._get_data_matrices()
 
             ama_data_for_ml = make_data_r_time_intervals_dependent(ama_data, r=self.r)
             cba_data_for_ml = make_data_r_time_intervals_dependent(
@@ -114,7 +117,7 @@ class DataTransformation:
             )
             raise
 
-    def get_data_matrices(self):
+    def _get_data_matrices(self):
         """
         There are three modeling strategies:
 
@@ -137,8 +140,10 @@ class DataTransformation:
                 hierarchical_pca_data,
                 hierarchical_rbd_data,
                 data_zipcodes,
-            ) = self.reduce_dimension_of_concatenated_reduced_zipcodes()
+            ) = self._reduce_dimension_of_concatenated_reduced_zipcodes()
             logging.info("All zipcode data shrinked.")
+            logging.info(f"PCA time: {self.pca_time:.2f} seconds")
+            logging.info(f"RBD time: {self.rbd_time:.2f} seconds")
 
             # Data for reduced model approach (RMA)
             rma_pca_data, _ = PCA_method(
@@ -182,7 +187,7 @@ class DataTransformation:
             logging.error(custom_error)
             raise
 
-    def reduce_dimension_of_concatenated_reduced_zipcodes(self):
+    def _reduce_dimension_of_concatenated_reduced_zipcodes(self):
         hierarchical_pca_data = []
         hierarchical_rbd_data = []
         data_zipcodes = []
@@ -196,7 +201,7 @@ class DataTransformation:
                         pca_transformed_data,
                         rbd_transformed_data,
                         data_zipcode,
-                    ) = self.reduce_dimension_single_zipcode(filename)
+                    ) = self._reduce_dimension_single_zipcode(filename)
 
                     hierarchical_pca_data.append(pca_transformed_data)
                     logging.info(f"PCA transformed for {filename}")
@@ -218,7 +223,7 @@ class DataTransformation:
             logging.error(f"Error in getting data transformer object: {custom_error}")
             raise
 
-    def reduce_dimension_single_zipcode(self, filename):
+    def _reduce_dimension_single_zipcode(self, filename):
         try:
             # Load the data
             data_array = load_npy(
@@ -232,17 +237,21 @@ class DataTransformation:
             )
 
             # Apply Heirarchical PCA
+            start_time_pca = time.time()
             pca_transformed_data, _ = PCA_method(
                 data=data_intervals, dim_reduction_size=self.dim_reduction_size
             )
+            self.pca_time += time.time() - start_time_pca
             logging.info(
                 f"PCA shrinked data from {data_intervals.shape} to {pca_transformed_data.shape}"
             )
 
             # Apply Heirarchical RBD
+            start_time_rbd = time.time()
             rbd_transformed_data = RBD_method(
                 data=data_intervals, col=self.dim_reduction_size
             )
+            self.rbd_time += time.time() - start_time_rbd
             logging.info(
                 f"RBD shrinked data from {data_intervals.shape} to {rbd_transformed_data.shape}"
             )

@@ -15,6 +15,7 @@ Requires-Dist: requests
 Requires-Dist: dill
 Requires-Dist: catboost
 Requires-Dist: kagglehub
+Requires-Dist: pytest
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist

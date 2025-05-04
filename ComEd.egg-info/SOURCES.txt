@@ -17,3 +17,4 @@ src/components/model_trainer.py
 src/pipelines/__init__.py
 src/pipelines/predict_pipeline.py
 src/pipelines/train_pipeline.py
+tests/test_train_strategies_model.py

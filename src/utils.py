@@ -251,25 +251,54 @@ def evaluate_models(X_train, y_train,X_test,y_test,models,param):
         logging.error(f"Error in evaluate_models: {custom_error}")
 
 
+
 def extract_file(source: str, dest: str):
-    with zipfile.ZipFile(source, 'r') as zip_ref:
-        os.makedirs(dest, exist_ok=True)
-        zip_ref.extractall(dest)
+    try:
+        with zipfile.ZipFile(source, 'r') as zip_ref:
+            os.makedirs(dest, exist_ok=True)
+            zip_ref.extractall(dest)
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise
+
 
 def save_npy(filename: str, dest: str, arr):
-    file_path = os.path.join(dest, filename)
-    os.makedirs(dest, exist_ok=True)
-    np.save(file_path, arr)
+    try:
+        file_path = os.path.join(dest, filename)
+        os.makedirs(dest, exist_ok=True)
+        np.save(file_path, arr)
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise
+
 
 def load_npy(filename: str, source: str):
-    file_path = os.path.join(source, filename)
-    return np.load(file_path)
+    try:
+        file_path = os.path.join(source, filename)
+        return np.load(file_path)
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise
+
 
 def save_object(file_path, obj):
     dir_path = os.path.dirname(file_path)
     os.makedirs(dir_path, exist_ok=True)
     with open(file_path, "wb") as file_obj:
         pickle.dump(obj, file_obj)
+
+
+def load_object(file_path):
+    try:
+        with open(file_path, "rb") as file_obj:
+            return pickle.load(file_obj)
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise
     
 
 def list_time_interval_columns() -> list[str]:
@@ -279,14 +308,34 @@ def list_time_interval_columns() -> list[str]:
     ]
     return time_interval_columns
 
-def get_data_attribute(name: str) -> np.ndarray:
-    data_names = {
-        "train_ama": train_ama,
-        "test_ama": test_ama,
-        "train_cba": train_cba,
-        "test_cba": test_cba,
-        "train_rma_pca": train_rma_pca,
-        "test_rma_pca": test_rma_pca,
-        "train_rma_rbd": train_rma_rbd,
-        "test_rma_rbd": test_rma_rbd,
-    }
+
+def estimate_mean_absolute_percentage(y_true, y_pred):
+    try:
+        y_true, y_pred = np.array(y_true), np.array(y_pred)
+        e_map = np.mean(np.abs((y_true - y_pred) / y_true))
+        return e_map
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise
+
+
+def estimate_coefficient_of_error(y_true, y_pred):
+    try:
+        y_true, y_pred = np.array(y_true), np.array(y_pred)
+        e_cv = np.std(y_true - y_pred) / np.mean(y_true)
+        return e_cv
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise
+
+def relative_error(y_true, y_pred):
+    try:
+        y_true, y_pred = np.array(y_true), np.array(y_pred)
+        relative_error = np.abs((y_true - y_pred) / y_true)
+        return relative_error
+    except Exception as e:
+        custom_error = CustomException(e, sys)
+        logging.error(custom_error)
+        raise

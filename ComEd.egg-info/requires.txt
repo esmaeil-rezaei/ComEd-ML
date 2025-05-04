@@ -10,3 +10,4 @@ requests
 dill
 catboost
 kagglehub
+pytest
