@@ -13,9 +13,9 @@ class DataIngestionConfig:
     Data Ingestion Configuration
     """
 
-    raw_data_zipped_files_path: str = os.path.join("artifacts", "raw_data_zipped")
-    raw_data_unzipped_files_path: str = os.path.join("artifacts", "raw_data_unzipped")
-    raw_data_arrays_path: str = os.path.join("artifacts", "raw_data_arrays")
+    raw_data_zipped_files_path: str = os.path.join("data", "raw")
+    raw_data_unzipped_files_path: str = os.path.join("data", "raw_unzipped")
+    processed_data_arrays_path: str = os.path.join("data", "processed")
 
 
 class DataIngestion:
@@ -31,8 +31,6 @@ class DataIngestion:
         Initiate Data Ingestion
         """
 
-        logging.info("Data Ingestion started")
-
         try:
             # Unzipe data
             unzip_file(
@@ -44,10 +42,11 @@ class DataIngestion:
             # Data wrangling
             clean_reshape_files_to_npy(
                 source=self.data_ingestion_config.raw_data_unzipped_files_path,
-                dest=self.data_ingestion_config.raw_data_arrays_path,
+                dest=self.data_ingestion_config.processed_data_arrays_path,
             )
             logging.info("Data wrangling completed")
 
         except Exception as e:
-            raise CustomException(e, sys) from e
+            custom_error = CustomException(e, sys)
+            logging.error({custom_error})
 

@@ -20,8 +20,8 @@ import time
 
 @dataclass
 class DataTransformationConfig:
-    raw_data_arrays_path: str = os.path.join("artifacts", "raw_data_arrays")
-    split_data_path: str = os.path.join("artifacts", "split_data_path.pkl")
+    processed_data_arrays_path: str = os.path.join("data", "processed")
+    split_data_path: str = os.path.join("data", "split_data_path.pkl")
 
 
 class DataTransformation:
@@ -80,6 +80,7 @@ class DataTransformation:
             rma_rbd_data_for_ml = np.c_[rma_rbd_data_for_ml, ama_data[self.r :, :]]
             logging.info("Input data concatenated with the output for ML.")
 
+
             split_index = int(0.8 * len(ama_data_for_ml))
             train_ama, test_ama = (
                 ama_data_for_ml[:split_index],
@@ -112,10 +113,7 @@ class DataTransformation:
 
         except Exception as e:
             custom_error = CustomException(e, sys)
-            logging.error(
-                f"Error in get_r_time_interval_dependent_data_matrices: {custom_error}"
-            )
-            raise
+            logging.error(f"{custom_error}")
 
     def _get_data_matrices(self):
         """
@@ -185,7 +183,6 @@ class DataTransformation:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error(custom_error)
-            raise
 
     def _reduce_dimension_of_concatenated_reduced_zipcodes(self):
         hierarchical_pca_data = []
@@ -194,7 +191,7 @@ class DataTransformation:
 
         try:
             for filename in os.listdir(
-                self.data_transformation_config.raw_data_arrays_path
+                self.data_transformation_config.processed_data_arrays_path
             ):
                 if filename.endswith(".npy"):
                     (
@@ -220,15 +217,14 @@ class DataTransformation:
 
         except Exception as e:
             custom_error = CustomException(e, sys)
-            logging.error(f"Error in getting data transformer object: {custom_error}")
-            raise
+            logging.error({custom_error})
 
     def _reduce_dimension_single_zipcode(self, filename):
         try:
             # Load the data
             data_array = load_npy(
                 filename=filename,
-                source=self.data_transformation_config.raw_data_arrays_path,
+                source=self.data_transformation_config.processed_data_arrays_path,
             )
 
             # customize resolution
@@ -264,12 +260,3 @@ class DataTransformation:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error(custom_error)
-            raise
-
-
-# if __name__ == "__main__":
-#     obj = DataTransformation()
-#     obj.get_data_transformer_object()
-
-#     data_transformation = DataTransformation()
-#     data_transformation.get_data_transformer_object()

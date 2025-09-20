@@ -13,4 +13,7 @@ env/
 comed-env/
 
 # Ignore artifacts
-artifacts/
+data/raw/*
+data/raw_unzipped/*
+data/processed/*
+models/*

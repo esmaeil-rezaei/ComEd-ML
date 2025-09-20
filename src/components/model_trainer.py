@@ -20,12 +20,25 @@ from src.utils import save_object, evaluate_models
 
 
 class ModelTrainer:
-    def __init__(self, strategy_name: str, ml_models_name: set):
-        self.trained_model_file_path = os.path.join(
-            "artifacts", f"model_{strategy_name}.pkl"
-        )
+    def __init__(
+            self,
+            strategy_name: str,
+            ml_models_name: set,
+            time_interval: float,
+            r: int,):
+
         self.strategy_name = strategy_name
         self.ml_models_name = ml_models_name
+
+        if time_interval not in {0.5, 1.0, 2.0}:
+            logging.error(
+                f"Invalid time_interval: {time_interval}. Must be one of 0.5, 1.0, or 2.0"
+            )
+            raise ValueError
+
+        self.trained_model_file_path = os.path.join(
+            "data", f"model_{strategy_name}.pkl"
+        )
 
     def train(self, data_train: np.ndarray, data_test: np.ndarray):
         try:
@@ -49,42 +62,55 @@ class ModelTrainer:
             }
             params = {
                 "Decision Tree": {
-                    "criterion": [
-                        "squared_error",
-                        "friedman_mse",
-                        "absolute_error",
-                        "poisson",
-                    ],
-                    # 'splitter':['best','random'],
-                    # 'max_features':['sqrt','log2'],
+                    'max_depth': [5, 10, 20, None],
+                    'min_samples_split': [2, 5, 10],
+                    # 'min_samples_leaf': [1, 2, 4],
+                    # 'max_features': ['auto', 'sqrt', 'log2', None]
                 },
                 "Random Forest": {
-                    # 'criterion':['squared_error', 'friedman_mse', 'absolute_error', 'poisson'],
-                    # 'max_features':['sqrt','log2',None],
-                    "n_estimators": [8, 16, 32, 64, 128, 256]
+                    'n_estimators': [100, 300, 500],
+                    'max_depth': [None, 10, 20, 30],
+                    # 'min_samples_split': [2, 5, 10],
+                    # 'min_samples_leaf': [1, 2, 4],
+                    # 'max_features': ['sqrt', 'log2', None],
+                    # 'bootstrap': [True, False]
                 },
                 "Gradient Boosting": {
-                    # 'loss':['squared_error', 'huber', 'absolute_error', 'quantile'],
-                    "learning_rate": [0.1, 0.01, 0.05, 0.001],
-                    "subsample": [0.6, 0.7, 0.75, 0.8, 0.85, 0.9],
-                    # 'criterion':['squared_error', 'friedman_mse'],
-                    # 'max_features':['auto','sqrt','log2'],
-                    "n_estimators": [8, 16, 32, 64, 128, 256],
+                    'n_estimators': [100, 300, 500],
+                    'learning_rate': [0.01, 0.05, 0.1],
+                    # 'max_depth': [3, 5, 7],
+                    # 'min_samples_split': [2, 5],
+                    # 'min_samples_leaf': [1, 2],
+                    # 'subsample': [0.7, 0.9, 1.0],
+                    # 'max_features': ['sqrt', 'log2']
                 },
-                "Linear Regression": {},
+                "Linear Regression": {
+                    # 'fit_intercept': [True, False],
+                    # 'positive': [True, False]
+                },
                 "XGBRegressor": {
-                    "learning_rate": [0.1, 0.01, 0.05, 0.001],
-                    "n_estimators": [8, 16, 32, 64, 128, 256],
+                    'n_estimators': [100, 300, 500],
+                    'learning_rate': [0.01, 0.1, 0.2],
+                    # 'max_depth': [3, 5, 7],
+                    # 'min_child_weight': [1, 3, 5],
+                    # 'gamma': [0, 1, 5],
+                    # 'subsample': [0.7, 0.9, 1.0],
+                    # 'colsample_bytree': [0.7, 0.9, 1.0],
+                    # 'reg_alpha': [0, 0.01, 0.1],
+                    # 'reg_lambda': [1, 1.5, 2.0],
                 },
                 "CatBoosting Regressor": {
-                    "depth": [6, 8, 10],
-                    "learning_rate": [0.01, 0.05, 0.1],
-                    "iterations": [30, 50, 100],
+                    'iterations': [300, 500, 800],
+                    'learning_rate': [0.01, 0.05, 0.1],
+                    'depth': [4, 6, 8],
+                    # 'l2_leaf_reg': [1, 3, 5, 7],
+                    # 'bagging_temperature': [0, 1, 3],
+                    # 'border_count': [32, 64, 128]
                 },
                 "AdaBoost Regressor": {
-                    "learning_rate": [0.1, 0.01, 0.5, 0.001],
-                    # 'loss':['linear','square','exponential'],
-                    "n_estimators": [8, 16, 32, 64, 128, 256],
+                    'n_estimators': [50, 100, 300],
+                    'learning_rate': [0.01, 0.1, 1],
+                    # 'loss': ['linear', 'square', 'exponential']
                 },
             }
 
@@ -134,5 +160,4 @@ class ModelTrainer:
 
         except Exception as e:
             custom_error = CustomException(e, sys)
-            logging.error(f"Error in train method: {custom_error}")
-            raise custom_error
+            logging.error({custom_error})

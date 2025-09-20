@@ -11,10 +11,9 @@ src/logger.py
 src/utils.py
 src/components/__init__.py
 src/components/data_ingestion.py
-src/components/data_pipeline.py
 src/components/data_transformation.py
+src/components/encoder_pipeline.py
 src/components/model_trainer.py
 src/pipelines/__init__.py
 src/pipelines/predict_pipeline.py
 src/pipelines/train_pipeline.py
-tests/test_train_strategies_model.py

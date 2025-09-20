@@ -103,7 +103,7 @@ def RBD_method(data: np.ndarray, col: int, tol: float = 1e-5) -> np.ndarray:
         AtAAtXi = np.zeros((nc, col), dtype=float)
         xiFlag = np.zeros(col, dtype=int)
         xiFlag[0] = np.random.randint(nc)
-        xiFlag[0] = 0
+        xiFlag[0] = 1
         i = 0
         CurErr = tol + 1
 
@@ -166,8 +166,11 @@ def PCA_method(data: np.ndarray, dim_reduction_size: int) -> np.ndarray:
     try:
         data_scaled = StandardScaler().fit_transform(data)
         pca = PCA()
-        data_pca_full = pca.fit_transform(data_scaled)
-        data_pca_reduced = data_pca_full[:, :dim_reduction_size]
+        coeff = pca.fit(data_scaled).components_.T
+        score = pca.transform(data_scaled)
+        # data_pca_full = pca.fit_transform(data_scaled)
+        # data_pca_reduced = data_pca_full[:, :dim_reduction_size]
+        data_pca_reduced = data_scaled @ coeff[:, :dim_reduction_size]
         return data_pca_reduced, pca
     
     except Exception as e:
@@ -333,7 +336,7 @@ def estimate_coefficient_of_error(y_true, y_pred):
 def relative_error(y_true, y_pred):
     try:
         y_true, y_pred = np.array(y_true), np.array(y_pred)
-        relative_error = np.abs((y_true - y_pred) / y_true)
+        relative_error = (y_true - y_pred) / y_true
         return relative_error
     except Exception as e:
         custom_error = CustomException(e, sys)
