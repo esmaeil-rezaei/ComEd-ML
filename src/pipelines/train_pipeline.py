@@ -49,6 +49,7 @@ class TrainStrategiesModel:
 
 
             # Prepare data for training
+            logging.info("Starting data transformation...")
             data_transformation = DataTransformation(
                 dim_reduction_size=self.dim_reduction_size,
                 time_interval=self.time_interval,
@@ -65,8 +66,10 @@ class TrainStrategiesModel:
                 train_rma_rbd,
                 test_rma_rbd,
             ) = data_transformation.get_r_time_interval_dependent_data_matrices()
+            logging.info("Data transformation completed.")
 
             # Standardize Numericals & Encode Categoricals
+            logging.info("Starting data encoding...")
             encoder_pipeline = EncoderPipeline(
                 train_ama=train_ama,
                 test_ama=test_ama,
@@ -89,6 +92,7 @@ class TrainStrategiesModel:
                 test_rma_rbd,
             )
             encoder_pipeline.encode_all_data_for_all_strategies()
+            logging.info("Data encoding completed.")
 
             data_names = {
                 "train_ama": train_ama,
@@ -102,6 +106,7 @@ class TrainStrategiesModel:
             }
 
             # Train models for each strategy
+            logging.info("Starting model training for each strategy...")
             for strategy in self.strategy_names:
                 model_trainer = ModelTrainer(
                     strategy_name=strategy,
@@ -117,10 +122,12 @@ class TrainStrategiesModel:
                 logging.info(
                     f"R2 score for model {best_model_name} and trategy {strategy}: {r2_square}"
                 )
+            logging.info("Model training completed for all strategies.")
 
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error({custom_error})
+            raise
 
 
 if __name__ == "__main__":

@@ -27,6 +27,7 @@ from src.utils import (
     estimate_mean_absolute_percentage,
     relative_error
 )
+import cProfile
 
 
 def setup_matplotlib():
@@ -275,7 +276,7 @@ def plot_time_series_comparison(metrics, figs_path, time_interval, r):
 
 def plot_error_distribution_analysis(metrics, figs_path, time_interval, r):
     """Create detailed error distribution analysis."""
-    print("Creating error distribution analysis...")
+    logging.info("Creating error distribution analysis...")
     
     # Set appealing color palette
     colors = ["#4C72B0", "#DD8452"]
@@ -344,17 +345,17 @@ def main():
     time_interval = 0.5
     strategy_names = {"rma_rbd", "rma_pca"}
     ml_models_name = {
-        "Random Forest",
-        "Decision Tree",
-        "Gradient Boosting",
+        # "Random Forest",
+        # "Decision Tree",
+        # "Gradient Boosting",
         "Linear Regression",
         "XGBRegressor",
-        "CatBoosting Regressor",
-        "AdaBoost Regressor",
+        # "CatBoosting Regressor",
+        # "AdaBoost Regressor",
     }
     
-    print("Starting model evaluation and visualization pipeline...")
-    print(f"Configuration: r={r}, dim_reduction_size={dim_reduction_size}, time_interval={time_interval}")
+    logging.info("Starting model evaluation and visualization pipeline...")
+    logging.info(f"Configuration: r={r}, dim_reduction_size={dim_reduction_size}, time_interval={time_interval}")
     
     # Setup
     setup_matplotlib()
@@ -390,4 +391,10 @@ def main():
 
 
 if __name__ == "__main__":
+    profiler = cProfile.Profile()
+    profiler.enable()
+
     main()
+
+    profiler.disable()
+    profiler.print_stats(sort='time')

@@ -4,7 +4,6 @@ from src.exception import CustomException
 from src.logger import logging
 from src.utils import unzip_file, clean_reshape_files_to_npy
 from dataclasses import dataclass
-from typing import List, Dict, Any
 
 
 @dataclass
@@ -49,4 +48,5 @@ class DataIngestion:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error({custom_error})
+            raise
 

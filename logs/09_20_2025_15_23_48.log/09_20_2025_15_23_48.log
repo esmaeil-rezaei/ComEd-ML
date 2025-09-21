@@ -1,0 +1,831 @@
+[ 2025-09-20 15:23:48,460 ] 43 root - INFO - Starting data ingestion...
+[ 2025-09-20 15:23:48,494 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61319.csv.zip
+[ 2025-09-20 15:23:49,662 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60613.csv.zip
+[ 2025-09-20 15:23:49,696 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61261.csv.zip
+[ 2025-09-20 15:23:49,824 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60603.csv.zip
+[ 2025-09-20 15:23:50,554 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60046.csv.zip
+[ 2025-09-20 15:23:51,798 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60056.csv.zip
+[ 2025-09-20 15:23:52,664 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61107.csv.zip
+[ 2025-09-20 15:23:52,688 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60565.csv.zip
+[ 2025-09-20 15:23:54,119 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60187.csv.zip
+[ 2025-09-20 15:23:55,390 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60914.csv.zip
+[ 2025-09-20 15:23:56,779 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60517.csv.zip
+[ 2025-09-20 15:23:56,842 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60034.csv.zip
+[ 2025-09-20 15:23:57,655 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60661.csv.zip
+[ 2025-09-20 15:23:58,199 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60432.csv.zip
+[ 2025-09-20 15:23:58,212 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61050.csv.zip
+[ 2025-09-20 15:23:58,332 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60422.csv.zip
+[ 2025-09-20 15:23:58,338 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61336.csv.zip
+[ 2025-09-20 15:23:59,044 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60101.csv.zip
+[ 2025-09-20 15:23:59,178 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60069.csv.zip
+[ 2025-09-20 15:23:59,188 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60111.csv.zip
+[ 2025-09-20 15:23:59,268 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60163.csv.zip
+[ 2025-09-20 15:23:59,896 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60173.csv.zip
+[ 2025-09-20 15:24:00,500 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60450.csv.zip
+[ 2025-09-20 15:24:01,034 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60538.csv.zip
+[ 2025-09-20 15:24:01,663 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61032.csv.zip
+[ 2025-09-20 15:24:02,499 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60440.csv.zip
+[ 2025-09-20 15:24:02,743 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60084.csv.zip
+[ 2025-09-20 15:24:02,788 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60476.csv.zip
+[ 2025-09-20 15:24:02,799 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61014.csv.zip
+[ 2025-09-20 15:24:03,564 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60466.csv.zip
+[ 2025-09-20 15:24:03,574 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61739.csv.zip
+[ 2025-09-20 15:24:03,638 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60145.csv.zip
+[ 2025-09-20 15:24:03,773 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60155.csv.zip
+[ 2025-09-20 15:24:03,840 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61310.csv.zip
+[ 2025-09-20 15:24:04,393 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60137.csv.zip
+[ 2025-09-20 15:24:04,624 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60404.csv.zip
+[ 2025-09-20 15:24:05,270 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60002.csv.zip
+[ 2025-09-20 15:24:05,404 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60012.csv.zip
+[ 2025-09-20 15:24:06,886 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60657.csv.zip
+[ 2025-09-20 15:24:08,694 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60647.csv.zip
+[ 2025-09-20 15:24:08,751 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60531.csv.zip
+[ 2025-09-20 15:24:08,995 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60449.csv.zip
+[ 2025-09-20 15:24:09,784 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60521.csv.zip
+[ 2025-09-20 15:24:10,134 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60459.csv.zip
+[ 2025-09-20 15:24:10,141 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61082.csv.zip
+[ 2025-09-20 15:24:10,155 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60922.csv.zip
+[ 2025-09-20 15:24:10,395 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60940.csv.zip
+[ 2025-09-20 15:24:10,627 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60950.csv.zip
+[ 2025-09-20 15:24:10,803 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60482.csv.zip
+[ 2025-09-20 15:24:11,160 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61764.csv.zip
+[ 2025-09-20 15:24:11,180 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60553.csv.zip
+[ 2025-09-20 15:24:11,186 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61059.csv.zip
+[ 2025-09-20 15:24:11,852 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60543.csv.zip
+[ 2025-09-20 15:24:11,867 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61049.csv.zip
+[ 2025-09-20 15:24:11,872 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60635.csv.zip
+[ 2025-09-20 15:24:13,080 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60625.csv.zip
+[ 2025-09-20 15:24:13,991 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60060.csv.zip
+[ 2025-09-20 15:24:14,316 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60118.csv.zip
+[ 2025-09-20 15:24:14,813 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60070.csv.zip
+[ 2025-09-20 15:24:15,218 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60108.csv.zip
+[ 2025-09-20 15:24:15,588 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60467.csv.zip
+[ 2025-09-20 15:24:15,610 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61015.csv.zip
+[ 2025-09-20 15:24:16,580 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60477.csv.zip
+[ 2025-09-20 15:24:16,600 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60701.csv.zip
+[ 2025-09-20 15:24:16,862 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60154.csv.zip
+[ 2025-09-20 15:24:16,869 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60144.csv.zip
+[ 2025-09-20 15:24:17,819 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60085.csv.zip
+[ 2025-09-20 15:24:17,975 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60136.csv.zip
+[ 2025-09-20 15:24:18,946 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60126.csv.zip
+[ 2025-09-20 15:24:18,955 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61311.csv.zip
+[ 2025-09-20 15:24:18,958 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61077.csv.zip
+[ 2025-09-20 15:24:19,193 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60415.csv.zip
+[ 2025-09-20 15:24:19,212 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61067.csv.zip
+[ 2025-09-20 15:24:19,685 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60646.csv.zip
+[ 2025-09-20 15:24:20,140 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60656.csv.zip
+[ 2025-09-20 15:24:20,540 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60013.csv.zip
+[ 2025-09-20 15:24:20,761 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60458.csv.zip
+[ 2025-09-20 15:24:20,816 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60520.csv.zip
+[ 2025-09-20 15:24:21,225 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60448.csv.zip
+[ 2025-09-20 15:24:21,241 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60530.csv.zip
+[ 2025-09-20 15:24:21,326 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61048.csv.zip
+[ 2025-09-20 15:24:21,618 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60542.csv.zip
+[ 2025-09-20 15:24:21,627 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61058.csv.zip
+[ 2025-09-20 15:24:21,728 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60552.csv.zip
+[ 2025-09-20 15:24:21,748 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60109.csv.zip
+[ 2025-09-20 15:24:21,837 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60071.csv.zip
+[ 2025-09-20 15:24:22,008 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60119.csv.zip
+[ 2025-09-20 15:24:22,471 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60061.csv.zip
+[ 2025-09-20 15:24:23,019 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60624.csv.zip
+[ 2025-09-20 15:24:24,149 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60634.csv.zip
+[ 2025-09-20 15:24:24,215 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60941.csv.zip
+[ 2025-09-20 15:24:25,658 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60047.csv.zip
+[ 2025-09-20 15:24:25,780 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61270.csv.zip
+[ 2025-09-20 15:24:25,845 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60602.csv.zip
+[ 2025-09-20 15:24:26,513 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60612.csv.zip
+[ 2025-09-20 15:24:26,530 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61318.csv.zip
+[ 2025-09-20 15:24:26,619 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60564.csv.zip
+[ 2025-09-20 15:24:26,627 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61743.csv.zip
+[ 2025-09-20 15:24:27,475 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60506.csv.zip
+[ 2025-09-20 15:24:27,894 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60516.csv.zip
+[ 2025-09-20 15:24:28,858 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60660.csv.zip
+[ 2025-09-20 15:24:29,433 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60035.csv.zip
+[ 2025-09-20 15:24:30,283 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60025.csv.zip
+[ 2025-09-20 15:24:30,494 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60915.csv.zip
+[ 2025-09-20 15:24:31,033 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60423.csv.zip
+[ 2025-09-20 15:24:31,065 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61051.csv.zip
+[ 2025-09-20 15:24:31,351 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60433.csv.zip
+[ 2025-09-20 15:24:31,816 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60110.csv.zip
+[ 2025-09-20 15:24:32,544 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60068.csv.zip
+[ 2025-09-20 15:24:32,554 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60958.csv.zip
+[ 2025-09-20 15:24:32,937 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60172.csv.zip
+[ 2025-09-20 15:24:33,147 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60162.csv.zip
+[ 2025-09-20 15:24:33,960 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60441.csv.zip
+[ 2025-09-20 15:24:34,466 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60451.csv.zip
+[ 2025-09-20 15:24:34,730 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60417.csv.zip
+[ 2025-09-20 15:24:34,879 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61065.csv.zip
+[ 2025-09-20 15:24:34,910 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60407.csv.zip
+[ 2025-09-20 15:24:34,928 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61075.csv.zip
+[ 2025-09-20 15:24:35,794 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60609.csv.zip
+[ 2025-09-20 15:24:35,804 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61313.csv.zip
+[ 2025-09-20 15:24:36,921 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60619.csv.zip
+[ 2025-09-20 15:24:37,118 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60124.csv.zip
+[ 2025-09-20 15:24:37,339 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60134.csv.zip
+[ 2025-09-20 15:24:37,387 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60146.csv.zip
+[ 2025-09-20 15:24:37,905 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60156.csv.zip
+[ 2025-09-20 15:24:38,096 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60475.csv.zip
+[ 2025-09-20 15:24:38,110 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61007.csv.zip
+[ 2025-09-20 15:24:38,422 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60465.csv.zip
+[ 2025-09-20 15:24:38,885 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60087.csv.zip
+[ 2025-09-20 15:24:39,064 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60097.csv.zip
+[ 2025-09-20 15:24:39,576 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60636.csv.zip
+[ 2025-09-20 15:24:39,591 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61254.csv.zip
+[ 2025-09-20 15:24:40,531 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60626.csv.zip
+[ 2025-09-20 15:24:41,347 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60073.csv.zip
+[ 2025-09-20 15:24:41,522 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60305.csv.zip
+[ 2025-09-20 15:24:41,551 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60428.csv.zip
+[ 2025-09-20 15:24:41,591 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60550.csv.zip
+[ 2025-09-20 15:24:42,089 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60438.csv.zip
+[ 2025-09-20 15:24:42,188 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60540.csv.zip
+[ 2025-09-20 15:24:42,296 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60491.csv.zip
+[ 2025-09-20 15:24:42,515 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60481.csv.zip
+[ 2025-09-20 15:24:42,918 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61081.csv.zip
+[ 2025-09-20 15:24:42,924 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61091.csv.zip
+[ 2025-09-20 15:24:43,483 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60532.csv.zip
+[ 2025-09-20 15:24:43,525 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61038.csv.zip
+[ 2025-09-20 15:24:43,531 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61028.csv.zip
+[ 2025-09-20 15:24:43,628 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60169.csv.zip
+[ 2025-09-20 15:24:44,232 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60654.csv.zip
+[ 2025-09-20 15:24:44,940 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60644.csv.zip
+[ 2025-09-20 15:24:44,954 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61378.csv.zip
+[ 2025-09-20 15:24:45,175 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60514.csv.zip
+[ 2025-09-20 15:24:46,220 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60504.csv.zip
+[ 2025-09-20 15:24:46,236 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60917.csv.zip
+[ 2025-09-20 15:24:46,300 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60184.csv.zip
+[ 2025-09-20 15:24:46,861 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60194.csv.zip
+[ 2025-09-20 15:24:46,874 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61741.csv.zip
+[ 2025-09-20 15:24:47,207 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61104.csv.zip
+[ 2025-09-20 15:24:47,482 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61114.csv.zip
+[ 2025-09-20 15:24:48,827 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60610.csv.zip
+[ 2025-09-20 15:24:49,355 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60045.csv.zip
+[ 2025-09-20 15:24:49,459 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61088.csv.zip
+[ 2025-09-20 15:24:50,430 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60453.csv.zip
+[ 2025-09-20 15:24:50,998 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61021.csv.zip
+[ 2025-09-20 15:24:51,393 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60443.csv.zip
+[ 2025-09-20 15:24:51,428 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61031.csv.zip
+[ 2025-09-20 15:24:51,891 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60160.csv.zip
+[ 2025-09-20 15:24:52,447 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60018.csv.zip
+[ 2025-09-20 15:24:52,454 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60170.csv.zip
+[ 2025-09-20 15:24:52,846 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60008.csv.zip
+[ 2025-09-20 15:24:52,873 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61325.csv.zip
+[ 2025-09-20 15:24:53,462 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60102.csv.zip
+[ 2025-09-20 15:24:53,535 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60112.csv.zip
+[ 2025-09-20 15:24:54,026 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60431.csv.zip
+[ 2025-09-20 15:24:54,039 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61043.csv.zip
+[ 2025-09-20 15:24:54,122 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60421.csv.zip
+[ 2025-09-20 15:24:54,595 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60559.csv.zip
+[ 2025-09-20 15:24:54,603 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61053.csv.zip
+[ 2025-09-20 15:24:54,651 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61369.csv.zip
+[ 2025-09-20 15:24:54,733 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60026.csv.zip
+[ 2025-09-20 15:24:55,419 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60505.csv.zip
+[ 2025-09-20 15:24:56,182 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60515.csv.zip
+[ 2025-09-20 15:24:56,573 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61115.csv.zip
+[ 2025-09-20 15:24:56,580 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61740.csv.zip
+[ 2025-09-20 15:24:56,811 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60044.csv.zip
+[ 2025-09-20 15:24:57,366 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60601.csv.zip
+[ 2025-09-20 15:24:58,449 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60611.csv.zip
+[ 2025-09-20 15:24:58,947 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60195.csv.zip
+[ 2025-09-20 15:24:59,040 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60964.csv.zip
+[ 2025-09-20 15:24:59,549 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60185.csv.zip
+[ 2025-09-20 15:24:59,609 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61030.csv.zip
+[ 2025-09-20 15:24:59,796 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60442.csv.zip
+[ 2025-09-20 15:24:59,848 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61020.csv.zip
+[ 2025-09-20 15:25:00,357 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60452.csv.zip
+[ 2025-09-20 15:25:00,534 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60171.csv.zip
+[ 2025-09-20 15:25:00,552 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61089.csv.zip
+[ 2025-09-20 15:25:01,183 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60103.csv.zip
+[ 2025-09-20 15:25:01,203 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61334.csv.zip
+[ 2025-09-20 15:25:01,210 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61324.csv.zip
+[ 2025-09-20 15:25:01,233 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61052.csv.zip
+[ 2025-09-20 15:25:01,417 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60558.csv.zip
+[ 2025-09-20 15:25:01,540 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60420.csv.zip
+[ 2025-09-20 15:25:01,585 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61042.csv.zip
+[ 2025-09-20 15:25:01,920 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60548.csv.zip
+[ 2025-09-20 15:25:02,310 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60430.csv.zip
+[ 2025-09-20 15:25:02,978 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60406.csv.zip
+[ 2025-09-20 15:25:03,073 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61064.csv.zip
+[ 2025-09-20 15:25:03,236 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60416.csv.zip
+[ 2025-09-20 15:25:03,354 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60135.csv.zip
+[ 2025-09-20 15:25:05,418 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60618.csv.zip
+[ 2025-09-20 15:25:07,639 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60608.csv.zip
+[ 2025-09-20 15:25:08,040 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60805.csv.zip
+[ 2025-09-20 15:25:08,410 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60096.csv.zip
+[ 2025-09-20 15:25:08,439 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61370.csv.zip
+[ 2025-09-20 15:25:08,510 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61360.csv.zip
+[ 2025-09-20 15:25:08,724 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60712.csv.zip
+[ 2025-09-20 15:25:08,765 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60157.csv.zip
+[ 2025-09-20 15:25:08,777 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60147.csv.zip
+[ 2025-09-20 15:25:08,894 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61016.csv.zip
+[ 2025-09-20 15:25:09,077 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60464.csv.zip
+[ 2025-09-20 15:25:09,116 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61006.csv.zip
+[ 2025-09-20 15:25:09,134 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60474.csv.zip
+[ 2025-09-20 15:25:09,253 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60480.csv.zip
+[ 2025-09-20 15:25:09,551 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60490.csv.zip
+[ 2025-09-20 15:25:09,581 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60072.csv.zip
+[ 2025-09-20 15:25:10,407 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60062.csv.zip
+[ 2025-09-20 15:25:11,350 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60637.csv.zip
+[ 2025-09-20 15:25:11,377 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60541.csv.zip
+[ 2025-09-20 15:25:12,088 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60439.csv.zip
+[ 2025-09-20 15:25:12,095 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60551.csv.zip
+[ 2025-09-20 15:25:12,378 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60429.csv.zip
+[ 2025-09-20 15:25:12,740 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60304.csv.zip
+[ 2025-09-20 15:25:13,017 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60523.csv.zip
+[ 2025-09-20 15:25:13,042 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61039.csv.zip
+[ 2025-09-20 15:25:13,877 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60645.csv.zip
+[ 2025-09-20 15:25:14,447 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60655.csv.zip
+[ 2025-09-20 15:25:15,316 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60010.csv.zip
+[ 2025-09-20 15:25:15,867 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60178.csv.zip
+[ 2025-09-20 15:25:15,875 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60920.csv.zip
+[ 2025-09-20 15:25:15,878 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61080.csv.zip
+[ 2025-09-20 15:25:16,080 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60554.csv.zip
+[ 2025-09-20 15:25:17,537 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60544.csv.zip
+[ 2025-09-20 15:25:17,715 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60301.csv.zip
+[ 2025-09-20 15:25:18,744 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60067.csv.zip
+[ 2025-09-20 15:25:19,679 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60077.csv.zip
+[ 2025-09-20 15:25:20,820 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60632.csv.zip
+[ 2025-09-20 15:25:22,246 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60622.csv.zip
+[ 2025-09-20 15:25:22,318 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61250.csv.zip
+[ 2025-09-20 15:25:24,121 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60640.csv.zip
+[ 2025-09-20 15:25:24,792 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60005.csv.zip
+[ 2025-09-20 15:25:25,559 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60015.csv.zip
+[ 2025-09-20 15:25:25,796 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60526.csv.zip
+[ 2025-09-20 15:25:25,907 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61085.csv.zip
+[ 2025-09-20 15:25:25,952 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60935.csv.zip
+[ 2025-09-20 15:25:26,794 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60120.csv.zip
+[ 2025-09-20 15:25:27,480 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60048.csv.zip
+[ 2025-09-20 15:25:28,072 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60130.csv.zip
+[ 2025-09-20 15:25:28,245 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61061.csv.zip
+[ 2025-09-20 15:25:28,377 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61071.csv.zip
+[ 2025-09-20 15:25:28,931 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61109.csv.zip
+[ 2025-09-20 15:25:29,010 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60403.csv.zip
+[ 2025-09-20 15:25:29,088 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60189.csv.zip
+[ 2025-09-20 15:25:29,306 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60083.csv.zip
+[ 2025-09-20 15:25:29,510 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60093.csv.zip
+[ 2025-09-20 15:25:29,786 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60471.csv.zip
+[ 2025-09-20 15:25:29,801 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61013.csv.zip
+[ 2025-09-20 15:25:29,807 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60519.csv.zip
+[ 2025-09-20 15:25:29,908 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60461.csv.zip
+[ 2025-09-20 15:25:30,701 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60707.csv.zip
+[ 2025-09-20 15:25:31,398 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60142.csv.zip
+[ 2025-09-20 15:25:31,665 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60152.csv.zip
+[ 2025-09-20 15:25:32,886 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60649.csv.zip
+[ 2025-09-20 15:25:33,754 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60659.csv.zip
+[ 2025-09-20 15:25:33,788 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61353.csv.zip
+[ 2025-09-20 15:25:33,805 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61516.csv.zip
+[ 2025-09-20 15:25:34,253 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60164.csv.zip
+[ 2025-09-20 15:25:34,338 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60174.csv.zip
+[ 2025-09-20 15:25:35,067 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60202.csv.zip
+[ 2025-09-20 15:25:35,435 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60457.csv.zip
+[ 2025-09-20 15:25:35,743 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60447.csv.zip
+[ 2025-09-20 15:25:35,867 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60586.csv.zip
+[ 2025-09-20 15:25:35,912 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61047.csv.zip
+[ 2025-09-20 15:25:37,187 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60435.csv.zip
+[ 2025-09-20 15:25:37,198 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61057.csv.zip
+[ 2025-09-20 15:25:37,408 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60425.csv.zip
+[ 2025-09-20 15:25:37,840 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60106.csv.zip
+[ 2025-09-20 15:25:37,851 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61321.csv.zip
+[ 2025-09-20 15:25:37,856 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61331.csv.zip
+[ 2025-09-20 15:25:37,904 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60913.csv.zip
+[ 2025-09-20 15:25:37,953 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60510.csv.zip
+[ 2025-09-20 15:25:38,090 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60468.csv.zip
+[ 2025-09-20 15:25:38,441 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60478.csv.zip
+[ 2025-09-20 15:25:38,464 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60666.csv.zip
+[ 2025-09-20 15:25:38,770 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60033.csv.zip
+[ 2025-09-20 15:25:39,183 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60041.csv.zip
+[ 2025-09-20 15:25:39,853 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60139.csv.zip
+[ 2025-09-20 15:25:40,250 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60051.csv.zip
+[ 2025-09-20 15:25:40,261 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60129.csv.zip
+[ 2025-09-20 15:25:42,077 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60614.csv.zip
+[ 2025-09-20 15:25:42,121 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60604.csv.zip
+[ 2025-09-20 15:25:42,164 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61078.csv.zip
+[ 2025-09-20 15:25:42,187 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61068.csv.zip
+[ 2025-09-20 15:25:42,228 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60961.csv.zip
+[ 2025-09-20 15:25:42,263 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60180.csv.zip
+[ 2025-09-20 15:25:42,717 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60190.csv.zip
+[ 2025-09-20 15:25:42,764 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61283.csv.zip
+[ 2025-09-20 15:25:43,133 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60175.csv.zip
+[ 2025-09-20 15:25:43,209 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60165.csv.zip
+[ 2025-09-20 15:25:43,454 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61342.csv.zip
+[ 2025-09-20 15:25:44,088 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60446.csv.zip
+[ 2025-09-20 15:25:44,167 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60456.csv.zip
+[ 2025-09-20 15:25:44,250 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61024.csv.zip
+[ 2025-09-20 15:25:44,340 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60203.csv.zip
+[ 2025-09-20 15:25:44,407 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60424.csv.zip
+[ 2025-09-20 15:25:44,598 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61046.csv.zip
+[ 2025-09-20 15:25:44,608 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61330.csv.zip
+[ 2025-09-20 15:25:44,613 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61258.csv.zip
+[ 2025-09-20 15:25:45,258 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60107.csv.zip
+[ 2025-09-20 15:25:45,731 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60827.csv.zip
+[ 2025-09-20 15:25:45,747 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60479.csv.zip
+[ 2025-09-20 15:25:46,022 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60501.csv.zip
+[ 2025-09-20 15:25:46,285 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60469.csv.zip
+[ 2025-09-20 15:25:46,321 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60511.csv.zip
+[ 2025-09-20 15:25:46,472 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60022.csv.zip
+[ 2025-09-20 15:25:46,806 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60191.csv.zip
+[ 2025-09-20 15:25:47,431 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60181.csv.zip
+[ 2025-09-20 15:25:47,518 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61277.csv.zip
+[ 2025-09-20 15:25:48,518 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60605.csv.zip
+[ 2025-09-20 15:25:49,682 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60615.csv.zip
+[ 2025-09-20 15:25:50,680 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60050.csv.zip
+[ 2025-09-20 15:25:50,792 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60040.csv.zip
+[ 2025-09-20 15:25:51,536 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61111.csv.zip
+[ 2025-09-20 15:25:51,636 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60563.csv.zip
+[ 2025-09-20 15:25:52,261 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61101.csv.zip
+[ 2025-09-20 15:25:52,268 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61079.csv.zip
+[ 2025-09-20 15:25:52,524 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60545.csv.zip
+[ 2025-09-20 15:25:53,158 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60555.csv.zip
+[ 2025-09-20 15:25:53,179 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61251.csv.zip
+[ 2025-09-20 15:25:55,119 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60623.csv.zip
+[ 2025-09-20 15:25:55,630 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60633.csv.zip
+[ 2025-09-20 15:25:56,390 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60076.csv.zip
+[ 2025-09-20 15:25:56,404 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60946.csv.zip
+[ 2025-09-20 15:25:56,427 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60484.csv.zip
+[ 2025-09-20 15:25:56,527 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61084.csv.zip
+[ 2025-09-20 15:25:56,538 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60934.csv.zip
+[ 2025-09-20 15:25:57,531 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60014.csv.zip
+[ 2025-09-20 15:25:58,689 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60004.csv.zip
+[ 2025-09-20 15:26:00,183 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60641.csv.zip
+[ 2025-09-20 15:26:01,542 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60651.csv.zip
+[ 2025-09-20 15:26:01,930 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60527.csv.zip
+[ 2025-09-20 15:26:02,981 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60188.csv.zip
+[ 2025-09-20 15:26:02,986 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60969.csv.zip
+[ 2025-09-20 15:26:03,483 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60131.csv.zip
+[ 2025-09-20 15:26:04,730 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60402.csv.zip
+[ 2025-09-20 15:26:05,802 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61108.csv.zip
+[ 2025-09-20 15:26:05,857 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61070.csv.zip
+[ 2025-09-20 15:26:05,924 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61060.csv.zip
+[ 2025-09-20 15:26:06,011 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60460.csv.zip
+[ 2025-09-20 15:26:06,128 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60518.csv.zip
+[ 2025-09-20 15:26:06,215 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61012.csv.zip
+[ 2025-09-20 15:26:06,249 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60470.csv.zip
+[ 2025-09-20 15:26:06,749 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60153.csv.zip
+[ 2025-09-20 15:26:07,142 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60143.csv.zip
+[ 2025-09-20 15:26:07,667 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60706.csv.zip
+[ 2025-09-20 15:26:08,195 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61364.csv.zip
+[ 2025-09-20 15:26:09,118 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60115.csv.zip
+[ 2025-09-20 15:26:10,313 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60628.csv.zip
+[ 2025-09-20 15:26:11,333 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60638.csv.zip
+[ 2025-09-20 15:26:11,339 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61332.csv.zip
+[ 2025-09-20 15:26:12,065 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60436.csv.zip
+[ 2025-09-20 15:26:12,077 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61044.csv.zip
+[ 2025-09-20 15:26:12,695 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60426.csv.zip
+[ 2025-09-20 15:26:13,053 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61054.csv.zip
+[ 2025-09-20 15:26:13,094 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61769.csv.zip
+[ 2025-09-20 15:26:13,227 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60585.csv.zip
+[ 2025-09-20 15:26:14,326 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60201.csv.zip
+[ 2025-09-20 15:26:14,385 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60444.csv.zip
+[ 2025-09-20 15:26:14,395 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61350.csv.zip
+[ 2025-09-20 15:26:14,904 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60177.csv.zip
+[ 2025-09-20 15:26:16,042 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60193.csv.zip
+[ 2025-09-20 15:26:16,642 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61103.csv.zip
+[ 2025-09-20 15:26:17,669 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60409.csv.zip
+[ 2025-09-20 15:26:18,303 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60419.csv.zip
+[ 2025-09-20 15:26:19,115 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60561.csv.zip
+[ 2025-09-20 15:26:19,511 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60042.csv.zip
+[ 2025-09-20 15:26:21,346 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60617.csv.zip
+[ 2025-09-20 15:26:22,642 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60607.csv.zip
+[ 2025-09-20 15:26:23,215 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60020.csv.zip
+[ 2025-09-20 15:26:24,877 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60148.csv.zip
+[ 2025-09-20 15:26:26,123 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60030.csv.zip
+[ 2025-09-20 15:26:26,366 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61019.csv.zip
+[ 2025-09-20 15:26:26,888 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60513.csv.zip
+[ 2025-09-20 15:26:26,931 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60503.csv.zip
+[ 2025-09-20 15:26:27,882 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60099.csv.zip
+[ 2025-09-20 15:26:27,901 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60910.csv.zip
+[ 2025-09-20 15:26:29,431 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60089.csv.zip
+[ 2025-09-20 15:26:30,576 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60525.csv.zip
+[ 2025-09-20 15:26:31,927 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60653.csv.zip
+[ 2025-09-20 15:26:33,352 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60643.csv.zip
+[ 2025-09-20 15:26:33,397 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61349.csv.zip
+[ 2025-09-20 15:26:35,678 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60016.csv.zip
+[ 2025-09-20 15:26:36,193 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60064.csv.zip
+[ 2025-09-20 15:26:37,067 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60074.csv.zip
+[ 2025-09-20 15:26:37,084 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61243.csv.zip
+[ 2025-09-20 15:26:37,783 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60631.csv.zip
+[ 2025-09-20 15:26:38,906 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60621.csv.zip
+[ 2025-09-20 15:26:40,245 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60302.csv.zip
+[ 2025-09-20 15:26:40,434 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61760.csv.zip
+[ 2025-09-20 15:26:40,469 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60944.csv.zip
+[ 2025-09-20 15:26:40,776 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60954.csv.zip
+[ 2025-09-20 15:26:41,811 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60714.csv.zip
+[ 2025-09-20 15:26:41,866 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61376.csv.zip
+[ 2025-09-20 15:26:41,919 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60039.csv.zip
+[ 2025-09-20 15:26:42,157 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60151.csv.zip
+[ 2025-09-20 15:26:42,172 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60029.csv.zip
+[ 2025-09-20 15:26:42,341 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60472.csv.zip
+[ 2025-09-20 15:26:43,572 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60462.csv.zip
+[ 2025-09-20 15:26:43,960 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61010.csv.zip
+[ 2025-09-20 15:26:43,980 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60919.csv.zip
+[ 2025-09-20 15:26:43,989 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60080.csv.zip
+[ 2025-09-20 15:26:45,224 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60090.csv.zip
+[ 2025-09-20 15:26:46,109 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60803.csv.zip
+[ 2025-09-20 15:26:46,577 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60410.csv.zip
+[ 2025-09-20 15:26:46,623 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61062.csv.zip
+[ 2025-09-20 15:26:46,696 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61072.csv.zip
+[ 2025-09-20 15:26:47,890 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60123.csv.zip
+[ 2025-09-20 15:26:48,646 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60133.csv.zip
+[ 2025-09-20 15:26:49,210 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60534.csv.zip
+[ 2025-09-20 15:26:50,336 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60007.csv.zip
+[ 2025-09-20 15:26:50,349 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61348.csv.zip
+[ 2025-09-20 15:26:51,200 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60642.csv.zip
+[ 2025-09-20 15:26:51,212 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61230.csv.zip
+[ 2025-09-20 15:26:51,227 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61358.csv.zip
+[ 2025-09-20 15:26:52,178 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60652.csv.zip
+[ 2025-09-20 15:26:52,256 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61087.csv.zip
+[ 2025-09-20 15:26:52,398 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60487.csv.zip
+[ 2025-09-20 15:26:55,041 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60620.csv.zip
+[ 2025-09-20 15:26:56,183 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61252.csv.zip
+[ 2025-09-20 15:26:57,657 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60630.csv.zip
+[ 2025-09-20 15:26:58,242 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60546.csv.zip
+[ 2025-09-20 15:26:58,374 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60556.csv.zip
+[ 2025-09-20 15:26:59,236 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60091.csv.zip
+[ 2025-09-20 15:26:59,610 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60081.csv.zip
+[ 2025-09-20 15:26:59,666 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60150.csv.zip
+[ 2025-09-20 15:27:00,291 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60140.csv.zip
+[ 2025-09-20 15:27:00,337 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61377.csv.zip
+[ 2025-09-20 15:27:00,943 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61367.csv.zip
+[ 2025-09-20 15:27:01,040 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61011.csv.zip
+[ 2025-09-20 15:27:01,558 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60463.csv.zip
+[ 2025-09-20 15:27:01,588 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61001.csv.zip
+[ 2025-09-20 15:27:02,161 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60473.csv.zip
+[ 2025-09-20 15:27:02,866 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61073.csv.zip
+[ 2025-09-20 15:27:03,112 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60401.csv.zip
+[ 2025-09-20 15:27:03,255 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61063.csv.zip
+[ 2025-09-20 15:27:04,584 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60411.csv.zip
+[ 2025-09-20 15:27:04,595 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61333.csv.zip
+[ 2025-09-20 15:27:06,259 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60639.csv.zip
+[ 2025-09-20 15:27:08,241 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60629.csv.zip
+[ 2025-09-20 15:27:08,943 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60104.csv.zip
+[ 2025-09-20 15:27:08,960 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60437.csv.zip
+[ 2025-09-20 15:27:08,964 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61037.csv.zip
+[ 2025-09-20 15:27:09,678 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60445.csv.zip
+[ 2025-09-20 15:27:09,687 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61027.csv.zip
+[ 2025-09-20 15:27:10,359 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60455.csv.zip
+[ 2025-09-20 15:27:10,765 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60176.csv.zip
+[ 2025-09-20 15:27:10,776 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61341.csv.zip
+[ 2025-09-20 15:27:11,689 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60560.csv.zip
+[ 2025-09-20 15:27:11,752 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60418.csv.zip
+[ 2025-09-20 15:27:11,769 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61112.csv.zip
+[ 2025-09-20 15:27:12,100 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60408.csv.zip
+[ 2025-09-20 15:27:12,699 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61102.csv.zip
+[ 2025-09-20 15:27:13,186 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60606.csv.zip
+[ 2025-09-20 15:27:15,073 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60616.csv.zip
+[ 2025-09-20 15:27:15,804 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60053.csv.zip
+[ 2025-09-20 15:27:16,070 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60043.csv.zip
+[ 2025-09-20 15:27:16,372 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60192.csv.zip
+[ 2025-09-20 15:27:17,592 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60098.csv.zip
+[ 2025-09-20 15:27:18,914 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60901.csv.zip
+[ 2025-09-20 15:27:20,344 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60031.csv.zip
+[ 2025-09-20 15:27:20,596 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60021.csv.zip
+[ 2025-09-20 15:27:20,769 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60502.csv.zip
+[ 2025-09-20 15:27:21,707 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61008.csv.zip
+[ 2025-09-20 15:27:21,746 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_60512.csv.zip
+[ 2025-09-20 15:27:21,938 ] 25 root - INFO - File unzip completed for: ANONYMOUS_DATA_202210_61018.csv.zip
+[ 2025-09-20 15:27:21,938 ] 40 root - INFO - Unzipping completed
+[ 2025-09-20 15:27:22,590 ] 91 root - ERROR - Error data wrangling is: Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/utils.py] line number [57] error message['DataFrame' object has no attribute 'grouby']
+[ 2025-09-20 15:27:22,590 ] 51 root - ERROR - {CustomException(AttributeError("'DataFrame' object has no attribute 'grouby'"))}
+[ 2025-09-20 15:27:22,590 ] 46 root - INFO - Data ingestion completed.
+[ 2025-09-20 15:27:23,230 ] 241 root - INFO - PCA shrinked data from (1488, 749) to (1488, 13)
+[ 2025-09-20 15:27:23,297 ] 251 root - INFO - RBD shrinked data from (1488, 749) to (1488, 13)
+[ 2025-09-20 15:27:23,298 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60180.npy
+[ 2025-09-20 15:27:23,298 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60180.npy
+[ 2025-09-20 15:27:23,298 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60180.npy
+[ 2025-09-20 15:27:32,604 ] 241 root - INFO - PCA shrinked data from (1488, 13828) to (1488, 13)
+[ 2025-09-20 15:27:32,837 ] 251 root - INFO - RBD shrinked data from (1488, 13828) to (1488, 13)
+[ 2025-09-20 15:27:32,851 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60194.npy
+[ 2025-09-20 15:27:32,851 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60194.npy
+[ 2025-09-20 15:27:32,851 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60194.npy
+[ 2025-09-20 15:27:58,782 ] 241 root - INFO - PCA shrinked data from (1488, 30757) to (1488, 13)
+[ 2025-09-20 15:27:59,167 ] 251 root - INFO - RBD shrinked data from (1488, 30757) to (1488, 13)
+[ 2025-09-20 15:27:59,200 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60619.npy
+[ 2025-09-20 15:27:59,200 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60619.npy
+[ 2025-09-20 15:27:59,200 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60619.npy
+[ 2025-09-20 15:27:59,850 ] 241 root - INFO - PCA shrinked data from (1488, 432) to (1488, 13)
+[ 2025-09-20 15:27:59,908 ] 251 root - INFO - RBD shrinked data from (1488, 432) to (1488, 13)
+[ 2025-09-20 15:27:59,909 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61261.npy
+[ 2025-09-20 15:27:59,909 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61261.npy
+[ 2025-09-20 15:27:59,909 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61261.npy
+[ 2025-09-20 15:28:22,179 ] 241 root - INFO - PCA shrinked data from (1488, 35096) to (1488, 13)
+[ 2025-09-20 15:28:22,643 ] 251 root - INFO - RBD shrinked data from (1488, 35096) to (1488, 13)
+[ 2025-09-20 15:28:22,675 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60625.npy
+[ 2025-09-20 15:28:22,675 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60625.npy
+[ 2025-09-20 15:28:22,675 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60625.npy
+[ 2025-09-20 15:28:27,448 ] 241 root - INFO - PCA shrinked data from (1488, 5524) to (1488, 13)
+[ 2025-09-20 15:28:27,553 ] 251 root - INFO - RBD shrinked data from (1488, 5524) to (1488, 13)
+[ 2025-09-20 15:28:27,563 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60143.npy
+[ 2025-09-20 15:28:27,563 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60143.npy
+[ 2025-09-20 15:28:27,563 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60143.npy
+[ 2025-09-20 15:28:28,666 ] 241 root - INFO - PCA shrinked data from (1488, 858) to (1488, 13)
+[ 2025-09-20 15:28:28,692 ] 251 root - INFO - RBD shrinked data from (1488, 858) to (1488, 13)
+[ 2025-09-20 15:28:28,694 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60157.npy
+[ 2025-09-20 15:28:28,694 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60157.npy
+[ 2025-09-20 15:28:28,694 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60157.npy
+[ 2025-09-20 15:28:37,812 ] 241 root - INFO - PCA shrinked data from (1488, 13807) to (1488, 13)
+[ 2025-09-20 15:28:38,013 ] 251 root - INFO - RBD shrinked data from (1488, 13807) to (1488, 13)
+[ 2025-09-20 15:28:38,025 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60631.npy
+[ 2025-09-20 15:28:38,026 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60631.npy
+[ 2025-09-20 15:28:38,026 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60631.npy
+[ 2025-09-20 15:28:41,140 ] 241 root - INFO - PCA shrinked data from (1488, 2107) to (1488, 13)
+[ 2025-09-20 15:28:41,188 ] 251 root - INFO - RBD shrinked data from (1488, 2107) to (1488, 13)
+[ 2025-09-20 15:28:41,195 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61088.npy
+[ 2025-09-20 15:28:41,195 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61088.npy
+[ 2025-09-20 15:28:41,195 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61088.npy
+[ 2025-09-20 15:28:44,364 ] 241 root - INFO - PCA shrinked data from (1488, 2122) to (1488, 13)
+[ 2025-09-20 15:28:44,415 ] 251 root - INFO - RBD shrinked data from (1488, 2122) to (1488, 13)
+[ 2025-09-20 15:28:44,417 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61063.npy
+[ 2025-09-20 15:28:44,417 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61063.npy
+[ 2025-09-20 15:28:44,417 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61063.npy
+[ 2025-09-20 15:28:44,562 ] 241 root - INFO - PCA shrinked data from (1488, 27) to (1488, 13)
+[ 2025-09-20 15:28:44,693 ] 251 root - INFO - RBD shrinked data from (1488, 27) to (1488, 13)
+[ 2025-09-20 15:28:44,693 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61077.npy
+[ 2025-09-20 15:28:44,693 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61077.npy
+[ 2025-09-20 15:28:44,693 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61077.npy
+[ 2025-09-20 15:28:45,038 ] 241 root - INFO - PCA shrinked data from (1488, 78) to (1488, 13)
+[ 2025-09-20 15:28:45,241 ] 251 root - INFO - RBD shrinked data from (1488, 78) to (1488, 13)
+[ 2025-09-20 15:28:45,241 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61739.npy
+[ 2025-09-20 15:28:45,241 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61739.npy
+[ 2025-09-20 15:28:45,241 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61739.npy
+[ 2025-09-20 15:28:50,575 ] 241 root - INFO - PCA shrinked data from (1488, 6379) to (1488, 13)
+[ 2025-09-20 15:28:50,696 ] 251 root - INFO - RBD shrinked data from (1488, 6379) to (1488, 13)
+[ 2025-09-20 15:28:50,707 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60433.npy
+[ 2025-09-20 15:28:50,707 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60433.npy
+[ 2025-09-20 15:28:50,707 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60433.npy
+[ 2025-09-20 15:28:58,978 ] 241 root - INFO - PCA shrinked data from (1488, 10992) to (1488, 13)
+[ 2025-09-20 15:28:59,138 ] 251 root - INFO - RBD shrinked data from (1488, 10992) to (1488, 13)
+[ 2025-09-20 15:28:59,148 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61103.npy
+[ 2025-09-20 15:28:59,148 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61103.npy
+[ 2025-09-20 15:28:59,148 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61103.npy
+[ 2025-09-20 15:28:59,546 ] 241 root - INFO - PCA shrinked data from (1488, 270) to (1488, 13)
+[ 2025-09-20 15:28:59,605 ] 251 root - INFO - RBD shrinked data from (1488, 270) to (1488, 13)
+[ 2025-09-20 15:28:59,605 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60553.npy
+[ 2025-09-20 15:28:59,605 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60553.npy
+[ 2025-09-20 15:28:59,605 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60553.npy
+[ 2025-09-20 15:29:03,846 ] 241 root - INFO - PCA shrinked data from (1488, 3294) to (1488, 13)
+[ 2025-09-20 15:29:03,904 ] 251 root - INFO - RBD shrinked data from (1488, 3294) to (1488, 13)
+[ 2025-09-20 15:29:03,910 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60022.npy
+[ 2025-09-20 15:29:03,911 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60022.npy
+[ 2025-09-20 15:29:03,911 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60022.npy
+[ 2025-09-20 15:29:10,599 ] 241 root - INFO - PCA shrinked data from (1488, 7104) to (1488, 13)
+[ 2025-09-20 15:29:10,713 ] 251 root - INFO - RBD shrinked data from (1488, 7104) to (1488, 13)
+[ 2025-09-20 15:29:10,731 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60546.npy
+[ 2025-09-20 15:29:10,731 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60546.npy
+[ 2025-09-20 15:29:10,731 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60546.npy
+[ 2025-09-20 15:29:13,909 ] 241 root - INFO - PCA shrinked data from (1488, 1997) to (1488, 13)
+[ 2025-09-20 15:29:13,956 ] 251 root - INFO - RBD shrinked data from (1488, 1997) to (1488, 13)
+[ 2025-09-20 15:29:13,962 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60552.npy
+[ 2025-09-20 15:29:13,962 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60552.npy
+[ 2025-09-20 15:29:13,962 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60552.npy
+[ 2025-09-20 15:29:19,793 ] 241 root - INFO - PCA shrinked data from (1488, 6592) to (1488, 13)
+[ 2025-09-20 15:29:19,907 ] 251 root - INFO - RBD shrinked data from (1488, 6592) to (1488, 13)
+[ 2025-09-20 15:29:19,914 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61102.npy
+[ 2025-09-20 15:29:19,914 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61102.npy
+[ 2025-09-20 15:29:19,914 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61102.npy
+[ 2025-09-20 15:29:22,201 ] 241 root - INFO - PCA shrinked data from (1488, 1561) to (1488, 13)
+[ 2025-09-20 15:29:22,237 ] 251 root - INFO - RBD shrinked data from (1488, 1561) to (1488, 13)
+[ 2025-09-20 15:29:22,239 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60585.npy
+[ 2025-09-20 15:29:22,239 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60585.npy
+[ 2025-09-20 15:29:22,239 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60585.npy
+[ 2025-09-20 15:29:28,253 ] 241 root - INFO - PCA shrinked data from (1488, 7813) to (1488, 13)
+[ 2025-09-20 15:29:28,385 ] 251 root - INFO - RBD shrinked data from (1488, 7813) to (1488, 13)
+[ 2025-09-20 15:29:28,391 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60432.npy
+[ 2025-09-20 15:29:28,391 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60432.npy
+[ 2025-09-20 15:29:28,391 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60432.npy
+[ 2025-09-20 15:29:37,543 ] 241 root - INFO - PCA shrinked data from (1488, 12646) to (1488, 13)
+[ 2025-09-20 15:29:37,758 ] 251 root - INFO - RBD shrinked data from (1488, 12646) to (1488, 13)
+[ 2025-09-20 15:29:37,779 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60426.npy
+[ 2025-09-20 15:29:37,779 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60426.npy
+[ 2025-09-20 15:29:37,779 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60426.npy
+[ 2025-09-20 15:29:38,762 ] 241 root - INFO - PCA shrinked data from (1488, 785) to (1488, 13)
+[ 2025-09-20 15:29:38,804 ] 251 root - INFO - RBD shrinked data from (1488, 785) to (1488, 13)
+[ 2025-09-20 15:29:38,805 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61062.npy
+[ 2025-09-20 15:29:38,805 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61062.npy
+[ 2025-09-20 15:29:38,805 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61062.npy
+[ 2025-09-20 15:29:39,287 ] 241 root - INFO - PCA shrinked data from (1488, 346) to (1488, 13)
+[ 2025-09-20 15:29:39,434 ] 251 root - INFO - RBD shrinked data from (1488, 346) to (1488, 13)
+[ 2025-09-20 15:29:39,435 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61089.npy
+[ 2025-09-20 15:29:39,435 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61089.npy
+[ 2025-09-20 15:29:39,435 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61089.npy
+[ 2025-09-20 15:29:47,207 ] 241 root - INFO - PCA shrinked data from (1488, 10574) to (1488, 13)
+[ 2025-09-20 15:29:47,356 ] 251 root - INFO - RBD shrinked data from (1488, 10574) to (1488, 13)
+[ 2025-09-20 15:29:47,366 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60156.npy
+[ 2025-09-20 15:29:47,366 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60156.npy
+[ 2025-09-20 15:29:47,366 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60156.npy
+[ 2025-09-20 15:30:02,380 ] 241 root - INFO - PCA shrinked data from (1488, 23384) to (1488, 13)
+[ 2025-09-20 15:30:02,711 ] 251 root - INFO - RBD shrinked data from (1488, 23384) to (1488, 13)
+[ 2025-09-20 15:30:02,737 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60630.npy
+[ 2025-09-20 15:30:02,737 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60630.npy
+[ 2025-09-20 15:30:02,737 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60630.npy
+[ 2025-09-20 15:30:13,179 ] 241 root - INFO - PCA shrinked data from (1488, 14929) to (1488, 13)
+[ 2025-09-20 15:30:13,382 ] 251 root - INFO - RBD shrinked data from (1488, 14929) to (1488, 13)
+[ 2025-09-20 15:30:13,394 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60624.npy
+[ 2025-09-20 15:30:13,394 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60624.npy
+[ 2025-09-20 15:30:13,394 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60624.npy
+[ 2025-09-20 15:30:23,187 ] 241 root - INFO - PCA shrinked data from (1488, 13006) to (1488, 13)
+[ 2025-09-20 15:30:23,384 ] 251 root - INFO - RBD shrinked data from (1488, 13006) to (1488, 13)
+[ 2025-09-20 15:30:23,396 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60142.npy
+[ 2025-09-20 15:30:23,396 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60142.npy
+[ 2025-09-20 15:30:23,396 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60142.npy
+[ 2025-09-20 15:30:54,287 ] 241 root - INFO - PCA shrinked data from (1488, 43397) to (1488, 13)
+[ 2025-09-20 15:30:54,870 ] 251 root - INFO - RBD shrinked data from (1488, 43397) to (1488, 13)
+[ 2025-09-20 15:30:54,933 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60618.npy
+[ 2025-09-20 15:30:54,933 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60618.npy
+[ 2025-09-20 15:30:54,933 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60618.npy
+[ 2025-09-20 15:31:06,659 ] 241 root - INFO - PCA shrinked data from (1488, 10940) to (1488, 13)
+[ 2025-09-20 15:31:06,839 ] 251 root - INFO - RBD shrinked data from (1488, 10940) to (1488, 13)
+[ 2025-09-20 15:31:06,856 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60195.npy
+[ 2025-09-20 15:31:06,856 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60195.npy
+[ 2025-09-20 15:31:06,856 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60195.npy
+[ 2025-09-20 15:31:17,655 ] 241 root - INFO - PCA shrinked data from (1488, 13754) to (1488, 13)
+[ 2025-09-20 15:31:17,876 ] 251 root - INFO - RBD shrinked data from (1488, 13754) to (1488, 13)
+[ 2025-09-20 15:31:17,892 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60181.npy
+[ 2025-09-20 15:31:17,892 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60181.npy
+[ 2025-09-20 15:31:17,892 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60181.npy
+[ 2025-09-20 15:31:25,711 ] 241 root - INFO - PCA shrinked data from (1488, 9996) to (1488, 13)
+[ 2025-09-20 15:31:25,857 ] 251 root - INFO - RBD shrinked data from (1488, 9996) to (1488, 13)
+[ 2025-09-20 15:31:25,869 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60803.npy
+[ 2025-09-20 15:31:25,869 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60803.npy
+[ 2025-09-20 15:31:25,869 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60803.npy
+[ 2025-09-20 15:31:44,405 ] 241 root - INFO - PCA shrinked data from (1488, 26463) to (1488, 13)
+[ 2025-09-20 15:31:44,821 ] 251 root - INFO - RBD shrinked data from (1488, 26463) to (1488, 13)
+[ 2025-09-20 15:31:44,865 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-09-20 15:31:44,865 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-09-20 15:31:44,865 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60632.npy
+[ 2025-09-20 15:31:51,372 ] 241 root - INFO - PCA shrinked data from (1488, 7354) to (1488, 13)
+[ 2025-09-20 15:31:51,507 ] 251 root - INFO - RBD shrinked data from (1488, 7354) to (1488, 13)
+[ 2025-09-20 15:31:51,520 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-09-20 15:31:51,520 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-09-20 15:31:51,520 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60154.npy
+[ 2025-09-20 15:31:58,854 ] 241 root - INFO - PCA shrinked data from (1488, 8621) to (1488, 13)
+[ 2025-09-20 15:31:58,992 ] 251 root - INFO - RBD shrinked data from (1488, 8621) to (1488, 13)
+[ 2025-09-20 15:31:59,004 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-09-20 15:31:59,004 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-09-20 15:31:59,004 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60140.npy
+[ 2025-09-20 15:32:16,530 ] 241 root - INFO - PCA shrinked data from (1488, 26124) to (1488, 13)
+[ 2025-09-20 15:32:16,929 ] 251 root - INFO - RBD shrinked data from (1488, 26124) to (1488, 13)
+[ 2025-09-20 15:32:16,969 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-09-20 15:32:16,970 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-09-20 15:32:16,970 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60626.npy
+[ 2025-09-20 15:32:17,584 ] 241 root - INFO - PCA shrinked data from (1488, 425) to (1488, 13)
+[ 2025-09-20 15:32:17,628 ] 251 root - INFO - RBD shrinked data from (1488, 425) to (1488, 13)
+[ 2025-09-20 15:32:17,629 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-09-20 15:32:17,629 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-09-20 15:32:17,629 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60418.npy
+[ 2025-09-20 15:32:18,371 ] 241 root - INFO - PCA shrinked data from (1488, 671) to (1488, 13)
+[ 2025-09-20 15:32:18,541 ] 251 root - INFO - RBD shrinked data from (1488, 671) to (1488, 13)
+[ 2025-09-20 15:32:18,542 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-09-20 15:32:18,542 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-09-20 15:32:18,542 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61060.npy
+[ 2025-09-20 15:32:21,578 ] 241 root - INFO - PCA shrinked data from (1488, 1993) to (1488, 13)
+[ 2025-09-20 15:32:21,626 ] 251 root - INFO - RBD shrinked data from (1488, 1993) to (1488, 13)
+[ 2025-09-20 15:32:21,628 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-09-20 15:32:21,628 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-09-20 15:32:21,628 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61048.npy
+[ 2025-09-20 15:32:27,736 ] 241 root - INFO - PCA shrinked data from (1488, 9061) to (1488, 13)
+[ 2025-09-20 15:32:27,879 ] 251 root - INFO - RBD shrinked data from (1488, 9061) to (1488, 13)
+[ 2025-09-20 15:32:27,888 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-09-20 15:32:27,888 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-09-20 15:32:27,888 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60430.npy
+[ 2025-09-20 15:32:29,494 ] 241 root - INFO - PCA shrinked data from (1488, 1087) to (1488, 13)
+[ 2025-09-20 15:32:29,535 ] 251 root - INFO - RBD shrinked data from (1488, 1087) to (1488, 13)
+[ 2025-09-20 15:32:29,537 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-09-20 15:32:29,537 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-09-20 15:32:29,537 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60424.npy
+[ 2025-09-20 15:32:35,317 ] 241 root - INFO - PCA shrinked data from (1488, 6889) to (1488, 13)
+[ 2025-09-20 15:32:35,441 ] 251 root - INFO - RBD shrinked data from (1488, 6889) to (1488, 13)
+[ 2025-09-20 15:32:35,450 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-09-20 15:32:35,450 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-09-20 15:32:35,450 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61114.npy
+[ 2025-09-20 15:32:56,600 ] 241 root - INFO - PCA shrinked data from (1488, 32365) to (1488, 13)
+[ 2025-09-20 15:32:57,036 ] 251 root - INFO - RBD shrinked data from (1488, 32365) to (1488, 13)
+[ 2025-09-20 15:32:57,089 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60544.npy
+[ 2025-09-20 15:32:57,090 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60544.npy
+[ 2025-09-20 15:32:57,090 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60544.npy
+[ 2025-09-20 15:32:57,683 ] 241 root - INFO - PCA shrinked data from (1488, 597) to (1488, 13)
+[ 2025-09-20 15:32:57,819 ] 251 root - INFO - RBD shrinked data from (1488, 597) to (1488, 13)
+[ 2025-09-20 15:32:57,820 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60550.npy
+[ 2025-09-20 15:32:57,820 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60550.npy
+[ 2025-09-20 15:32:57,820 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60550.npy
+[ 2025-09-20 15:32:58,506 ] 241 root - INFO - PCA shrinked data from (1488, 460) to (1488, 13)
+[ 2025-09-20 15:32:58,545 ] 251 root - INFO - RBD shrinked data from (1488, 460) to (1488, 13)
+[ 2025-09-20 15:32:58,552 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60961.npy
+[ 2025-09-20 15:32:58,552 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60961.npy
+[ 2025-09-20 15:32:58,553 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60961.npy
+[ 2025-09-20 15:33:06,446 ] 241 root - INFO - PCA shrinked data from (1488, 10205) to (1488, 13)
+[ 2025-09-20 15:33:06,596 ] 251 root - INFO - RBD shrinked data from (1488, 10205) to (1488, 13)
+[ 2025-09-20 15:33:06,608 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60008.npy
+[ 2025-09-20 15:33:06,608 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60008.npy
+[ 2025-09-20 15:33:06,608 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60008.npy
+[ 2025-09-20 15:33:11,885 ] 241 root - INFO - PCA shrinked data from (1488, 5859) to (1488, 13)
+[ 2025-09-20 15:33:11,985 ] 251 root - INFO - RBD shrinked data from (1488, 5859) to (1488, 13)
+[ 2025-09-20 15:33:11,992 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60020.npy
+[ 2025-09-20 15:33:11,992 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60020.npy
+[ 2025-09-20 15:33:11,992 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60020.npy
+[ 2025-09-20 15:33:13,352 ] 241 root - INFO - PCA shrinked data from (1488, 986) to (1488, 13)
+[ 2025-09-20 15:33:13,380 ] 251 root - INFO - RBD shrinked data from (1488, 986) to (1488, 13)
+[ 2025-09-20 15:33:13,381 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60034.npy
+[ 2025-09-20 15:33:13,382 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60034.npy
+[ 2025-09-20 15:33:13,382 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60034.npy
+[ 2025-09-20 15:33:22,864 ] 241 root - INFO - PCA shrinked data from (1488, 13859) to (1488, 13)
+[ 2025-09-20 15:33:23,105 ] 251 root - INFO - RBD shrinked data from (1488, 13859) to (1488, 13)
+[ 2025-09-20 15:33:23,116 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60035.npy
+[ 2025-09-20 15:33:23,116 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60035.npy
+[ 2025-09-20 15:33:23,117 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60035.npy
+[ 2025-09-20 15:33:25,923 ] 241 root - INFO - PCA shrinked data from (1488, 2270) to (1488, 13)
+[ 2025-09-20 15:33:25,967 ] 251 root - INFO - RBD shrinked data from (1488, 2270) to (1488, 13)
+[ 2025-09-20 15:33:25,974 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60021.npy
+[ 2025-09-20 15:33:25,974 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60021.npy
+[ 2025-09-20 15:33:25,974 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60021.npy
+[ 2025-09-20 15:33:26,313 ] 241 root - INFO - PCA shrinked data from (1488, 63) to (1488, 13)
+[ 2025-09-20 15:33:26,508 ] 251 root - INFO - RBD shrinked data from (1488, 63) to (1488, 13)
+[ 2025-09-20 15:33:26,508 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60551.npy
+[ 2025-09-20 15:33:26,508 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60551.npy
+[ 2025-09-20 15:33:26,508 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60551.npy
+[ 2025-09-20 15:33:31,326 ] 241 root - INFO - PCA shrinked data from (1488, 5210) to (1488, 13)
+[ 2025-09-20 15:33:31,425 ] 251 root - INFO - RBD shrinked data from (1488, 5210) to (1488, 13)
+[ 2025-09-20 15:33:31,431 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60545.npy
+[ 2025-09-20 15:33:31,431 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60545.npy
+[ 2025-09-20 15:33:31,431 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60545.npy
+[ 2025-09-20 15:33:39,022 ] 241 root - INFO - PCA shrinked data from (1488, 9877) to (1488, 13)
+[ 2025-09-20 15:33:39,174 ] 251 root - INFO - RBD shrinked data from (1488, 9877) to (1488, 13)
+[ 2025-09-20 15:33:39,185 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61115.npy
+[ 2025-09-20 15:33:39,185 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61115.npy
+[ 2025-09-20 15:33:39,185 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61115.npy
+[ 2025-09-20 15:33:45,929 ] 241 root - INFO - PCA shrinked data from (1488, 8963) to (1488, 13)
+[ 2025-09-20 15:33:46,071 ] 251 root - INFO - RBD shrinked data from (1488, 8963) to (1488, 13)
+[ 2025-09-20 15:33:46,081 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61101.npy
+[ 2025-09-20 15:33:46,081 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61101.npy
+[ 2025-09-20 15:33:46,081 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61101.npy
+[ 2025-09-20 15:33:49,180 ] 241 root - INFO - PCA shrinked data from (1488, 1957) to (1488, 13)
+[ 2025-09-20 15:33:49,225 ] 251 root - INFO - RBD shrinked data from (1488, 1957) to (1488, 13)
+[ 2025-09-20 15:33:49,229 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60586.npy
+[ 2025-09-20 15:33:49,229 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60586.npy
+[ 2025-09-20 15:33:49,229 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60586.npy
+[ 2025-09-20 15:33:52,893 ] 241 root - INFO - PCA shrinked data from (1488, 3576) to (1488, 13)
+[ 2025-09-20 15:33:52,959 ] 251 root - INFO - RBD shrinked data from (1488, 3576) to (1488, 13)
+[ 2025-09-20 15:33:52,968 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60425.npy
+[ 2025-09-20 15:33:52,968 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60425.npy
+[ 2025-09-20 15:33:52,968 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60425.npy
+[ 2025-09-20 15:33:53,376 ] 241 root - INFO - PCA shrinked data from (1488, 173) to (1488, 13)
+[ 2025-09-20 15:33:53,530 ] 251 root - INFO - RBD shrinked data from (1488, 173) to (1488, 13)
+[ 2025-09-20 15:33:53,531 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61049.npy
+[ 2025-09-20 15:33:53,531 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61049.npy
+[ 2025-09-20 15:33:53,531 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61049.npy
+[ 2025-09-20 15:34:00,264 ] 241 root - INFO - PCA shrinked data from (1488, 9004) to (1488, 13)
+[ 2025-09-20 15:34:00,394 ] 251 root - INFO - RBD shrinked data from (1488, 9004) to (1488, 13)
+[ 2025-09-20 15:34:00,407 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60431.npy
+[ 2025-09-20 15:34:00,407 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60431.npy
+[ 2025-09-20 15:34:00,407 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60431.npy
+[ 2025-09-20 15:34:06,847 ] 241 root - INFO - PCA shrinked data from (1488, 8606) to (1488, 13)
+[ 2025-09-20 15:34:06,989 ] 251 root - INFO - RBD shrinked data from (1488, 8606) to (1488, 13)
+[ 2025-09-20 15:34:07,001 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60419.npy
+[ 2025-09-20 15:34:07,001 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60419.npy
+[ 2025-09-20 15:34:07,001 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60419.npy
+[ 2025-09-20 15:34:10,835 ] 241 root - INFO - PCA shrinked data from (1488, 3690) to (1488, 13)
+[ 2025-09-20 15:34:10,904 ] 251 root - INFO - RBD shrinked data from (1488, 3690) to (1488, 13)
+[ 2025-09-20 15:34:10,909 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61061.npy
+[ 2025-09-20 15:34:10,909 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61061.npy
+[ 2025-09-20 15:34:10,909 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61061.npy
+[ 2025-09-20 15:34:11,418 ] 241 root - INFO - PCA shrinked data from (1488, 318) to (1488, 13)
+[ 2025-09-20 15:34:11,541 ] 251 root - INFO - RBD shrinked data from (1488, 318) to (1488, 13)
+[ 2025-09-20 15:34:11,542 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61075.npy
+[ 2025-09-20 15:34:11,542 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61075.npy
+[ 2025-09-20 15:34:11,542 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61075.npy
+[ 2025-09-20 15:34:16,536 ] 241 root - INFO - PCA shrinked data from (1488, 5569) to (1488, 13)
+[ 2025-09-20 15:34:16,643 ] 251 root - INFO - RBD shrinked data from (1488, 5569) to (1488, 13)
+[ 2025-09-20 15:34:16,649 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60633.npy
+[ 2025-09-20 15:34:16,649 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60633.npy
+[ 2025-09-20 15:34:16,649 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60633.npy
+[ 2025-09-20 15:34:20,671 ] 241 root - INFO - PCA shrinked data from (1488, 3757) to (1488, 13)
+[ 2025-09-20 15:34:20,742 ] 251 root - INFO - RBD shrinked data from (1488, 3757) to (1488, 13)
+[ 2025-09-20 15:34:20,748 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60155.npy
+[ 2025-09-20 15:34:20,748 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60155.npy
+[ 2025-09-20 15:34:20,748 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60155.npy
+[ 2025-09-20 15:34:23,928 ] 241 root - INFO - PCA shrinked data from (1488, 2784) to (1488, 13)
+[ 2025-09-20 15:34:23,975 ] 251 root - INFO - RBD shrinked data from (1488, 2784) to (1488, 13)
+[ 2025-09-20 15:34:23,984 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60169.npy
+[ 2025-09-20 15:34:23,984 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60169.npy
+[ 2025-09-20 15:34:23,984 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60169.npy
+[ 2025-09-20 15:34:26,099 ] 241 root - INFO - PCA shrinked data from (1488, 1645) to (1488, 13)
+[ 2025-09-20 15:34:26,140 ] 251 root - INFO - RBD shrinked data from (1488, 1645) to (1488, 13)
+[ 2025-09-20 15:34:26,146 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_61277.npy
+[ 2025-09-20 15:34:26,146 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_61277.npy
+[ 2025-09-20 15:34:26,146 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_61277.npy
+[ 2025-09-20 15:34:29,819 ] 241 root - INFO - PCA shrinked data from (1488, 2824) to (1488, 13)
+[ 2025-09-20 15:34:29,890 ] 251 root - INFO - RBD shrinked data from (1488, 2824) to (1488, 13)
+[ 2025-09-20 15:34:29,895 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60192.npy
+[ 2025-09-20 15:34:29,895 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60192.npy
+[ 2025-09-20 15:34:29,895 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60192.npy
+[ 2025-09-20 15:34:48,733 ] 241 root - INFO - PCA shrinked data from (1488, 23808) to (1488, 13)
+[ 2025-09-20 15:34:49,082 ] 251 root - INFO - RBD shrinked data from (1488, 23808) to (1488, 13)
+[ 2025-09-20 15:34:49,112 ] 204 root - INFO - PCA transformed for ANONYMOUS_DATA_202210_60804.npy
+[ 2025-09-20 15:34:49,112 ] 207 root - INFO - RBD transformed for ANONYMOUS_DATA_202210_60804.npy
+[ 2025-09-20 15:34:49,112 ] 210 root - INFO - Aggregate by zipcode transformed for ANONYMOUS_DATA_202210_60804.npy
+[ 2025-09-20 15:34:49,113 ] 286 root - ERROR - Error for file path: data/processed/ANONYMOUS_DATA_202210_60637.npy - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/utils.py] line number [283] error message[cannot reshape array of size 0 into shape (1488,23600)]
+[ 2025-09-20 15:34:49,113 ] 262 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/components/data_transformation.py] line number [225] error message[cannot reshape array of size 0 into shape (1488,23600)]
+[ 2025-09-20 15:34:49,113 ] 220 root - ERROR - {CustomException(TypeError('cannot unpack non-iterable NoneType object'))}
+[ 2025-09-20 15:34:49,113 ] 185 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/components/data_transformation.py] line number [137] error message[cannot unpack non-iterable NoneType object]
+[ 2025-09-20 15:34:49,113 ] 116 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/components/data_transformation.py] line number [58] error message[cannot unpack non-iterable NoneType object]
+[ 2025-09-20 15:34:49,113 ] 123 root - ERROR - {CustomException(TypeError('cannot unpack non-iterable NoneType object'))}
+[ 2025-09-20 15:34:49,113 ] 303 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/utils.py] line number [299] error message[[Errno 2] No such file or directory: 'data/model_rma_rbd.pkl']
+[ 2025-09-20 15:34:49,113 ] 389 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/research_project/model_comparison.py] line number [368] error message[[Errno 2] No such file or directory: 'data/model_rma_rbd.pkl']

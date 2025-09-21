@@ -1,17 +1,13 @@
+import os
 import sys
-from dataclasses import dataclass
-
 import numpy as np
-import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
-
 from src.exception import CustomException
 from src.logger import logging
-import os
-
+from dataclasses import dataclass
 from src.utils import save_object
 
 @dataclass
@@ -144,6 +140,7 @@ class EncoderPipeline:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error({custom_error})
+            raise
 
 
     def _encode_standardize_single_strategy(self, train_data, test_data):
@@ -171,30 +168,43 @@ class EncoderPipeline:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error({custom_error})
+            raise
 
 
     def _get_encoding_pipeline_object(self, data: np.ndarray):
         """
         Normally, we use:
+
             numerical_columns = data.select_dtypes(include=["int64", "float64"]).columns
             categorical_columns = data.select_dtypes(include=["object", "category"]).columns
 
-        to automatically detect numerical and categorical features. 
-        However, in this specific study we do not have categorical features. 
-        Therefore, we explicitly set categorical_columns = [] 
+        to automatically detect numerical and categorical features 
+        (Pandas DataFrame). Pandas is usually preferred in this step 
+        because **column names matter** when selecting features.
+
+        However, in this study, the columns in our data are the 
+        **reduced features** (either eigenvectors or basis vectors), 
+        so they **do not have meaningful names**. We also do not 
+        have categorical features.
+
+        Therefore, we explicitly set:
+
+            categorical_columns = []
+
         and drop the last numerical column from numerical_columns 
         (since it represents the target variable).
 
         ⚠️ Be careful: this assumes your data matches this structure. 
-        If your dataset contains categorical features or a different column arrangement, 
-        you will need to modify this part accordingly.
+        If your dataset contains categorical features or a different 
+        column arrangement, you will need to modify this part accordingly.
         """
+
 
         try:
             # numerical_columns = data.select_dtypes(include=["int64", "float64"]).columns
             # categorical_columns = data.select_dtypes(include=["object", "category"]).columns
 
-            numerical_columns = data.select_dtypes(include=["int64", "float64"]).columns[:-1]
+            numerical_columns = range(data.shape[1] - 1)
             categorical_columns = []
 
 
@@ -227,5 +237,6 @@ class EncoderPipeline:
 
         except Exception as e:
             custom_error = CustomException(e, sys)
-            logging.error({custom_error})
+            logging.error(custom_error)
+            raise
 

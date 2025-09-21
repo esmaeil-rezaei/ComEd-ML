@@ -2,6 +2,7 @@ import os
 import sys
 import numpy as np
 import pandas as pd
+from pathlib import Path
 from src.exception import CustomException
 from src.logger import logging
 from dataclasses import dataclass
@@ -18,6 +19,10 @@ from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
 from src.utils import save_object, evaluate_models
 
+@dataclass
+class ModelTrainerConfig:
+    trained_model_file_path: str = Path("models")
+
 
 class ModelTrainer:
     def __init__(
@@ -29,15 +34,16 @@ class ModelTrainer:
 
         self.strategy_name = strategy_name
         self.ml_models_name = ml_models_name
+        self.model_trainer_config = ModelTrainerConfig()
 
         if time_interval not in {0.5, 1.0, 2.0}:
             logging.error(
                 f"Invalid time_interval: {time_interval}. Must be one of 0.5, 1.0, or 2.0"
             )
-            raise ValueError
 
         self.trained_model_file_path = os.path.join(
-            "data", f"model_{strategy_name}.pkl"
+            self.model_trainer_config.trained_model_file_path,
+            f"model_{strategy_name}.pkl"
         )
 
     def train(self, data_train: np.ndarray, data_test: np.ndarray):
@@ -161,3 +167,4 @@ class ModelTrainer:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error({custom_error})
+            raise

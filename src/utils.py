@@ -252,7 +252,7 @@ def evaluate_models(X_train, y_train,X_test,y_test,models,param):
     except Exception as e:
         custom_error = CustomException(e, sys)
         logging.error(f"Error in evaluate_models: {custom_error}")
-
+        raise
 
 
 def extract_file(source: str, dest: str):
@@ -283,7 +283,7 @@ def load_npy(filename: str, source: str):
         return np.load(file_path)
     except Exception as e:
         custom_error = CustomException(e, sys)
-        logging.error(custom_error)
+        logging.error(f"Error for file path: {file_path} - {custom_error}")
         raise
 
 

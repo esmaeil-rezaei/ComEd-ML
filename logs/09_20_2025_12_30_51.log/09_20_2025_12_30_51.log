@@ -1,6 +1,0 @@
-[ 2025-09-20 12:30:52,186 ] 220 root - ERROR - {CustomException(FileNotFoundError(2, 'No such file or directory'))}
-[ 2025-09-20 12:30:52,200 ] 185 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/components/data_transformation.py] line number [137] error message[cannot unpack non-iterable NoneType object]
-[ 2025-09-20 12:30:52,200 ] 116 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/components/data_transformation.py] line number [58] error message[cannot unpack non-iterable NoneType object]
-[ 2025-09-20 12:30:52,200 ] 111 root - ERROR - {CustomException(TypeError('cannot unpack non-iterable NoneType object'))}
-[ 2025-09-20 12:30:52,200 ] 303 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/src/utils.py] line number [299] error message[[Errno 2] No such file or directory: 'data/model_rma_rbd.pkl']
-[ 2025-09-20 12:30:52,200 ] 387 root - ERROR - Error occured in python script name [/Users/ishmael/Documents/THESIS/ComEd October/ComEd-ML/research_project/model_comparison.py] line number [366] error message[[Errno 2] No such file or directory: 'data/model_rma_rbd.pkl']

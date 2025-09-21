@@ -1,15 +1,11 @@
 import numpy as np
 from src.exception import CustomException
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split
 from src.logger import logging
 from dataclasses import dataclass
 from src.utils import (
     RBD_method,
     PCA_method,
     load_npy,
-    save_object,
     customize_time_interval,
     make_data_r_time_intervals_dependent,
 )
@@ -114,6 +110,7 @@ class DataTransformation:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error(f"{custom_error}")
+            raise
 
     def _get_data_matrices(self):
         """
@@ -183,6 +180,7 @@ class DataTransformation:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error(custom_error)
+            raise
 
     def _reduce_dimension_of_concatenated_reduced_zipcodes(self):
         hierarchical_pca_data = []
@@ -218,6 +216,7 @@ class DataTransformation:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error({custom_error})
+            raise
 
     def _reduce_dimension_single_zipcode(self, filename):
         try:
@@ -260,3 +259,4 @@ class DataTransformation:
         except Exception as e:
             custom_error = CustomException(e, sys)
             logging.error(custom_error)
+            raise
