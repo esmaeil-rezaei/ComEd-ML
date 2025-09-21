@@ -38,6 +38,17 @@ Smart meter datasets present unique challenges due to their high-dimensional nat
 - ⚡ **HYBRID (HYbrid Basis Reduction via Interactive Decomposition)**: Ultra-fast hybrid approach
 - 📊 **Comparative Analysis**: Comprehensive evaluation against established methods
 
+
+<table>
+  <tr>
+    <td><img src="research_project/FIGs/dim_13_time_0.5_r_11/actual_vs_predicted_0.5_11r-1.png" alt="Image 1" width="500"/></td>
+    <td><img src="research_project/FIGs/dim_13_time_0.5_r_11/model_performance_comparison_0.5_11r-1.png" alt="Image 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="research_project/FIGs/dim_13_time_0.5_r_11/cumulative_error_distribution_0.5_11r-1.png" alt="Image 3" width="500"/></td>
+    <td><img src="research_project/FIGs/dim_13_time_0.5_r_11/time_series_comparison_0.5_11r-1.png" alt="Image 4" width="400"/></td>
+  </tr>
+</table>
 ---
 
 ## 📈 Impact & Applications

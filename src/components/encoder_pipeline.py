@@ -86,7 +86,7 @@ class EncoderPipeline:
                 test_data=self.test_rma_rbd,
             )
 
-            logging.warning("Preprocessing pipeline done for rma_rbd")
+            logging.info("Preprocessing pipeline done for rma_rbd")
 
             save_object(
                 file_path=self.encoder_pipeline_config.preprocessor_ama_obj_path,
@@ -204,7 +204,7 @@ class EncoderPipeline:
             # numerical_columns = data.select_dtypes(include=["int64", "float64"]).columns
             # categorical_columns = data.select_dtypes(include=["object", "category"]).columns
 
-            numerical_columns = range(data.shape[1] - 1)
+            numerical_columns = list(range(data.shape[1] - 1))
             categorical_columns = []
 
 

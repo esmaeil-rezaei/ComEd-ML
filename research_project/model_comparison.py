@@ -72,8 +72,8 @@ def load_and_evaluate_models():
     print("Loading trained models...")
     
     # Load models
-    trained_data_rma_rbd = load_object(file_path="data/model_rma_rbd.pkl")
-    trained_data_rma_pca = load_object(file_path="data/model_rma_pca.pkl")
+    trained_data_rma_rbd = load_object(file_path="models/model_rma_rbd.pkl")
+    trained_data_rma_pca = load_object(file_path="models/model_rma_pca.pkl")
     
     # Extract RMA-RBD data
     rma_rbd_regressor = trained_data_rma_rbd["best_model"]
@@ -339,19 +339,19 @@ def print_summary_statistics(metrics):
 def main():
     """Main execution function."""
     # Configuration parameters
-    wants_data_ingestion = False
+    wants_data_ingestion = True
     r = 11
     dim_reduction_size = 13
     time_interval = 0.5
     strategy_names = {"rma_rbd", "rma_pca"}
     ml_models_name = {
-        # "Random Forest",
-        # "Decision Tree",
-        # "Gradient Boosting",
+        "Random Forest",
+        "Decision Tree",
+        "Gradient Boosting",
         "Linear Regression",
         "XGBRegressor",
-        # "CatBoosting Regressor",
-        # "AdaBoost Regressor",
+        "CatBoosting Regressor",
+        "AdaBoost Regressor",
     }
     
     logging.info("Starting model evaluation and visualization pipeline...")
