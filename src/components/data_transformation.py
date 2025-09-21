@@ -1,3 +1,6 @@
+import os
+import sys
+import time
 import numpy as np
 from src.exception import CustomException
 from src.logger import logging
@@ -9,9 +12,6 @@ from src.utils import (
     customize_time_interval,
     make_data_r_time_intervals_dependent,
 )
-import os
-import sys
-import time
 
 
 @dataclass

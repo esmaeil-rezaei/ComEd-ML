@@ -9,14 +9,11 @@ __pycache__/
 *.pkl
 *.zip
 *.npy
+*.csv
+*.h5
+*.hdf5
 
 # Ignore virtual environments
 venv/
 env/
 comed-env/
-
-# Ignore artifacts
-data/raw/*
-data/raw_unzipped/*
-data/processed/*
-models/*
